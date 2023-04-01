@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"If I had a gun with two bullets, and I was in a room with Hitler, ben Laden, and Toby, I would shoot Toby twice https:\/\/t.co\/RV4zEQDQfj",
+    "1":"one time in sixth grade, which was 2001, a classmate called me \u201cHeyyy ben Laden!\u201d \n\nSo I, wanting to make a friend, shouted back \u201cYUP THATS ME, BEN LADEN,\u201d and my teacher immediately made ONLY ME write a 2 page paper on how dangerous he was to America."
+  },
+  "date":{
+    "0":1668553613000,
+    "1":1668225846000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.2
+  },
+  "mean_polarity":{
+    "0":-0.1,
+    "1":-0.1
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.6333333333
+  },
+  "mean_subjectivity":{
+    "0":0.3166666667,
+    "1":0.3166666667
+  },
+  "screen_name":{
+    "0":"imeneasssk",
+    "1":"BenLeiker"
+  },
+  "Likes":{
+    "0":2,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Louisiana",
+    "1":"Louisiana"
+  }
+}

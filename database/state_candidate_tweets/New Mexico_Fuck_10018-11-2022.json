@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"\u201c29 years later\u201d That means I got another 29 to fuck around God is good \ud83d\ude4c\ud83c\udffb https:\/\/t.co\/jifb4qiyYC",
+    "1":"fuck igwasborn https:\/\/t.co\/XnrhRY3nx1",
+    "2":"*me with crippling debt listening to the new Drake*\n\n\u201cI can\u2019t fuck with broke booooooys\ud83d\udde3\u201d"
+  },
+  "date":{
+    "0":1668481676000,
+    "1":1668045007000,
+    "2":1667967459000
+  },
+  "polarity":{
+    "0":0.1,
+    "1":-0.4,
+    "2":-0.1318181818
+  },
+  "mean_polarity":{
+    "0":-0.1439393939,
+    "1":-0.1439393939,
+    "2":-0.1439393939
+  },
+  "subjectivity":{
+    "0":0.4,
+    "1":0.6,
+    "2":0.5272727273
+  },
+  "mean_subjectivity":{
+    "0":0.5090909091,
+    "1":0.5090909091,
+    "2":0.5090909091
+  },
+  "screen_name":{
+    "0":"josayy_lmao",
+    "1":"gabimalano_",
+    "2":"josayy_lmao"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"New Mexico",
+    "1":"New Mexico",
+    "2":"New Mexico"
+  }
+}

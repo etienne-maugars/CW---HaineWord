@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"@kwesitimes @gyaigyimii Yeah, I wasn't saying anything about Rihanna's behavior. I was speaking only about Chris's words contradicting what was in the warrant. Which kind of makes it sound like this video is using selective editing. Who would have believed it?",
+    "1":"@rihanna @PrimeVideo @SavageXFenty \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+    "2":"a rihanna falando que a pessoa fodona que ela adoraria ver desfilando pra sxf seria a beyonc\u00e9, seria UM ACONTECIMENTO",
+    "3":"Quavo pays tribute to slain rapper and fellow Migos member Takeoff, and Rihanna has \"cherished\" the time that she's spent with her son. Get that and more celeb news here. https:\/\/t.co\/ozcvO84nc2",
+    "4":"Quavo pays tribute to slain rapper and fellow Migos member Takeoff, and Rihanna has \"cherished\" the time that she's spent with her son. Get that and more celeb news here. https:\/\/t.co\/TcmDn5tAka",
+    "5":"Get the latest news on Hot off the Wire, our daily news podcast. https:\/\/t.co\/f58llwmkLG",
+    "6":"Get the latest news on Hot off the Wire, our daily news podcast. https:\/\/t.co\/eYKbNBhUxO",
+    "7":"@porladerechaes @nicoaneko @edladino_ No s\u00e9 qui\u00e9n sea petro \nPero respecto a Rihanna, ella cantar\u00e1 en el super bowl porque ahora es una nueva empresa quien manejar\u00e1 los shows\nY Dua no rechaza eso por la comunidad, ella sabe lo que hay detr\u00e1s de esos estadios, nunca mencion\u00f3 a ma comunidad de hecho",
+    "8":"fuck Rihanna and fuck Drake btw, biggest losers on earth"
+  },
+  "date":{
+    "0":1668551712000,
+    "1":1668529678000,
+    "2":1668473040000,
+    "3":1668393602000,
+    "4":1668393543000,
+    "5":1668388742000,
+    "6":1668388683000,
+    "7":1668377289000,
+    "8":1668131950000
+  },
+  "polarity":{
+    "0":0.3333333333,
+    "1":0.0,
+    "2":0.0,
+    "3":0.2,
+    "4":0.2,
+    "5":0.25,
+    "6":0.25,
+    "7":0.3333333333,
+    "8":-0.3333333333
+  },
+  "mean_polarity":{
+    "0":0.137037037,
+    "1":0.137037037,
+    "2":0.137037037,
+    "3":0.137037037,
+    "4":0.137037037,
+    "5":0.137037037,
+    "6":0.137037037,
+    "7":0.137037037,
+    "8":0.137037037
+  },
+  "subjectivity":{
+    "0":0.7666666667,
+    "1":0.0,
+    "2":0.0,
+    "3":0.3,
+    "4":0.3,
+    "5":0.5833333333,
+    "6":0.5833333333,
+    "7":0.6666666667,
+    "8":0.4666666667
+  },
+  "mean_subjectivity":{
+    "0":0.4074074074,
+    "1":0.4074074074,
+    "2":0.4074074074,
+    "3":0.4074074074,
+    "4":0.4074074074,
+    "5":0.4074074074,
+    "6":0.4074074074,
+    "7":0.4074074074,
+    "8":0.4074074074
+  },
+  "screen_name":{
+    "0":"mslyson",
+    "1":"aalhouti94",
+    "2":"gaagabss",
+    "3":"helenaironline",
+    "4":"MontanaStandard",
+    "5":"helenaironline",
+    "6":"MontanaStandard",
+    "7":"saokurabizcocho",
+    "8":"illigalaffairs"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":3
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana",
+    "2":"Montana",
+    "3":"Montana",
+    "4":"Montana",
+    "5":"Montana",
+    "6":"Montana",
+    "7":"Montana",
+    "8":"Montana"
+  }
+}

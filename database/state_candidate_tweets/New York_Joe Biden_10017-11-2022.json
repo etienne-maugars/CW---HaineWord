@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"What\u2019s joe biden\u2019s plan to get my hispanic mother to stop believing anything and everything she reads on whatsapp https:\/\/t.co\/xWucqMH47C",
+    "1":"@Carla57509067 @JFrazier45133 @flyyy_g @BigBrotherBBJ @benshapiro Absolutely.  Like, I don\u2019t watch CNN, I don\u2019t idolize Joe Biden\u2026but these Trumpers always assume as much."
+  },
+  "date":{
+    "0":1668095491000,
+    "1":1667958798000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.2
+  },
+  "mean_polarity":{
+    "0":0.1,
+    "1":0.1
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.55
+  },
+  "mean_subjectivity":{
+    "0":0.275,
+    "1":0.275
+  },
+  "screen_name":{
+    "0":"farbi__",
+    "1":"ACZT2"
+  },
+  "Likes":{
+    "0":7,
+    "1":0
+  },
+  "RTs":{
+    "0":1,
+    "1":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York"
+  }
+}

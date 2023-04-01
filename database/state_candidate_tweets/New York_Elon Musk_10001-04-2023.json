@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"Miliarderi ka rr\u00ebzuar nga froni ish-presidentin Barack Obama, si personin m\u00eb t\u00eb ndjekur n\u00eb Twitter\n\n#ELONMUSK #Twitter #BarackObama \n\nhttps:\/\/t.co\/5EPAW6TIjo",
+    "1":"tentei assistir o v\u00eddeo tr\u00eas vezes e ele fica reiniciando parab\u00e9ns Elon musk voc\u00ea \u00e9 um bosta https:\/\/t.co\/0sRksGPlQo",
+    "2":"since we wont be able to use the polls anymore\n\nshould elon musk go fuck himself?",
+    "3":"Edhe Elon Musk d\u00ebshiron chatbot-in e tij t\u00eb Inteligjenc\u00ebs Artificiale\n\nhttps:\/\/t.co\/7JCibhLc7o"
+  },
+  "date":{
+    "0":1680202860000,
+    "1":1680041454000,
+    "2":1680026465000,
+    "3":1679752860000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.05,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.0125,
+    "1":0.0125,
+    "2":0.0125,
+    "3":0.0125
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.6125,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.153125,
+    "1":0.153125,
+    "2":0.153125,
+    "3":0.153125
+  },
+  "screen_name":{
+    "0":"revista_monitor",
+    "1":"mightypike",
+    "2":"mightypike",
+    "3":"revista_monitor"
+  },
+  "Likes":{
+    "0":1,
+    "1":5,
+    "2":8,
+    "3":0
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York",
+    "3":"New York"
+  }
+}

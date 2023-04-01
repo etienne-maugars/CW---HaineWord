@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@GlennTa05680872 @wolsned But it\u2019s ok for western kids to worship Cardi B and ASAP and Migos and Doja Cat?",
+    "1":"Tyrese Goes Full Drama, Orlando Brown Breaks The Internet, Doja Cat &amp; MO... https:\/\/t.co\/j1cqSnm8MI via @YouTube",
+    "2":"wtf pq a doja cat ta com o nome \"natal\" @DojaCat"
+  },
+  "date":{
+    "0":1668689839000,
+    "1":1668410047000,
+    "2":1668131086000
+  },
+  "polarity":{
+    "0":0.25,
+    "1":0.35,
+    "2":-0.5
+  },
+  "mean_polarity":{
+    "0":0.0333333333,
+    "1":0.0333333333,
+    "2":0.0333333333
+  },
+  "subjectivity":{
+    "0":0.25,
+    "1":0.55,
+    "2":1.0
+  },
+  "mean_subjectivity":{
+    "0":0.6,
+    "1":0.6,
+    "2":0.6
+  },
+  "screen_name":{
+    "0":"NReclining",
+    "1":"WynterStorm",
+    "2":"St4nt1"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Arkansas",
+    "1":"Arkansas",
+    "2":"Arkansas"
+  }
+}

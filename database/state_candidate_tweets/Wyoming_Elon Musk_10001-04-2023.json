@@ -1,0 +1,122 @@
+{
+  "full_text":{
+    "0":"@elonmusk Elon Musk: Am I cute yet? https:\/\/t.co\/QXQnfIpn1P",
+    "1":"@lunch_enjoyer @cheeto45 @CHARLESWINKY @Andrewcomedy2 So this is what Elon Musk needs people to see",
+    "2":"The inescapable irony inherent in concerns about the \"threats\" posed by A.I. is that these same threats have been posed and actually realized time after time by HUMAN behavior long before A.I. became a thing.\nhttps:\/\/t.co\/dBREgD3qai",
+    "3":"@christapeterso @elonmusk so basically whenever he asks \u201cis elon musk doing a good job?\u201d only those willing to send him money will be allowed to answer, got it.",
+    "4":"@elonchorch If you like, be Elon Musk, she go still send you to go buy bread and egg https:\/\/t.co\/HBcxFwOZdx",
+    "5":"@elonmusk have you seen this? https:\/\/t.co\/e2VN9RisP4",
+    "6":"I was feeling like my Twitter feed had some resemblance of normalcy - mainly Ag, research, ski resorts, and remembered that I unfollowed Elon Musk a couple weeks ago. I do recommend.",
+    "7":"@jestingtime Well if Elon Musk thinks it\u2019s funny then it must be right!?!?",
+    "8":"@TheShadowState1 I\u2019m about to purchase a new electric vehicle. I test drove a Tesla and, while I thought it was a bit overpriced, I liked it. But somehow, I just cannot support someone like Elon Musk so I\u2019m taking my business elsewhere.",
+    "9":"@MLB Why are you advertising with Elon Musk. He\u2019s a fascist man baby. Stop it or we will start dealing with your advertisers.  #MLBSupportsFascism"
+  },
+  "date":{
+    "0":1680289272000,
+    "1":1680174670000,
+    "2":1680112691000,
+    "3":1680028447000,
+    "4":1680014227000,
+    "5":1680010139000,
+    "6":1680007246000,
+    "7":1679931923000,
+    "8":1679755254000,
+    "9":1679719043000
+  },
+  "polarity":{
+    "0":0.5,
+    "1":0.0,
+    "2":-0.0125,
+    "3":0.3166666667,
+    "4":0.0,
+    "5":0.0,
+    "6":0.1666666667,
+    "7":0.3482142857,
+    "8":0.3681818182,
+    "9":0.0
+  },
+  "mean_polarity":{
+    "0":0.1687229437,
+    "1":0.1687229437,
+    "2":0.1687229437,
+    "3":0.1687229437,
+    "4":0.1687229437,
+    "5":0.1687229437,
+    "6":0.1687229437,
+    "7":0.1687229437,
+    "8":0.1687229437,
+    "9":0.1687229437
+  },
+  "subjectivity":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.18125,
+    "3":0.7833333333,
+    "4":0.0,
+    "5":0.0,
+    "6":0.3333333333,
+    "7":0.7678571429,
+    "8":0.6272727273,
+    "9":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3693046537,
+    "1":0.3693046537,
+    "2":0.3693046537,
+    "3":0.3693046537,
+    "4":0.3693046537,
+    "5":0.3693046537,
+    "6":0.3693046537,
+    "7":0.3693046537,
+    "8":0.3693046537,
+    "9":0.3693046537
+  },
+  "screen_name":{
+    "0":"DragonHarbinger",
+    "1":"ProbablyNotSerg",
+    "2":"McClureShawn",
+    "3":"_in_circles_",
+    "4":"Nkwobi_Freshnez",
+    "5":"BoFornwalt",
+    "6":"CSUwheat",
+    "7":"DieselNotVin",
+    "8":"sanovogo",
+    "9":"ElectoralEquity"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":5,
+    "3":0,
+    "4":6,
+    "5":0,
+    "6":7,
+    "7":1,
+    "8":0,
+    "9":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":2,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0,
+    "9":0
+  },
+  "state":{
+    "0":"Wyoming",
+    "1":"Wyoming",
+    "2":"Wyoming",
+    "3":"Wyoming",
+    "4":"Wyoming",
+    "5":"Wyoming",
+    "6":"Wyoming",
+    "7":"Wyoming",
+    "8":"Wyoming",
+    "9":"Wyoming"
+  }
+}

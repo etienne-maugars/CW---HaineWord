@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"Imagine in 200 years people are critically dissecting music and someone says \u201csee Doja Cat\u2019s compositions have accented dynamics, the way you\u2019re playing is more reminiscent of Queen\u2019s quick crescendos\u201d and there\u2019s only 10 other examples of good music (this is about classical)",
+    "1":"https:\/\/t.co\/ppiACCpLBv",
+    "2":"Doja cat is the only female rapper that deserves to be nominated.",
+    "3":"I'm glad Doja Cat, Beyonce, and Chris Brown were nominated though."
+  },
+  "date":{
+    "0":1668737018000,
+    "1":1668714527000,
+    "2":1668568911000,
+    "3":1668535480000
+  },
+  "polarity":{
+    "0":0.1760416667,
+    "1":0.0,
+    "2":0.0,
+    "3":0.5
+  },
+  "mean_polarity":{
+    "0":0.1690104167,
+    "1":0.1690104167,
+    "2":0.1690104167,
+    "3":0.1690104167
+  },
+  "subjectivity":{
+    "0":0.534375,
+    "1":0.0,
+    "2":0.5833333333,
+    "3":1.0
+  },
+  "mean_subjectivity":{
+    "0":0.5294270833,
+    "1":0.5294270833,
+    "2":0.5294270833,
+    "3":0.5294270833
+  },
+  "screen_name":{
+    "0":"jaden_365",
+    "1":"SUCH4S1MP",
+    "2":"JohnnyBbravoo",
+    "3":"HOOCHIPUCHI"
+  },
+  "Likes":{
+    "0":2,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Kansas",
+    "1":"Kansas",
+    "2":"Kansas",
+    "3":"Kansas"
+  }
+}

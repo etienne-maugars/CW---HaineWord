@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"@AdsMassey @RevoltPolitic @ggreenwald Of course, they\u2019d face consequences.  But if you think that the neo-cons are just going to weaken Russia\u2019s army and stop there then you\u2019re not paying attention.  We\u2019ll get calls for regime change soon enough.  Then Putin gets desperate and all bets are off.",
+    "1":"@thehill @IslandGirlPRV @TheHillOpinion If they want trump to be king they should make him king by starting a kingdom\u2026far\u2026far\u2026away. I\u2019m sure Putin would give him a piece of Siberia. They already love Russia.",
+    "2":"If Jimmy Breslin were alive, he'd be writing a book about Putin and Russia and call it \"The Country That Couldn't Shoot Straight\".",
+    "3":"One of the major reasons Putin isn't attending the G20 summit is likely from the domestic blowback from elite Kremlin circles after pulling out of Kherson, the only major city the Russia seized in this war. He's extraordinarily vulnerable right now. https:\/\/t.co\/lCRGOcTBIB",
+    "4":"Putin delaying the Russian withdrawal from Kherson until after the US election to not help Biden tells us everything we need to know about the GOP.",
+    "5":"Get the latest news on Hot off the Wire, our daily news podcast. https:\/\/t.co\/pHdT4xXjnD",
+    "6":"Meanwhile, Joe Biden mainly wants to open a channel with Putin to get WNBA star Brittney Griner out of a Russian penal colony. Get the latest on both storylines here. https:\/\/t.co\/XcmdlMHOyt",
+    "7":"@AOC It\u2019s like Putin congratulating himself for winning another election.",
+    "8":"Booker losing to non-Kentuckian, vaccine denying, Putin supporting, getting-his-pussy-ass-stomped by his neighbor @RandPaul is disappointing. Losing most of my empathy for a lot of the people in this state. A many don\u2019t,  but a lot deserve what they get."
+  },
+  "date":{
+    "0":1668614702000,
+    "1":1668555701000,
+    "2":1668554751000,
+    "3":1668363102000,
+    "4":1668203719000,
+    "5":1668087963000,
+    "6":1668055442000,
+    "7":1668012373000,
+    "8":1667956462000
+  },
+  "polarity":{
+    "0":-0.3,
+    "1":0.3333333333,
+    "2":0.15,
+    "3":-0.012755102,
+    "4":0.0,
+    "5":0.25,
+    "6":0.175,
+    "7":0.5,
+    "8":0.1625
+  },
+  "mean_polarity":{
+    "0":0.1397864701,
+    "1":0.1397864701,
+    "2":0.1397864701,
+    "3":0.1397864701,
+    "4":0.1397864701,
+    "5":0.1397864701,
+    "6":0.1397864701,
+    "7":0.1397864701,
+    "8":0.1397864701
+  },
+  "subjectivity":{
+    "0":0.75,
+    "1":0.5296296296,
+    "2":0.4,
+    "3":0.5908163265,
+    "4":0.0,
+    "5":0.5833333333,
+    "6":0.375,
+    "7":0.75,
+    "8":0.4875
+  },
+  "mean_subjectivity":{
+    "0":0.4962532544,
+    "1":0.4962532544,
+    "2":0.4962532544,
+    "3":0.4962532544,
+    "4":0.4962532544,
+    "5":0.4962532544,
+    "6":0.4962532544,
+    "7":0.4962532544,
+    "8":0.4962532544
+  },
+  "screen_name":{
+    "0":"brenarlo",
+    "1":"WholePlateWay",
+    "2":"HougenJ",
+    "3":"LegasovAnalytic",
+    "4":"HougenJ",
+    "5":"bistrib",
+    "6":"bistrib",
+    "7":"ImmortanLuis",
+    "8":"DraftCats"
+  },
+  "Likes":{
+    "0":0,
+    "1":2,
+    "2":1,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":4
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota",
+    "5":"North Dakota",
+    "6":"North Dakota",
+    "7":"North Dakota",
+    "8":"North Dakota"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@JLMelenchon Staline les a battu ... Il a fait beaucoup mieux"
+  },
+  "date":{
+    "0":1668597159000
+  },
+  "polarity":{
+    "0":0.0
+  },
+  "mean_polarity":{
+    "0":0.0
+  },
+  "subjectivity":{
+    "0":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0
+  },
+  "screen_name":{
+    "0":"Fanedi002"
+  },
+  "Likes":{
+    "0":0
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"Oklahoma"
+  }
+}

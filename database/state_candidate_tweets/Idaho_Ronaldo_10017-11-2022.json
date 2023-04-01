@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"Ronaldo comes off narcissistic and conceited but I think most of what he says about the club is true, it\u2019s the way he says things that make him look real bad here. I think Utd took a bigger L although it\u2019s a bad look for both",
+    "1":"Who is taking a bigger L with Ronaldo\u2019s interview going public?",
+    "2":"If it isn\u2019t at least 50% yes on here I doubt it\u2019s happening, I figure \u201cyes\u201d will be higher than public opinion as some Ronaldo fanboys will find this tweet",
+    "3":"Will Cristiano Ronaldo transfer to a club in the Champions League last 16 this winter? #ronaldo",
+    "4":"@W0yaanopxcked @TyagiCuler @brfootball @beINSPORTSUSA If Auxerre who played your club in UCL football this century are \u201celectricians\u201d, I don\u2019t even want to know how Ronaldo didn\u2019t drop a hat trick against both Pneumonia and the Moldovan police department",
+    "5":"@benedikt_dieker Could use a similar argument for fans who began supporting their club because of Messi or Ronaldo, every club on Earth has seen their fanbase become global in the last 15 years. No club is immune to having plastic supporters",
+    "6":"@BigLeagBallers @ryanwhitney6 The gap between Messi\/Ronaldo and the next best players of the 10s (Modric, Bale, Lewa, etc.) is so much smaller than the gap between McDavid and the next best NHL guys (MacKinnon, Matthews, Makar, etc.)\n\nAlso all good NHL player's names start with M."
+  },
+  "date":{
+    "0":1668464868000,
+    "1":1668459734000,
+    "2":1668379016000,
+    "3":1668378590000,
+    "4":1668349279000,
+    "5":1668281902000,
+    "6":1668125232000
+  },
+  "polarity":{
+    "0":-0.17,
+    "1":0.0,
+    "2":-0.0166666667,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0625,
+    "6":0.45
+  },
+  "mean_polarity":{
+    "0":0.046547619,
+    "1":0.046547619,
+    "2":0.046547619,
+    "3":0.046547619,
+    "4":0.046547619,
+    "5":0.046547619,
+    "6":0.046547619
+  },
+  "subjectivity":{
+    "0":0.6633333333,
+    "1":0.2833333333,
+    "2":0.3222222222,
+    "3":0.0666666667,
+    "4":0.0,
+    "5":0.1791666667,
+    "6":0.2833333333
+  },
+  "mean_subjectivity":{
+    "0":0.2568650794,
+    "1":0.2568650794,
+    "2":0.2568650794,
+    "3":0.2568650794,
+    "4":0.2568650794,
+    "5":0.2568650794,
+    "6":0.2568650794
+  },
+  "screen_name":{
+    "0":"psg_boise",
+    "1":"psg_boise",
+    "2":"psg_boise",
+    "3":"psg_boise",
+    "4":"psg_boise",
+    "5":"psg_boise",
+    "6":"Nathan_26_"
+  },
+  "Likes":{
+    "0":2,
+    "1":2,
+    "2":2,
+    "3":3,
+    "4":0,
+    "5":5,
+    "6":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":0,
+    "5":0,
+    "6":0
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho",
+    "3":"Idaho",
+    "4":"Idaho",
+    "5":"Idaho",
+    "6":"Idaho"
+  }
+}

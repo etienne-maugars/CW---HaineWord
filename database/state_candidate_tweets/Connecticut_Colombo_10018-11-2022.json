@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Love today \ud83d\udd25\n\n#Lovetoday Houseful shows in Savoy Colombo \n\nIt\u2019s unstoppable now \n\n@pradeeponelife @thisisysr @Ags_production @archanakalpathi @aishkalpathi @agscinemas @iYogiBabu @i__ivana_ @RedGiantMovies_ https:\/\/t.co\/vLRjz5jdgt",
+    "1":"@drdabbles @Grady_Booch @karaswisher @Nouriel Go watch some Colombo episodes and learn something.",
+    "2":"@wildy_martinez Wildy, your taste is impeccable. Austin\u2019s previous book, \u201cSteal Like An Artist\u201d changed my life. I recommend \u201cNew York\u201d by Jorge Colombo. https:\/\/t.co\/zZi7RG90ro"
+  },
+  "date":{
+    "0":1668357844000,
+    "1":1668237545000,
+    "2":1668011894000
+  },
+  "polarity":{
+    "0":0.5,
+    "1":0.0,
+    "2":0.2398989899
+  },
+  "mean_polarity":{
+    "0":0.2466329966,
+    "1":0.2466329966,
+    "2":0.2466329966
+  },
+  "subjectivity":{
+    "0":0.6,
+    "1":0.0,
+    "2":0.4570707071
+  },
+  "mean_subjectivity":{
+    "0":0.3523569024,
+    "1":0.3523569024,
+    "2":0.3523569024
+  },
+  "screen_name":{
+    "0":"ItsYugan",
+    "1":"steve_dondley",
+    "2":"raheemnelsonart"
+  },
+  "Likes":{
+    "0":328,
+    "1":1,
+    "2":1
+  },
+  "RTs":{
+    "0":13,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Connecticut",
+    "1":"Connecticut",
+    "2":"Connecticut"
+  }
+}

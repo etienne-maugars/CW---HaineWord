@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@PootPoot @Bucks I feel like Colombo saying this but: \"Just one more thing....\" another one of your prints that I bought. This one was of Miller Park that was autographed by @Kestdaddy. I donated it to my favorite fundraiser. It raised some nice money for \"Asher's Heart\" a couple of years ago. \ud83d\ude0a",
+    "1":"@jumbo_colombo Not a want but a NEED"
+  },
+  "date":{
+    "0":1668440322000,
+    "1":1668172628000
+  },
+  "polarity":{
+    "0":0.5333333333,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.2666666667,
+    "1":0.2666666667
+  },
+  "subjectivity":{
+    "0":0.8333333333,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.4166666667,
+    "1":0.4166666667
+  },
+  "screen_name":{
+    "0":"packbrewfan",
+    "1":"theylorswift13"
+  },
+  "Likes":{
+    "0":0,
+    "1":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Wisconsin",
+    "1":"Wisconsin"
+  }
+}

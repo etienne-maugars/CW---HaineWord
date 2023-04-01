@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"I love @Grammarly, but if you have an equation-heavy page in @Microsoft Word, do your sanity a favor and disable Grammarly while you are editing that file, or it will be like 1992 frustratingly slow!",
+    "1":"@bzuillsmith @praneetaprakash Ah yes, the --use-container works for \"most\" environments but not .Net. To get the CLI install .Net locally from here -&gt; https:\/\/t.co\/57jpWL8nIo",
+    "2":"Should I Consider Switching to Microsoft's Edge Browser. Watch video: https:\/\/t.co\/28udfO1mWr",
+    "3":"Microsoft Announces AI Supply Chain Platform https:\/\/t.co\/wR1jlKBnqV #EnvironmentalManagement #SustainableManufacturingDesign",
+    "4":"Did you look at allnof the communications that were blocked, by Microsoft on emails and Twitter before Elon Musk could stop it, Facebook and every media outlet across our nation.  Free speech does not include blocking the ones you disagree with or hate!  We all have the same. https:\/\/t.co\/1rY7eKvtQF"
+  },
+  "date":{
+    "0":1668713179000,
+    "1":1668625122000,
+    "2":1668542413000,
+    "3":1668531483000,
+    "4":1668001359000
+  },
+  "polarity":{
+    "0":0.0625,
+    "1":0.25,
+    "2":0.0,
+    "3":0.0,
+    "4":-0.2
+  },
+  "mean_polarity":{
+    "0":0.0225,
+    "1":0.0225,
+    "2":0.0225,
+    "3":0.0225,
+    "4":0.0225
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.25,
+    "2":0.0,
+    "3":0.0,
+    "4":0.6083333333
+  },
+  "mean_subjectivity":{
+    "0":0.2716666667,
+    "1":0.2716666667,
+    "2":0.2716666667,
+    "3":0.2716666667,
+    "4":0.2716666667
+  },
+  "screen_name":{
+    "0":"drdanteaches",
+    "1":"edjgeek",
+    "2":"TechFramework",
+    "3":"ELDaily",
+    "4":"ALLucas70"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":0
+  },
+  "state":{
+    "0":"Wyoming",
+    "1":"Wyoming",
+    "2":"Wyoming",
+    "3":"Wyoming",
+    "4":"Wyoming"
+  }
+}

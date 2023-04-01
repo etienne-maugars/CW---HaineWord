@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@BallsackSports Akron ko, Macron ni",
+    "1":"Macron when told the U.K. is now paying \u20ac72,000,000 for French police! https:\/\/t.co\/THOYbcP09d",
+    "2":"@jguaido Jajajaj y que r\u00e9gimen, todos son iguales, pero t\u00fa eres el peor, viste como unos de tus amos Macron llamo Presidente a Maduro,\ud83d\ude2d, y t\u00fa entonces que eres?\ud83e\udd2a"
+  },
+  "date":{
+    "0":1668596382000,
+    "1":1668432913000,
+    "2":1668108034000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"futuregcfr",
+    "1":"chrismcg21",
+    "2":"JDCA3"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Wisconsin",
+    "1":"Wisconsin",
+    "2":"Wisconsin"
+  }
+}

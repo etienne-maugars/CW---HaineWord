@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Congratulations to Bilal Kamal &amp; the Wildcats! \ud83c\udfc6 https:\/\/t.co\/SWta2viXI5",
+    "1":"Virtual poster for #SfN22 now available! I'll also be presenting in-person on Tue 11\/15, 10-11AM. If you're interested in decision-making, RL, and motivation, come check out our poster (@VincentCostaPhd @bari_bilal @JeremiahYCohen @ali_r_soltani) to say hello! \n #SfN2022 https:\/\/t.co\/EY6ijzcsDP"
+  },
+  "date":{
+    "0":1668376333000,
+    "1":1668113007000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.40625
+  },
+  "mean_polarity":{
+    "0":0.203125,
+    "1":0.203125
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.45
+  },
+  "mean_subjectivity":{
+    "0":0.225,
+    "1":0.225
+  },
+  "screen_name":{
+    "0":"VermontGreenFC",
+    "1":"jaehyungwoo"
+  },
+  "Likes":{
+    "0":16,
+    "1":22
+  },
+  "RTs":{
+    "0":1,
+    "1":6
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont"
+  }
+}

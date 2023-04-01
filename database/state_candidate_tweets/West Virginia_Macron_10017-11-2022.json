@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"@LB2S Son prix nobel date de 1947. Des oeuvres ouvertement p\u00e9dophiles (Les nourritures terrestres, Si le grain ne meurt, Corydon, l'immoraliste, leJournal) sont r\u00e9guli\u00e8rement au programme des Capes, Agreg, bac. M\u00eame E. Macron avait choisi les Nourritures sur sa photo officielle.(2\/2)",
+    "1":"Macron also thought he could negotiate with Putin before 2nd invasion of Ukraine.\n\nHe is largely naive or pursuing a naive path. He should frankly fall back in line and let @vonderleyen @JosepBorrellF @eucopresident deal with this on behalf of the EU block. https:\/\/t.co\/cLqHMii3ol",
+    "2":"\"Hun gned sig i h\u00e6nderne, da hun t\u00f8rrede 230 migranter af p\u00e5 Macron. Nu mobiliserer han ved gr\u00e6nsen\" - Berlingske https:\/\/t.co\/Nhzz1b4rqX",
+    "3":"@elonmusk @EmmanuelMacron E.Macron is a terrible President just like Joe",
+    "4":"@FootbaIIFckUps Best celebration ever!\nThank you Macron, for those amazing jerseys..",
+    "5":"@KyivIndependent Wait a minute. Is this the same Monsieur Macron who was on his own negotiating with Putin a few short weeks ago?",
+    "6":"https:\/\/t.co\/nb1WyDngz9",
+    "7":"https:\/\/t.co\/OK8lKXME7t"
+  },
+  "date":{
+    "0":1668673499000,
+    "1":1668594038000,
+    "2":1668542073000,
+    "3":1668445825000,
+    "4":1668246071000,
+    "5":1668223898000,
+    "6":1667993102000,
+    "7":1667929611000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.15,
+    "2":0.0,
+    "3":-1.0,
+    "4":0.8,
+    "5":0.1,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_polarity":{
+    "0":-0.03125,
+    "1":-0.03125,
+    "2":-0.03125,
+    "3":-0.03125,
+    "4":-0.03125,
+    "5":-0.03125,
+    "6":-0.03125,
+    "7":-0.03125
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.5,
+    "2":0.0,
+    "3":1.0,
+    "4":0.6,
+    "5":0.38125,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.31015625,
+    "1":0.31015625,
+    "2":0.31015625,
+    "3":0.31015625,
+    "4":0.31015625,
+    "5":0.31015625,
+    "6":0.31015625,
+    "7":0.31015625
+  },
+  "screen_name":{
+    "0":"blaise_blase",
+    "1":"RuneLinding",
+    "2":"disinformate_dk",
+    "3":"Dentsuo1",
+    "4":"NDaug96",
+    "5":"DavidHertz6",
+    "6":"FatManz65",
+    "7":"onehousedragon"
+  },
+  "Likes":{
+    "0":0,
+    "1":2,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":1,
+    "6":0,
+    "7":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "state":{
+    "0":"West Virginia",
+    "1":"West Virginia",
+    "2":"West Virginia",
+    "3":"West Virginia",
+    "4":"West Virginia",
+    "5":"West Virginia",
+    "6":"West Virginia",
+    "7":"West Virginia"
+  }
+}

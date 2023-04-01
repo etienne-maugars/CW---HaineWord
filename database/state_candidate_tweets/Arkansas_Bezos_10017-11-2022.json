@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"@theetwelfth @Trainman2520 @libertycappy You right. Better to spend that $8 on Amazon or something. Bezos will use the money much more wisely.",
+    "1":"\u201cYou know what\u2019s super annoying about Jeff Bezos? Here\u2019s a guy who could write me a check for a billion &amp; it wouldn\u2019t even touch him. But has he?\u201d @gregcote \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "2":"Superyacht Lover Jeff Bezos Plans to Give His Billions to Fight Climate\u00a0Change https:\/\/t.co\/d3L4s1EYoX",
+    "3":"Oh so Bezos had to do a lil good PR it all makes sense now https:\/\/t.co\/5wvk7Rza21",
+    "4":"https:\/\/t.co\/HmUSdlA3o5\nAmazon founder Jeff Bezos plans to give most of his $124bn fortune away\nTo cure world hunger?",
+    "5":"The country music legend is known for \"putting her money where her heart is.\" https:\/\/t.co\/q02h95Elz0",
+    "6":"@JeffBezos @DollyParton @VanJones68 This is so precious story I am thinking of Jeff\u2019s heart toward around the world among with Amazon. I am Hard of Hearing as want to thank you for helping hiring many disabilities to work for Amazon ! AWESOME ! Millions Thanks to Mr and Mrs Bezos and Family ! Hand Waves",
+    "7":"Jeff Bezos Shares a Funny Story About First Amazon Order in 1995! https:\/\/t.co\/RXdVMmSA7V via @YouTube Jeff Bezos 27 years ago.",
+    "8":"Jay Z and Bezos the new owners already?? https:\/\/t.co\/3mcuBEsu01"
+  },
+  "date":{
+    "0":1668532200000,
+    "1":1668526782000,
+    "2":1668524456000,
+    "3":1668480159000,
+    "4":1668426718000,
+    "5":1668376806000,
+    "6":1668355791000,
+    "7":1668208905000,
+    "8":1668015916000
+  },
+  "polarity":{
+    "0":0.4964285714,
+    "1":-0.2333333333,
+    "2":0.0,
+    "3":0.7,
+    "4":0.5,
+    "5":0.0,
+    "6":0.4166666667,
+    "7":0.28125,
+    "8":0.1363636364
+  },
+  "mean_polarity":{
+    "0":0.255263949,
+    "1":0.255263949,
+    "2":0.255263949,
+    "3":0.255263949,
+    "4":0.255263949,
+    "5":0.255263949,
+    "6":0.255263949,
+    "7":0.255263949,
+    "8":0.255263949
+  },
+  "subjectivity":{
+    "0":0.6089285714,
+    "1":0.7833333333,
+    "2":0.0,
+    "3":0.6,
+    "4":0.5,
+    "5":0.0,
+    "6":0.6483333333,
+    "7":0.6666666667,
+    "8":0.4545454545
+  },
+  "mean_subjectivity":{
+    "0":0.473534151,
+    "1":0.473534151,
+    "2":0.473534151,
+    "3":0.473534151,
+    "4":0.473534151,
+    "5":0.473534151,
+    "6":0.473534151,
+    "7":0.473534151,
+    "8":0.473534151
+  },
+  "screen_name":{
+    "0":"SpontaneityVR",
+    "1":"RealMarkFreeman",
+    "2":"CptPeeWee",
+    "3":"rohallma",
+    "4":"S0UNDK1LLAH66",
+    "5":"THV11",
+    "6":"Anthony99364566",
+    "7":"othersfirstking",
+    "8":"WhoWill_JWill"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":1,
+    "3":1,
+    "4":0,
+    "5":6,
+    "6":1,
+    "7":0,
+    "8":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":1,
+    "4":0,
+    "5":1,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"Arkansas",
+    "1":"Arkansas",
+    "2":"Arkansas",
+    "3":"Arkansas",
+    "4":"Arkansas",
+    "5":"Arkansas",
+    "6":"Arkansas",
+    "7":"Arkansas",
+    "8":"Arkansas"
+  }
+}

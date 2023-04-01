@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Lebron ranks 37th in FTA per game; here are a few of the names above him: \n\nPorzingis, Isiah Stewart, Saddiq Bey, Alperen Sengun, Keldon Johnson, Kyrie Irving (who hasn\u2019t played since Nov 1st), Bennedict Mathurin, Julius Randle, KPJ https:\/\/t.co\/jBJgHIqAKF",
+    "1":"These are the demands from Israel United In Christ for #Kyrie Irving to return the #NBA!\n\n#KyrieIrving #KyrieWasRight #jews #jewish https:\/\/t.co\/oKKt2yLxRj"
+  },
+  "date":{
+    "0":1668134825000,
+    "1":1668116547000
+  },
+  "polarity":{
+    "0":-0.2,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":-0.1,
+    "1":-0.1
+  },
+  "subjectivity":{
+    "0":0.2,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1,
+    "1":0.1
+  },
+  "screen_name":{
+    "0":"dxtwoxfour",
+    "1":"IUICHawaii"
+  },
+  "Likes":{
+    "0":0,
+    "1":19
+  },
+  "RTs":{
+    "0":0,
+    "1":7
+  },
+  "state":{
+    "0":"Hawaii",
+    "1":"Hawaii"
+  }
+}

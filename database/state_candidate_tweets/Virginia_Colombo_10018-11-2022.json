@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@jumbo_colombo Wow\nYou a top 4 sure"
+  },
+  "date":{
+    "0":1668364205000
+  },
+  "polarity":{
+    "0":0.3666666667
+  },
+  "mean_polarity":{
+    "0":0.3666666667
+  },
+  "subjectivity":{
+    "0":0.7962962963
+  },
+  "mean_subjectivity":{
+    "0":0.7962962963
+  },
+  "screen_name":{
+    "0":"tominbuckhead"
+  },
+  "Likes":{
+    "0":0
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"Virginia"
+  }
+}

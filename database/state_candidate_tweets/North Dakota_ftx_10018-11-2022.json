@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"Hard to believe FTX got a platform on Real Vision. Zero due diligence was done on this company or most of the people they brought on from the \u201ccrypto\u201d community. https:\/\/t.co\/4OjGDgxpg2",
+    "1":"@CryptoWisdom9 @psyopcop @SBF_FTX If they\u2019re j\u0435wish, sure.",
+    "2":"Crypto collapse triggers Hill face-off over regulation https:\/\/t.co\/a9aWu4wQDE via @politico",
+    "3":"@basedkarbon @SBF_FTX You can\u2019t appeal to a j\u0435w\u2019s sympathies. They are evil.",
+    "4":"The FTX Collapse Explained in 99 Seconds https:\/\/t.co\/T2rIg3bD4f via @YouTube",
+    "5":"@DorisYangLi FTX\u7684\u5458\u5de5\u66fe\u7ecf\u8ddf\u4f60\u4e00\u6837\u7684\u611f\u53d7",
+    "6":"Facebook parent Meta is laying off 13% of its employees. Get more info on that and more recent business news here. https:\/\/t.co\/iomMT8VofQ",
+    "7":"An estimated $477 million has gone missing. https:\/\/t.co\/JRaHlz1Y3g",
+    "8":"It took less than a week for FTX to go from the third-largest cryptocurrency exchange in the world to bankruptcy court. https:\/\/t.co\/ViBBK6KMRo"
+  },
+  "date":{
+    "0":1668715964000,
+    "1":1668634322000,
+    "2":1668551184000,
+    "3":1668517354000,
+    "4":1668468991000,
+    "5":1668418380000,
+    "6":1668389463000,
+    "7":1668362411000,
+    "8":1668205200000
+  },
+  "polarity":{
+    "0":0.0708333333,
+    "1":0.5,
+    "2":0.0,
+    "3":-1.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.3333333333,
+    "7":-0.2,
+    "8":-0.1666666667
+  },
+  "mean_polarity":{
+    "0":-0.0513888889,
+    "1":-0.0513888889,
+    "2":-0.0513888889,
+    "3":-0.0513888889,
+    "4":-0.0513888889,
+    "5":-0.0513888889,
+    "6":-0.0513888889,
+    "7":-0.0513888889,
+    "8":-0.0513888889
+  },
+  "subjectivity":{
+    "0":0.4291666667,
+    "1":0.8888888889,
+    "2":0.0,
+    "3":1.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.4166666667,
+    "7":0.05,
+    "8":0.0666666667
+  },
+  "mean_subjectivity":{
+    "0":0.3168209877,
+    "1":0.3168209877,
+    "2":0.3168209877,
+    "3":0.3168209877,
+    "4":0.3168209877,
+    "5":0.3168209877,
+    "6":0.3168209877,
+    "7":0.3168209877,
+    "8":0.3168209877
+  },
+  "screen_name":{
+    "0":"LegasovAnalytic",
+    "1":"Marko_Manko",
+    "2":"NDNewsCoop",
+    "3":"Marko_Manko",
+    "4":"Volk_06",
+    "5":"FableSunny",
+    "6":"bistrib",
+    "7":"KFYRTV",
+    "8":"KFYRTV"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":1,
+    "5":1,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":1,
+    "8":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota",
+    "5":"North Dakota",
+    "6":"North Dakota",
+    "7":"North Dakota",
+    "8":"North Dakota"
+  }
+}

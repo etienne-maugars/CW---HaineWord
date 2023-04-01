@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@90DayFiance @TLC Bilal is not nice to her at all. She really trying too. I feel bad for her just watching.",
+    "1":"Her BFF is handling Bilal the way he should be handled. #90DayFianceHappilyEverAfter"
+  },
+  "date":{
+    "0":1668632130000,
+    "1":1668394736000
+  },
+  "polarity":{
+    "0":-0.2666666667,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":-0.1333333333,
+    "1":-0.1333333333
+  },
+  "subjectivity":{
+    "0":0.6222222222,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3111111111,
+    "1":0.3111111111
+  },
+  "screen_name":{
+    "0":"borimami68",
+    "1":"karmarocks802"
+  },
+  "Likes":{
+    "0":0,
+    "1":4
+  },
+  "RTs":{
+    "0":0,
+    "1":1
+  },
+  "state":{
+    "0":"Indiana",
+    "1":"Indiana"
+  }
+}

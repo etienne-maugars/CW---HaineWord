@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"Christian Pulisic https:\/\/t.co\/fGoGuFToUo",
+    "1":"@sportbible \ud83c\udfc6- Brazil\n\ud83d\udc40- Uruguay\n\ud83d\udcc9- England \n\u26bd\ufe0f- Christian Pulisic\n\ud83c\udfaf- Pedri \n\ud83c\udf1f- Eduardo Camavinga",
+    "2":"@khaal53 I\u2019d argue that Pulisic playing at 9 with Reyna\/Weah\/Aaronson as wingers might be the best option. I\u2019d hate to limit Pulisic\u2019s coverage and inclusion, but he played some at Chelsea.",
+    "3":"Left Wing\n\nAaronson and Pulisic are locks, simple, with Aaronson being used primarily as a 'super-sub' to provide a spark off the bench\n\nJordan Morris will be used in a similar light, but will be brought on to score goals. His inclusion should keep Arriola out of the squad"
+  },
+  "date":{
+    "0":1668570355000,
+    "1":1668283687000,
+    "2":1668124487000,
+    "3":1667920994000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.1,
+    "3":0.16
+  },
+  "mean_polarity":{
+    "0":0.065,
+    "1":0.065,
+    "2":0.065,
+    "3":0.065
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.6,
+    "3":0.3914285714
+  },
+  "mean_subjectivity":{
+    "0":0.2478571429,
+    "1":0.2478571429,
+    "2":0.2478571429,
+    "3":0.2478571429
+  },
+  "screen_name":{
+    "0":"griffingarnatz",
+    "1":"griffingarnatz",
+    "2":"derekcruik",
+    "3":"logan_blackman"
+  },
+  "Likes":{
+    "0":4,
+    "1":1,
+    "2":1,
+    "3":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Iowa",
+    "1":"Iowa",
+    "2":"Iowa",
+    "3":"Iowa"
+  }
+}

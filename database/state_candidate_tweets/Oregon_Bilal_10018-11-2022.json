@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@Bilal_ho_yr Yea",
+    "1":"Eutrice is giving Bilal a look that says \u201cI am coming for your entire being\u201d and Eutrice is meeeee #90DayFiance",
+    "2":"@MMBilal49 Happy birthday Bilal\ud83d\ude01",
+    "3":"@HopeInspire I am watching the most recent episode and Bilal mansplains to Shae that she doesn\u2019t have any credit.  I cannot stand Bilal - Shae either needs to forget the baby and yoga studio idea or leave.  She could get a job at a yoga studio, that might help her feel better.",
+    "4":"@HopeInspire The way Bilal \u201cmansplains\u201d everything to Shae is so annoying!  Bilal will never have another baby or open a yoga studio - NEVER!!"
+  },
+  "date":{
+    "0":1668544695000,
+    "1":1668395320000,
+    "2":1668289943000,
+    "3":1668271199000,
+    "4":1668270942000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.8,
+    "3":0.3333333333,
+    "4":-0.5
+  },
+  "mean_polarity":{
+    "0":0.1266666667,
+    "1":0.1266666667,
+    "2":0.1266666667,
+    "3":0.1266666667,
+    "4":0.1266666667
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.625,
+    "2":1.0,
+    "3":0.4166666667,
+    "4":0.7
+  },
+  "mean_subjectivity":{
+    "0":0.5483333333,
+    "1":0.5483333333,
+    "2":0.5483333333,
+    "3":0.5483333333,
+    "4":0.5483333333
+  },
+  "screen_name":{
+    "0":"HeyGuday",
+    "1":"heyitslivagain",
+    "2":"RusselArnold69",
+    "3":"knauss29",
+    "4":"knauss29"
+  },
+  "Likes":{
+    "0":0,
+    "1":10,
+    "2":1,
+    "3":1,
+    "4":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Oregon",
+    "1":"Oregon",
+    "2":"Oregon",
+    "3":"Oregon",
+    "4":"Oregon"
+  }
+}

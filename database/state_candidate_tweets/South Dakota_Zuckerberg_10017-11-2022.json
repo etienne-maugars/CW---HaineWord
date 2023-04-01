@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@greg16676935420 @Tesla So let's talk about your face... Are you what an offspring of Zuckerberg and Musk would look like? https:\/\/t.co\/LLUeAhKK3x",
+    "1":"Mark Zuckerberg do better with Facebook and the super sensitive people who want attention and then report them because they get the attention that they wanted",
+    "2":"#Facebook must be in need of funds. #RetailMeNot advertiser has 8 consecutive ads on my feed. Eight, one right after another. It started with 1, went to 3, then 4, 5, 6, 7, 8. Apparently, #Zuckerberg let ALL employees go because NO ONE IS MANNING THE JOINT!"
+  },
+  "date":{
+    "0":1668573664000,
+    "1":1668221982000,
+    "2":1668133423000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.3111111111,
+    "2":0.1741071429
+  },
+  "mean_polarity":{
+    "0":0.161739418,
+    "1":0.161739418,
+    "2":0.161739418
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.6888888889,
+    "2":0.4428571429
+  },
+  "mean_subjectivity":{
+    "0":0.3772486772,
+    "1":0.3772486772,
+    "2":0.3772486772
+  },
+  "screen_name":{
+    "0":"Nicker2006",
+    "1":"Robjr86",
+    "2":"DarlaBl69611374"
+  },
+  "Likes":{
+    "0":2,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota",
+    "2":"South Dakota"
+  }
+}

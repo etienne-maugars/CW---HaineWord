@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"Doja Cat - Kiss Me More (Official Video) ft. SZA https:\/\/t.co\/asubQskGxp via @YouTube, Right Now Y'all Kickin Off The Big 3 Of The Day Here's That # 3 Video In The World Tonight, It's \"Kiss Me More\" From @DojaCat Feat @sza, This Is On Fire And My Song",
+    "1":"Tena ni doja cat laban na laban",
+    "2":"@DancingAvocado @UnicornTeeth_ @christapeterso @snd1101 It was Doja Cat https:\/\/t.co\/mIsE9FFTZM",
+    "3":"Doja Cat and Elon Musk going back and forth we are in a simulation. https:\/\/t.co\/I2TMa1FUTE",
+    "4":"I just listened to all of Doja Cat\u2019s voice recordings \ud83d\ude02\ud83d\ude02\ud83d\ude02"
+  },
+  "date":{
+    "0":1668553220000,
+    "1":1668533999000,
+    "2":1668489112000,
+    "3":1668110135000,
+    "4":1668071164000
+  },
+  "polarity":{
+    "0":0.3214285714,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.0642857143,
+    "1":0.0642857143,
+    "2":0.0642857143,
+    "3":0.0642857143,
+    "4":0.0642857143
+  },
+  "subjectivity":{
+    "0":0.4089285714,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0817857143,
+    "1":0.0817857143,
+    "2":0.0817857143,
+    "3":0.0817857143,
+    "4":0.0817857143
+  },
+  "screen_name":{
+    "0":"scottyj2014",
+    "1":"chaceburger",
+    "2":"sunfishz",
+    "3":"sendgucci",
+    "4":"_attitudes"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":33,
+    "3":5,
+    "4":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Wisconsin",
+    "1":"Wisconsin",
+    "2":"Wisconsin",
+    "3":"Wisconsin",
+    "4":"Wisconsin"
+  }
+}

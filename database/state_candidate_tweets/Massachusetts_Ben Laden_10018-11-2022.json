@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@JamessonVictor Antouka c psychology kap fet la, pa GEn moun sou te a Ki tande DOJ mete chaj sa sou do ou pou pa tranble! Mande gwo el chapo, Mande Pablo Escobar vwa pou ti mesye pa kanpe sou anyen! Sa rele psychology ! Si ameriken t vle vin pran yo, li tap vini! Yo pran Ben laden ale wa! Yap",
+    "1":"@geslysinvilier Les am\u00e9ricains ont accus\u00e9 ces petits chefs de gang de kidnapping! Quand DOJ accuse certaines personnes de crimes, il ne va  pas d\u00e9barquer dans ces pays pour capturer ces accus\u00e9s ! Example El chapo et tant d\u2019autres! Ben Laden, cas sp\u00e9cial ! Mais on vous suit!!!",
+    "2":"@geslysinvilier D\u2019o\u00f9 viennent ces comparaisons ? Ben Laden, le chef terroriste, le plus notoire du monde, ayant caus\u00e9 la mort de plus 3 milles citoyens dans une attaque terroriste sans pareil, et puis vous le comparez \u00e0 des petits chefs de gang locaux?  This is called  Apple \ud83c\udf4e and oranges \ud83c\udf4a"
+  },
+  "date":{
+    "0":1668107267000,
+    "1":1668035250000,
+    "2":1668034726000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"jkcelestin",
+    "1":"jkcelestin",
+    "2":"jkcelestin"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Massachusetts",
+    "1":"Massachusetts",
+    "2":"Massachusetts"
+  }
+}

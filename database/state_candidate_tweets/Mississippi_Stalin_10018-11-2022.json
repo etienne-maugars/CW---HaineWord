@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"c\nJoseph Stalin famously said: \u201cThose who cast the votes decide nothing. Those who count the votes decide everything.\u201d",
+    "1":"Worked for decades for Stalin. https:\/\/t.co\/fVKYvN25az",
+    "2":"@johnrackham82 Stalin said doesn\u2019t matter who vote it who count the vote",
+    "3":"@ashtonpittman My guess is dude would not know communism if Zombie Stalin broke down his back door.",
+    "4":"\"It\u2019s about who gets to count the vote: who gets to count whether or not your vote counted at all.\" Joe Biden\n\n\"I regard it as completely unimportant who in the party will vote and how, but it is extremely important who will count the votes and how.\" Joseph Stalin",
+    "5":"Holocaust denialism steams from a lack of trust in historical academia \nThe \"they got this wrong or lied about this so what else are they wrong about or lied about\" mind set add in the examples of Stalin having photos edited and conspiracy theories sprinkled with antisemitism https:\/\/t.co\/ryeeRWpKfP",
+    "6":"@katiehobbs Like Joe Stalin himself. Absolutely disgraceful",
+    "7":"@marcorubio \u201cIt\u2019s not important who votes! What\u2019s important is who counts the votes!\u201d\nSTALIN",
+    "8":"@willchamberlain Joesph Stalin said it isn\u2019t who votes it who\u2019s counts them democrats has cheated since JFK Only way they can win"
+  },
+  "date":{
+    "0":1668628134000,
+    "1":1668620314000,
+    "2":1668469890000,
+    "3":1668454693000,
+    "4":1668433748000,
+    "5":1668216381000,
+    "6":1668179645000,
+    "7":1668030257000,
+    "8":1668006977000
+  },
+  "polarity":{
+    "0":0.5,
+    "1":0.0,
+    "2":0.0,
+    "3":-0.0777777778,
+    "4":0.0,
+    "5":-0.3333333333,
+    "6":0.2,
+    "7":0.125,
+    "8":0.4
+  },
+  "mean_polarity":{
+    "0":0.0904320988,
+    "1":0.0904320988,
+    "2":0.0904320988,
+    "3":0.0904320988,
+    "4":0.0904320988,
+    "5":0.0904320988,
+    "6":0.0904320988,
+    "7":0.0904320988,
+    "8":0.0904320988
+  },
+  "subjectivity":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.1444444444,
+    "4":0.975,
+    "5":0.6,
+    "6":0.9,
+    "7":1.0,
+    "8":0.7
+  },
+  "mean_subjectivity":{
+    "0":0.5910493827,
+    "1":0.5910493827,
+    "2":0.5910493827,
+    "3":0.5910493827,
+    "4":0.5910493827,
+    "5":0.5910493827,
+    "6":0.5910493827,
+    "7":0.5910493827,
+    "8":0.5910493827
+  },
+  "screen_name":{
+    "0":"Hawkmistress55",
+    "1":"WesChadwick2",
+    "2":"OleDollar44",
+    "3":"Tammy_Beth",
+    "4":"str8jktmn",
+    "5":"HistoryVareck",
+    "6":"Jeffery13719311",
+    "7":"PappyPete1874",
+    "8":"OleDollar44"
+  },
+  "Likes":{
+    "0":0,
+    "1":3,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":2,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"Mississippi",
+    "1":"Mississippi",
+    "2":"Mississippi",
+    "3":"Mississippi",
+    "4":"Mississippi",
+    "5":"Mississippi",
+    "6":"Mississippi",
+    "7":"Mississippi",
+    "8":"Mississippi"
+  }
+}

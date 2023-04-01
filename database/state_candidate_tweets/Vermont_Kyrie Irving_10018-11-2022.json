@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Dave Chapelle's monologue made me--I mean this literally--sick to my stomach. \n\nWhat a fucking asshole. \n\nAmong other things: nobody is BLAMING Kyrie Irving for the Holocaust. We are blaming him for the things he said and the choices he made.",
+    "1":"\"Looking forward to playing the game, you know Ky, he's a gamer, he loves to play,\" Durant said[\u2026]\n\nI dunno, there might be a growing (many seasons long) body of evidence to suggest that maybe Kyrie does not, in fact, love to play. \ud83e\udd37\u200d\u2642\ufe0f https:\/\/t.co\/TAL3y60jaK"
+  },
+  "date":{
+    "0":1668526683000,
+    "1":1668310369000
+  },
+  "polarity":{
+    "0":-0.3458333333,
+    "1":0.1375
+  },
+  "mean_polarity":{
+    "0":-0.1041666667,
+    "1":-0.1041666667
+  },
+  "subjectivity":{
+    "0":0.6208333333,
+    "1":0.475
+  },
+  "mean_subjectivity":{
+    "0":0.5479166667,
+    "1":0.5479166667
+  },
+  "screen_name":{
+    "0":"adamdavidson",
+    "1":"thomasjpr"
+  },
+  "Likes":{
+    "0":340,
+    "1":0
+  },
+  "RTs":{
+    "0":21,
+    "1":0
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont"
+  }
+}

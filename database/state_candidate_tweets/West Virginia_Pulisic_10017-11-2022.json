@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"- Players had different phases of playing, nobody came close to appearing in all matches\n- Top 3 goal contributors: Pulisic, McKennie, Morris\n- Core of team in their prime or just entering, aged 22-30\n- Gio Reyna highly valued but very little experience in competitives https:\/\/t.co\/iBi8stWfJY",
+    "1":"@JimDandyMD @USMNT @SeanJohnGK We won't miss someone who only knows Pulisic \ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude02",
+    "2":"Pulisic on, c\u2019mon!",
+    "3":"@richard16958977 @delwright21 @usmntonly USMNT don\u2019t need Pulisic to be successful\u2026",
+    "4":"@305Fanatic @usmntonly Wouldn't mind a front three of Weah Pulisic and Reyna either... I know Josh is in form rn, just sayin",
+    "5":"@KayLMurray @ESPNFC to all, right or wrong statement, the sooner Christian Pulisic figures out he's a midtable team player,the better for everyone?"
+  },
+  "date":{
+    "0":1668640197000,
+    "1":1668464841000,
+    "2":1668278139000,
+    "3":1668237882000,
+    "4":1668195594000,
+    "5":1668116429000
+  },
+  "polarity":{
+    "0":0.06325,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0714285714
+  },
+  "mean_polarity":{
+    "0":0.0224464286,
+    "1":0.0224464286,
+    "2":0.0224464286,
+    "3":0.0224464286,
+    "4":0.0224464286,
+    "5":0.0224464286
+  },
+  "subjectivity":{
+    "0":0.538,
+    "1":1.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.4839285714
+  },
+  "mean_subjectivity":{
+    "0":0.3369880952,
+    "1":0.3369880952,
+    "2":0.3369880952,
+    "3":0.3369880952,
+    "4":0.3369880952,
+    "5":0.3369880952
+  },
+  "screen_name":{
+    "0":"seeingthegame",
+    "1":"reisb4",
+    "2":"ThorBovbjerg",
+    "3":"Ryan_Spigner",
+    "4":"lowco_Hotspur",
+    "5":"sgtbarnes4"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":5,
+    "5":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "state":{
+    "0":"West Virginia",
+    "1":"West Virginia",
+    "2":"West Virginia",
+    "3":"West Virginia",
+    "4":"West Virginia",
+    "5":"West Virginia"
+  }
+}

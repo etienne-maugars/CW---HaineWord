@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@The_MoonCricket \u201cWhere that nigga who don\u2019t play mind games at?\u201d -doja cat \ud83c\udfb6",
+    "1":"@DojaCat @elonmusk Doja Cat converting to Judaism. L'chayim!"
+  },
+  "date":{
+    "0":1668595731000,
+    "1":1668064805000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"NinaNoirNinja",
+    "1":"CiabanItReal"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho"
+  }
+}

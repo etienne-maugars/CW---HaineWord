@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@TheLaurenChen Add Macron and Biden to your weak and awkward \u201cleaders\u201d",
+    "1":"White House press pooler \"asked POTUS and Macron of France if they had a reaction to Trump announcing a run in 2024. They looked at each other briefly and shared the faintest of smirks. 'Not really,' POTUS said...\"",
+    "2":"Macron YouTube blogger career off to a great start. Bonne chance!! https:\/\/t.co\/Da8BDwvtZ8",
+    "3":"@AOC Jimmy Carter Commission said mail in ballots unacceptable because of potential for fraud. Europeans do not allow mail in ballots for same reason. Ask Macron. Main reason to have them-fraud. Election Day replaced by election season.",
+    "4":"On Monday at COP27, French President Emmanuel Macron backed a new push for the climate finance conversation to be measured in trillions. Get the latest from @jdrakehamilton at COP27: https:\/\/t.co\/NqkE3fRN6p."
+  },
+  "date":{
+    "0":1668629980000,
+    "1":1668571380000,
+    "2":1668366323000,
+    "3":1667954509000,
+    "4":1667936707000
+  },
+  "polarity":{
+    "0":-0.4875,
+    "1":-0.05625,
+    "2":1.0,
+    "3":0.0555555556,
+    "4":0.2121212121
+  },
+  "mean_polarity":{
+    "0":0.1447853535,
+    "1":0.1447853535,
+    "2":0.1447853535,
+    "3":0.1447853535,
+    "4":0.1447853535
+  },
+  "subjectivity":{
+    "0":0.8125,
+    "1":0.2270833333,
+    "2":0.75,
+    "3":0.4861111111,
+    "4":0.4515151515
+  },
+  "mean_subjectivity":{
+    "0":0.5454419192,
+    "1":0.5454419192,
+    "2":0.5454419192,
+    "3":0.5454419192,
+    "4":0.5454419192
+  },
+  "screen_name":{
+    "0":"DonMinnesota",
+    "1":"JimRosicaFL",
+    "2":"tombsheets",
+    "3":"NoelDrnoel",
+    "4":"FreshEnergy"
+  },
+  "Likes":{
+    "0":0,
+    "1":4,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Florida",
+    "1":"Florida",
+    "2":"Florida",
+    "3":"Florida",
+    "4":"Florida"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Here\u2019s a song for you\u2026\n You Right by Doja Cat, #TheWeeknd\nhttps:\/\/t.co\/K11F08KpRm",
+    "1":"Doja Cat better win at least 2 of those Grammys!"
+  },
+  "date":{
+    "0":1668717499000,
+    "1":1668536799000
+  },
+  "polarity":{
+    "0":0.2857142857,
+    "1":0.3083333333
+  },
+  "mean_polarity":{
+    "0":0.2970238095,
+    "1":0.2970238095
+  },
+  "subjectivity":{
+    "0":0.5357142857,
+    "1":0.4333333333
+  },
+  "mean_subjectivity":{
+    "0":0.4845238095,
+    "1":0.4845238095
+  },
+  "screen_name":{
+    "0":"AHMD_GOHAR",
+    "1":"DoggoneLoverr_"
+  },
+  "Likes":{
+    "0":1,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada"
+  }
+}

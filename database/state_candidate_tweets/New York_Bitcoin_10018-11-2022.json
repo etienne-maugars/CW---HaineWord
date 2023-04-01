@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"Crypto market since the collapse of exchange FTX last week\n\nBitcoin tanked to $16,730.40-The cryptocurrency's price has tumbled 18% this month.\nEther lost 40% down to $1,258.09.\nFTT, the digital currency created by FTX, jumped 19% the last 24 hrs to $1.79, according to @CoinDesk https:\/\/t.co\/UIfMXuZzXq",
+    "1":"Stocks In early action:\n\nThe S&amp;P 500 was down 0.33%.\nThe Dow Jones Industrial Average fell 0.3%, or 89 points.\nThe Nasdaq Composite was down 0.7%.\nThe 10-year Treasury yield rose to 3.861%.\nBitcoin's price was $16,549, up 1% over the past 24 hours.\n#market #data https:\/\/t.co\/Y9L4PL4PNZ",
+    "2":"@Ashcryptoreal #Bitcoin hit under 10.000 $ soon",
+    "3":"The crypto crisis worsened as FTX filed for bankruptcy!\nTanking Bitcoin &amp; ether to a year low.\n\nThus far,the digital currency has lost about a quarter of its value this week, via @CoinDesk \n#cryptocrash https:\/\/t.co\/7wg8kRLKlf",
+    "4":"Bitcoin, Ether Prices Buoyed By Cooling Inflation Report\n\nThursday's inflation report sent stocks and bonds rallying. It also supported dipping further of cryptocurrencies.\n#cryptomarket #cryptocrash https:\/\/t.co\/DWYXj6CO83",
+    "5":"USA destroyed Gadaffi because he wanted to create African Dollar.\nUSA destroyed Sadam Husein because he wanted to stop paying Oil with US Dollar.\nand Nayib Bukele thought he can fight $$ with #BTC, but now El Salvador #Bitcoin are stucked on FTX.\n\nEverything happens for a reason.",
+    "6":"Bitcoin hit its lowest level in two years today!!\n\nPressure on cryptocurrencies continues, as traders mull whether crypto exchange @binance  will actually acquire rival FTX and amid lingering concerns over contagion in the loosely regulated industry!\n#cryptocrash https:\/\/t.co\/NMQxS2XpoT"
+  },
+  "date":{
+    "0":1668539415000,
+    "1":1668454574000,
+    "2":1668374467000,
+    "3":1668194366000,
+    "4":1668107100000,
+    "5":1668073897000,
+    "6":1668023961000
+  },
+  "polarity":{
+    "0":-0.0388888889,
+    "1":0.0126984127,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":-0.0480769231
+  },
+  "mean_polarity":{
+    "0":-0.0106096285,
+    "1":-0.0106096285,
+    "2":-0.0106096285,
+    "3":-0.0106096285,
+    "4":-0.0106096285,
+    "5":-0.0106096285,
+    "6":-0.0106096285
+  },
+  "subjectivity":{
+    "0":0.1055555556,
+    "1":0.3682539683,
+    "2":0.0,
+    "3":0.15,
+    "4":0.5,
+    "5":0.0,
+    "6":0.1846153846
+  },
+  "mean_subjectivity":{
+    "0":0.1869178441,
+    "1":0.1869178441,
+    "2":0.1869178441,
+    "3":0.1869178441,
+    "4":0.1869178441,
+    "5":0.1869178441,
+    "6":0.1869178441
+  },
+  "screen_name":{
+    "0":"the_journalbiz",
+    "1":"the_journalbiz",
+    "2":"ila_suli",
+    "3":"the_journalbiz",
+    "4":"the_journalbiz",
+    "5":"labinotbjrm",
+    "6":"the_journalbiz"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":0,
+    "5":35,
+    "6":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":13,
+    "6":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York",
+    "3":"New York",
+    "4":"New York",
+    "5":"New York",
+    "6":"New York"
+  }
+}

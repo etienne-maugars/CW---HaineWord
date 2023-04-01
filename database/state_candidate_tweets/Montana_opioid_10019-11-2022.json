@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Walmart agrees to pay $3.1 billion to settle opioid lawsuits https:\/\/t.co\/YGCiALEXM5",
+    "1":"Walmart agrees to pay $3.1 billion to settle opioid lawsuits https:\/\/t.co\/0WCa5siywK"
+  },
+  "date":{
+    "0":1668515682000,
+    "1":1668515648000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"helenaironline",
+    "1":"MontanaStandard"
+  },
+  "Likes":{
+    "0":1,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana"
+  }
+}

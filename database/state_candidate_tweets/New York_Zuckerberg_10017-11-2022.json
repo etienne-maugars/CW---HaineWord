@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@strixlol1 ryan novo mark zuckerberg",
+    "1":"https:\/\/t.co\/hG3rHtGlmF",
+    "2":"Shares of @Meta rose after Zuckerberg said company would cut more than 11,000 jobs.\n\nThe shares are up 8%, on pace for their largest one-day percentage increase since a more-than-17% jump in April, according to @DowJones market data.\n#socialmedia #MetaLayOffs https:\/\/t.co\/gTO1B17uPv"
+  },
+  "date":{
+    "0":1668622051000,
+    "1":1668109326000,
+    "2":1668022067000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.55
+  },
+  "mean_polarity":{
+    "0":0.1833333333,
+    "1":0.1833333333,
+    "2":0.1833333333
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.725
+  },
+  "mean_subjectivity":{
+    "0":0.2416666667,
+    "1":0.2416666667,
+    "2":0.2416666667
+  },
+  "screen_name":{
+    "0":"Sanoolol",
+    "1":"gshqip",
+    "2":"the_journalbiz"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":4
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":3
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York"
+  }
+}

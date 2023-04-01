@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"querendo imitar a doja cat juro que mulher mais tonga de zero personalidade passo mal https:\/\/t.co\/5W8KIPAKvF",
+    "1":"Damn I love me some Doja Cat \ud83d\ude2e\u200d\ud83d\udca8 \n\nShe drop all bangers, and that ass! Lol",
+    "2":"@imagemrara a doja cat gosta desses",
+    "3":"Now Playing: Doja Cat - Vegas (Click Here To Listen Now!) https:\/\/t.co\/LogDc5ycyb",
+    "4":"Ye Doja cat hai ??????\ud83e\udd74\ud83e\udd22\ud83e\udd22\ud83e\udd22 https:\/\/t.co\/ZUdhz1ZVG0",
+    "5":"@nicholasdeorio The doja cat."
+  },
+  "date":{
+    "0":1668477834000,
+    "1":1668350106000,
+    "2":1668307529000,
+    "3":1668255399000,
+    "4":1668151339000,
+    "5":1668113756000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.7125,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0
+  },
+  "mean_polarity":{
+    "0":0.11875,
+    "1":0.11875,
+    "2":0.11875,
+    "3":0.11875,
+    "4":0.11875,
+    "5":0.11875
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.65,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1083333333,
+    "1":0.1083333333,
+    "2":0.1083333333,
+    "3":0.1083333333,
+    "4":0.1083333333,
+    "5":0.1083333333
+  },
+  "screen_name":{
+    "0":"charutocomuna",
+    "1":"jonesonacloud",
+    "2":"beayodaluv",
+    "3":"601radi0",
+    "4":"Chandra_gupt7",
+    "5":"SaiyanSlayn"
+  },
+  "Likes":{
+    "0":2,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "state":{
+    "0":"Mississippi",
+    "1":"Mississippi",
+    "2":"Mississippi",
+    "3":"Mississippi",
+    "4":"Mississippi",
+    "5":"Mississippi"
+  }
+}

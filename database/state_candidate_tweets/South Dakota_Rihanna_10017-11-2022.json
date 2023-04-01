@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Who is Rihanna \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https:\/\/t.co\/GnNIyGibMx",
+    "1":"Rihanna really put Johnny in the show like he\u2019s a victim \ud83d\ude2d\ud83d\ude02\ud83d\ude2d\ud83d\ude02"
+  },
+  "date":{
+    "0":1668464264000,
+    "1":1668002831000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0625
+  },
+  "mean_polarity":{
+    "0":0.03125,
+    "1":0.03125
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.125
+  },
+  "mean_subjectivity":{
+    "0":0.0625,
+    "1":0.0625
+  },
+  "screen_name":{
+    "0":"Big__Bash",
+    "1":"Big__Bash"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota"
+  }
+}

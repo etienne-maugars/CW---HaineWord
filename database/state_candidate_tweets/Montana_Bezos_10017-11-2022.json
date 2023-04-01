@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"Bezos had been criticized for not signing the Giving Pledge, a campaign to encourage billionaires to donate the majority of their wealth through philanthropy. https:\/\/t.co\/CIKtlRbSsO",
+    "1":"Bezos had been criticized for not signing the Giving Pledge, a campaign to encourage billionaires to donate the majority of their wealth through philanthropy. https:\/\/t.co\/R4Db21KhMN",
+    "2":"Dolly Parton is the latest recipient of the Bezos Courage and Civility Award. https:\/\/t.co\/tcdGasx1ig",
+    "3":"Dolly Parton is the latest recipient of the Bezos Courage and Civility Award. https:\/\/t.co\/PkUrest1CG"
+  },
+  "date":{
+    "0":1668447363000,
+    "1":1668447362000,
+    "2":1668432903000,
+    "3":1668432842000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.5,
+    "3":0.5
+  },
+  "mean_polarity":{
+    "0":0.25,
+    "1":0.25,
+    "2":0.25,
+    "3":0.25
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.9,
+    "3":0.9
+  },
+  "mean_subjectivity":{
+    "0":0.45,
+    "1":0.45,
+    "2":0.45,
+    "3":0.45
+  },
+  "screen_name":{
+    "0":"MontanaStandard",
+    "1":"helenaironline",
+    "2":"helenaironline",
+    "3":"MontanaStandard"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana",
+    "2":"Montana",
+    "3":"Montana"
+  }
+}

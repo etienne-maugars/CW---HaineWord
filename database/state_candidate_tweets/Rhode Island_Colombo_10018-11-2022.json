@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"@RetroCoast Love Colombo",
+    "1":"@elwaynob @seanmahoney56 No. Brockton Colombo",
+    "2":"@Trivia_Boss Peter Falk.  Colombo.",
+    "3":"@jumbo_colombo OMG!"
+  },
+  "date":{
+    "0":1668393020000,
+    "1":1668365592000,
+    "2":1668252482000,
+    "3":1668019442000
+  },
+  "polarity":{
+    "0":0.5,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.125,
+    "1":0.125,
+    "2":0.125,
+    "3":0.125
+  },
+  "subjectivity":{
+    "0":0.6,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.15,
+    "1":0.15,
+    "2":0.15,
+    "3":0.15
+  },
+  "screen_name":{
+    "0":"har26606511",
+    "1":"LynchieWCVB",
+    "2":"Tom96676",
+    "3":"AlexReimer1"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":0,
+    "3":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Rhode Island",
+    "1":"Rhode Island",
+    "2":"Rhode Island",
+    "3":"Rhode Island"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@tvswrld Pulisic stan I'm creasing",
+    "1":"@tvswrld @anelka39i Pulisic is horrible rest",
+    "2":"@Muyricosuave @xUSMNTJUNKIEx @_Susaeta So by your definition (and Santi\u2019s apparently ) rating a player high enough to be on the WC squad, but just not high enough to start ahead of Pulisic is not rating him at all. Oh brother!"
+  },
+  "date":{
+    "0":1668620892000,
+    "1":1668025554000,
+    "2":1667954143000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-1.0,
+    "2":0.026
+  },
+  "mean_polarity":{
+    "0":-0.3246666667,
+    "1":-0.3246666667,
+    "2":-0.3246666667
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":1.0,
+    "2":0.486
+  },
+  "mean_subjectivity":{
+    "0":0.4953333333,
+    "1":0.4953333333,
+    "2":0.4953333333
+  },
+  "screen_name":{
+    "0":"Neymologyy",
+    "1":"Neymologyy",
+    "2":"StevenGale8"
+  },
+  "Likes":{
+    "0":12,
+    "1":0,
+    "2":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Wyoming",
+    "1":"Wyoming",
+    "2":"Wyoming"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"Doja cat\/michael Jackson\/janet Jackson\/pop smoke\/ coi Leray \/beyonce https:\/\/t.co\/TtgPABRnrB",
+    "1":"Jerritt Clark\/Getty Images for LOEWE Doja Cat\u00a0may be brimming\u00a0with confidence, but the hitmaker admits she used to... https:\/\/t.co\/NzxnT75LHJ",
+    "2":"I had a dream that Doja Cat died and now I\u2019m sad \ud83d\ude02",
+    "3":"why are there several doja cat voice memos on my tl is she okay",
+    "4":"me and Doja Cat in the same boat https:\/\/t.co\/BS4pFYbbGW",
+    "5":"@thoughtfulbae Doja Cat is basically the female Drake",
+    "6":"Doja cat \ud83e\udd2d\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d",
+    "7":"Lil Baby because Doja Cat isn\u2019t a rapper https:\/\/t.co\/HZRxKDgtMc"
+  },
+  "date":{
+    "0":1668744243000,
+    "1":1668720666000,
+    "2":1668286739000,
+    "3":1668280865000,
+    "4":1668115383000,
+    "5":1668089408000,
+    "6":1668083839000,
+    "7":1668055985000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":-0.5,
+    "3":0.25,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_polarity":{
+    "0":-0.03125,
+    "1":-0.03125,
+    "2":-0.03125,
+    "3":-0.03125,
+    "4":-0.03125,
+    "5":-0.03125,
+    "6":-0.03125,
+    "7":-0.03125
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":1.0,
+    "3":0.25,
+    "4":0.125,
+    "5":0.1666666667,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1927083333,
+    "1":0.1927083333,
+    "2":0.1927083333,
+    "3":0.1927083333,
+    "4":0.1927083333,
+    "5":0.1927083333,
+    "6":0.1927083333,
+    "7":0.1927083333
+  },
+  "screen_name":{
+    "0":"kissdabreeze",
+    "1":"live993va",
+    "2":"_paigemackk_",
+    "3":"kiirawira",
+    "4":"notreallyjcm",
+    "5":"OpinionIsAFact",
+    "6":"nista_g",
+    "7":"Darksince78"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":8,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":1,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "state":{
+    "0":"Virginia",
+    "1":"Virginia",
+    "2":"Virginia",
+    "3":"Virginia",
+    "4":"Virginia",
+    "5":"Virginia",
+    "6":"Virginia",
+    "7":"Virginia"
+  }
+}

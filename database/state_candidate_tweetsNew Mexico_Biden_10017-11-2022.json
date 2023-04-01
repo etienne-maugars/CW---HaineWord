@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Necesito saber que va a hacer el gaga de Biden ahora que llegaron misiles rusos a Polonia",
+    "1":"BIDEN | \"S\u00e9 que mi optimismo les ha molestado un poco\", dijo el presidente de Estados Unidos tras los comicios de medio t\u00e9rmino. Tambi\u00e9n revel\u00f3 que est\u00e1 dispuesto a ir por la reelecci\u00f3n en 2024\n https:\/\/t.co\/5tGkHKZy3g",
+    "2":"INTERNACIONALES | El presidente ucraniano hizo un llamado al gobierno de Washington. Mientras, en el pa\u00eds norteamericano, se disputan las elecciones cuyos resultados podr\u00edan afectar el apoyo de Biden a Ucrania.\n https:\/\/t.co\/6AXPDyOXGp"
+  },
+  "date":{
+    "0":1668541764000,
+    "1":1668081659000,
+    "2":1667926676000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"Searchyy",
+    "1":"Radio_Eme",
+    "2":"Radio_Eme"
+  },
+  "Likes":{
+    "0":2,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1
+  },
+  "state":{
+    "0":"New Mexico",
+    "1":"New Mexico",
+    "2":"New Mexico"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@politvidchannel No- she's attached herself to Kanye West. Next it will be Herschel Walker.",
+    "1":"\ud83d\ude06 Are you telling me Kayne didn't even own the IP??? That freaking dude! \ud83e\udd23\n\nKanye West's worst nightmare is coming true \u2014 Adidas plans to sell Yeezys under new branding\nhttps:\/\/t.co\/SIqp2CyBkl",
+    "2":"Why Elon Musk's Interpretation of Free Speech Is Harming America https:\/\/t.co\/IU9FxAqqZA"
+  },
+  "date":{
+    "0":1668115575000,
+    "1":1668030418000,
+    "2":1667934387000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0590909091,
+    "2":0.4
+  },
+  "mean_polarity":{
+    "0":0.153030303,
+    "1":0.153030303,
+    "2":0.153030303
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.7761363636,
+    "2":0.8
+  },
+  "mean_subjectivity":{
+    "0":0.5253787879,
+    "1":0.5253787879,
+    "2":0.5253787879
+  },
+  "screen_name":{
+    "0":"BadAzU",
+    "1":"chrisbrown2075",
+    "2":"WorksGrill"
+  },
+  "Likes":{
+    "0":4,
+    "1":1,
+    "2":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho"
+  }
+}

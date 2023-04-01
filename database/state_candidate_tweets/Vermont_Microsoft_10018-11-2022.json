@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"Excited The White House highlighted at the #g20 Summit the #USAID supported #Microsoft-Airband ISP Incentive Fund. Resonance is proud to be partnering in this initiative to catalyze investment for and expansion of internet networks in hard-to-reach communities around the world. https:\/\/t.co\/rEv5qbqhgt",
+    "1":"@BetterStackHQ You mean the tool logparser 2.2 that Microsoft has provided for free for 10(?) years?! The one that runs SQL queries against web and event logs, csv, most anything? \n\nFree does seem like an unbeatable price!",
+    "2":"contracts fully! \n\n7. Change of Careers, I have aims to get into the nitty gritty! \ud83d\ude02 Microsoft, @yugalabs , or even @Apple \ud83e\udee3\n\n*also sorry for how broken up this was I\u2019m not a thread \ud83e\uddf5 typewriter \ud83d\ude05 PS @elonmusk if you could improve characters limits on post would be great!\ud83d\udc4d",
+    "3":"@pehenne On stata specifically, you can get an institution license so everyone can download. It's weird. \n\nBut this idea of cloud based everything is everywhere now, like Microsoft 365 which I hate. I don't want a subscription, I want the software.",
+    "4":"Today I earned my \"Power Apps portals architecture\" badge! I\u2019m so proud to be celebrating this achievement and hope this inspires you to start your own @MicrosoftLearn journey! https:\/\/t.co\/vvOlfLPJjN",
+    "5":"Playing on certain maps its very easy to loose track of a dino! Finding them can be even harder! Steam users can download mods for this kinda stuff but not Xbox, PS, Epic, or the Microsoft store (pc) can. Please it would be such a minor thing but would make a world of difference!",
+    "6":"International Day of Zoo &amp; Aquarium Educators, World HTLV Day, Area Code Day, Microsoft Windows Day, International Science Center &amp; Science Museum Day, Toothpaste Appreciation Day, International Tempranillo Day, and National Vanilla Cupcake Day!\n#holiday #celebrate #remembrance",
+    "7":"Fascinating story developing\u2026Microsoft, GitHub and OpenAI were named in a proposed class action lawsuit for scraping public data to train AI. The case is early stages, but has the potential to massively reshape the generative AI scene. https:\/\/t.co\/ua8lxj72XE"
+  },
+  "date":{
+    "0":1668632054000,
+    "1":1668386526000,
+    "2":1668354389000,
+    "3":1668200567000,
+    "4":1668167332000,
+    "5":1668087646000,
+    "6":1668041974000,
+    "7":1667958072000
+  },
+  "polarity":{
+    "0":0.3916666667,
+    "1":0.296875,
+    "2":-0.3,
+    "3":-0.65,
+    "4":0.775,
+    "5":0.0848521716,
+    "6":-0.025,
+    "7":0.15
+  },
+  "mean_polarity":{
+    "0":0.0904242298,
+    "1":0.0904242298,
+    "2":0.0904242298,
+    "3":0.0904242298,
+    "4":0.0904242298,
+    "5":0.0904242298,
+    "6":0.0904242298,
+    "7":0.0904242298
+  },
+  "subjectivity":{
+    "0":0.5833333333,
+    "1":0.696875,
+    "2":0.7166666667,
+    "3":0.95,
+    "4":1.0,
+    "5":0.4200941915,
+    "6":0.025,
+    "7":0.5527777778
+  },
+  "mean_subjectivity":{
+    "0":0.6180933712,
+    "1":0.6180933712,
+    "2":0.6180933712,
+    "3":0.6180933712,
+    "4":0.6180933712,
+    "5":0.6180933712,
+    "6":0.6180933712,
+    "7":0.6180933712
+  },
+  "screen_name":{
+    "0":"ResoGlob",
+    "1":"ahoopervt",
+    "2":"BT_default",
+    "3":"DenisonBe",
+    "4":"DaveWFisher",
+    "5":"JakobsTrueLife",
+    "6":"cearwylm",
+    "7":"AdamLocklin"
+  },
+  "Likes":{
+    "0":2,
+    "1":1,
+    "2":9,
+    "3":1,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":3
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":3,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont",
+    "2":"Vermont",
+    "3":"Vermont",
+    "4":"Vermont",
+    "5":"Vermont",
+    "6":"Vermont",
+    "7":"Vermont"
+  }
+}

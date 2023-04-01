@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@DoggoFetish what if I swallowed you whole like an opioid",
+    "1":"Walmart To Pay $3.1B In Opioid Lawsuits\n\nhttps:\/\/t.co\/mFiFv4tylj",
+    "2":"Despite all of the talk of opioid reduction and nonpharmacological management of chronic pain. The needle has only nudged to ~12% of patients getting PT and 4% OT. Trends in Use of Opioids vs Nonpharmacologic Treatments in Adults With Pain, 2011-2019.  https:\/\/t.co\/qkTLNAQeiW https:\/\/t.co\/sJB5d6ro4L"
+  },
+  "date":{
+    "0":1668822647000,
+    "1":1668566412000,
+    "2":1668122557000
+  },
+  "polarity":{
+    "0":0.2,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0666666667,
+    "1":0.0666666667,
+    "2":0.0666666667
+  },
+  "subjectivity":{
+    "0":0.4,
+    "1":0.0,
+    "2":1.0
+  },
+  "mean_subjectivity":{
+    "0":0.4666666667,
+    "1":0.4666666667,
+    "2":0.4666666667
+  },
+  "screen_name":{
+    "0":"ramunejay",
+    "1":"khrystalline3",
+    "2":"timothywflynn"
+  },
+  "Likes":{
+    "0":2,
+    "1":2,
+    "2":22
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":10
+  },
+  "state":{
+    "0":"Wyoming",
+    "1":"Wyoming",
+    "2":"Wyoming"
+  }
+}

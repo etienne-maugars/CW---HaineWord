@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"https:\/\/t.co\/oQDekgmUy1",
+    "1":"@Ex_Reddito Io credevo che fosse veramente Macron \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+    "2":"@EnriketaPapa @enkelejdahavari Filozofikisht (teologjikisht po te duash) une pranoj a priori vetem gjykimin e Zotit (mbase te bariutbte Tij Kryepeshkopit, Papes etj). Por kurresesi nuk shtoj nebkete liste Blinken, Biden, Trump, Macron etj. \nNon grata do gjykim te hapur me fakte, prova e te drejta ne proces per",
+    "3":"New post: Rama n\u00eb \u00c9lys\u00e9e, dark\u00eb zyrtare me Presidentin Macron https:\/\/t.co\/Ixz97YilPW",
+    "4":"https:\/\/t.co\/lExmb6UEdx",
+    "5":"\u201cJu heq kapelen!\u201d, batuta e Ram\u00ebs n\u00eb Forumin e Paqes: Macron je shum\u00eb kurajoz! Tani e kuptoj pse Putin do t\u00eb t\u00eb p\u00ebrqafoj\u00eb https:\/\/t.co\/va8m1OOVE3 https:\/\/t.co\/VWa6LzbYwR",
+    "6":"New post: Osmani e Kurti pas takimit me Macron: T\u00eb p\u00ebrkushtuar p\u00ebr paqe e stabilitet p\u00ebr qytetar\u00ebt https:\/\/t.co\/0DAQXzuXWY",
+    "7":"Dialogu, siguria, bashk\u00ebpunimi, temat q\u00eb Osmani e Kurti diskutuan me Macron https:\/\/t.co\/IOpN243Z82",
+    "8":"Tensionet n\u00eb Kosov\u00eb, japin dor\u00ebheqjen edhe doganier\u00ebt serb\u00eb n\u00ebp\u00ebr pika kufitare\nhttps:\/\/t.co\/vllNfzhpCH"
+  },
+  "date":{
+    "0":1668536356000,
+    "1":1668353511000,
+    "2":1668337525000,
+    "3":1668196910000,
+    "4":1668192085000,
+    "5":1668191556000,
+    "6":1668106345000,
+    "7":1668104552000,
+    "8":1668085736000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.1363636364,
+    "4":0.0,
+    "5":0.0,
+    "6":0.1363636364,
+    "7":0.0,
+    "8":0.0
+  },
+  "mean_polarity":{
+    "0":0.0303030303,
+    "1":0.0303030303,
+    "2":0.0303030303,
+    "3":0.0303030303,
+    "4":0.0303030303,
+    "5":0.0303030303,
+    "6":0.0303030303,
+    "7":0.0303030303,
+    "8":0.0303030303
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.4545454545,
+    "4":0.0,
+    "5":0.0,
+    "6":0.4545454545,
+    "7":0.0,
+    "8":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.101010101,
+    "1":0.101010101,
+    "2":0.101010101,
+    "3":0.101010101,
+    "4":0.101010101,
+    "5":0.101010101,
+    "6":0.101010101,
+    "7":0.101010101,
+    "8":0.101010101
+  },
+  "screen_name":{
+    "0":"gshqip",
+    "1":"opuntio88",
+    "2":"WomenGud",
+    "3":"ATAgoval",
+    "4":"gshqip",
+    "5":"Balkanwebcom",
+    "6":"ATAgoval",
+    "7":"OraNewsRTV",
+    "8":"shqiptarjacom"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":1,
+    "6":1,
+    "7":0,
+    "8":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York",
+    "3":"New York",
+    "4":"New York",
+    "5":"New York",
+    "6":"New York",
+    "7":"New York",
+    "8":"New York"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@JoyAnnReid Good. It limits their voice on wokism thoughts.",
+    "1":"@joncoopertweets No. Wokism in Cali has become anathema.",
+    "2":"@toddstarnes Todd Starnes brand wokism and cancel culture."
+  },
+  "date":{
+    "0":1669429166000,
+    "1":1669331702000,
+    "2":1669100071000
+  },
+  "polarity":{
+    "0":0.7,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.2333333333,
+    "1":0.2333333333,
+    "2":0.2333333333
+  },
+  "subjectivity":{
+    "0":0.6,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2,
+    "1":0.2,
+    "2":0.2
+  },
+  "screen_name":{
+    "0":"PaintitPurple3",
+    "1":"MarkMBoudreaux",
+    "2":"NPodenco"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Kansas",
+    "1":"Kansas",
+    "2":"Kansas"
+  }
+}

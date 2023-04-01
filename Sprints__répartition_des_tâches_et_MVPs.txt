@@ -1,0 +1,35 @@
+﻿Sprint 0 :
+        Choix de ce vers quoi on souhaite s’orienter, on souhaite lier la positivité/subjectivité de certains mots à des lieux géographiques et afficher ces données sous formes de cartes colorées (choropleth maps).
+
+
+Sprint 1 :
+        Affichage d’une première carte de l'Europe délimitée par pays  à l’aide d’un fichier json. Affichage d’une carte de la France délimitée par départements et des US délimités par États. Création de base de données donnant les 100 derniers tweets par départements/Etats/pays.
+
+
+MVP 1 :
+Carte de l’Europe/US/France où la couleur des différents pays/états/départements dépend de la positivité et de la subjectivité des 100 derniers tweets
+
+
+Sprint 2 :
+        Création de base de données donnant les 100 derniers tweets par pays européens contenant le nom de leur dirigeant et affichage de la carte de l'Europe. 
+
+
+MVP 2 :
+ Carte de l’Europe où la couleur des différents pays/états/départements dépends de la positivité et de la subjectivité des tweets contenant le nom de leurs dirigeants
+
+
+Sprint 3 :
+Ajout d’une barre de recherche qui va créer une base de donnée lié au mot voulu puis de permettre l’affichage de sa positivité/subjectivité sur différentes cartes
+
+
+MVP 3 :
+Application dash dans laquelle on choisit la subjectivité, positivité, taux d’insulte par rapport au dirigeant de chaque pays d’europe. Et la positivité par rapport à un mot voulu sur la carte des USA.
+
+
+Répartition des tâches :
+        Bilal : manager de projet, troubleshooter. Vision globale du projet.
+        Fatine : rédaction du README, calcul des paramètres de recherche de tweets.
+        Cyprien : réalisation des slides de présentation et gestion de l’analyse de sentiment.
+Côme : Développement de l’application Dash et de l’interface graphique et liaison backend / frontend.
+Théo : Développement du module ‘recherche’ de l’application. Gestion de la mise en mémoire des tweets récoltés.
+Etienne : Développement des cartes, récolte des bases de données geojson et insultes, traduction, module de détection d'insultes.

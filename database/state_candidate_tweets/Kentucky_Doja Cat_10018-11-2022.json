@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"#NowPlaying Doja Cat - Say So \nhttps:\/\/t.co\/wQXwHAaqVI https:\/\/t.co\/fEulBsuLYG",
+    "1":"Doja Cat - Vegas From \"ELVIS\"",
+    "2":"Doja Cat - Freak",
+    "3":"Masturbating to the thought of Doja Cat peeing on me",
+    "4":"Anne-Marie &amp; Doja Cat - To Be Young"
+  },
+  "date":{
+    "0":1668725527000,
+    "1":1668603165000,
+    "2":1668562642000,
+    "3":1668403885000,
+    "4":1668090206000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.1
+  },
+  "mean_polarity":{
+    "0":0.02,
+    "1":0.02,
+    "2":0.02,
+    "3":0.02,
+    "4":0.02
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.4
+  },
+  "mean_subjectivity":{
+    "0":0.08,
+    "1":0.08,
+    "2":0.08,
+    "3":0.08,
+    "4":0.08
+  },
+  "screen_name":{
+    "0":"AxoneRadio",
+    "1":"J7Radio",
+    "2":"J7Radio",
+    "3":"OffConsciousnes",
+    "4":"J7Radio"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":0,
+    "3":2,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Kentucky",
+    "1":"Kentucky",
+    "2":"Kentucky",
+    "3":"Kentucky",
+    "4":"Kentucky"
+  }
+}

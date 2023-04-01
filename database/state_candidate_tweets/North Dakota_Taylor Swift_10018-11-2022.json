@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"WNBA star Brittney Griner has begun serving her nine-year sentence for drug possession at a Russian penal colony, and Pelosi goes into detail about her decision. Here's some of today's top news. https:\/\/t.co\/IfHckNSbdo",
+    "1":"Ticketmaster cancels Taylor Swift public ticket sales due to demand, 'insufficient' supply https:\/\/t.co\/V2XRjTNI0U",
+    "2":"No one ask how much money I just spent on Taylor swift tickets https:\/\/t.co\/sjKiiSzrJD",
+    "3":"Pre-sales for dates on Taylor Swift's new tour began Tuesday. But irked fans report Ticketmaster's website appeared to crash or freeze during purchase. https:\/\/t.co\/HsQSzdXZBj",
+    "4":"Taylor Swift fans crash Ticketmaster attempting to get Eras Tour tickets https:\/\/t.co\/ooVDYkuUSi"
+  },
+  "date":{
+    "0":1668738543000,
+    "1":1668720763000,
+    "2":1668549764000,
+    "3":1668537722000,
+    "4":1668536225000
+  },
+  "polarity":{
+    "0":0.25,
+    "1":-0.0625,
+    "2":0.05,
+    "3":0.1363636364,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.0747727273,
+    "1":0.0747727273,
+    "2":0.0747727273,
+    "3":0.0747727273,
+    "4":0.0747727273
+  },
+  "subjectivity":{
+    "0":0.25,
+    "1":0.2208333333,
+    "2":0.15,
+    "3":0.4545454545,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2150757576,
+    "1":0.2150757576,
+    "2":0.2150757576,
+    "3":0.2150757576,
+    "4":0.2150757576
+  },
+  "screen_name":{
+    "0":"bistrib",
+    "1":"KXMB",
+    "2":"megjonezyy",
+    "3":"bistrib",
+    "4":"KXMB"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":10,
+    "3":0,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":2,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota"
+  }
+}

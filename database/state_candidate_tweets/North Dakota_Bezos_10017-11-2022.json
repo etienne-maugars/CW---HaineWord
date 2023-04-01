@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"Bezos urges Americans to hold off on making big-ticket purchases ahead of holidays https:\/\/t.co\/oTNq1lYf6s",
+    "1":"Amazon founder Jeff Bezos said he will give away the majority of his wealth during his lifetime, becoming the latest billionaire to pledge to donate much of his vast fortune. https:\/\/t.co\/XZdjmSyRJ4",
+    "2":"Bezos had been criticized for not signing the Giving Pledge, a campaign to encourage billionaires to donate the majority of their wealth through philanthropy. https:\/\/t.co\/hiKX6Q3fHe",
+    "3":"Billionaire Jeff Bezos says he plans to give away most of his fortune https:\/\/t.co\/54d2FhKwZQ",
+    "4":"Dolly Parton is the latest recipient of the Bezos Courage and Civility Award. https:\/\/t.co\/SSIJU1sVKD",
+    "5":"\"I try to put my money where my heart is,\" Parton said. \"I will do my best to do good things with this money.\" \u2764 https:\/\/t.co\/KqyKDycRyP"
+  },
+  "date":{
+    "0":1668536911000,
+    "1":1668456013000,
+    "2":1668447062000,
+    "3":1668440395000,
+    "4":1668432902000,
+    "5":1668376802000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.2875,
+    "2":0.0,
+    "3":0.5,
+    "4":0.5,
+    "5":0.85
+  },
+  "mean_polarity":{
+    "0":0.35625,
+    "1":0.35625,
+    "2":0.35625,
+    "3":0.35625,
+    "4":0.35625,
+    "5":0.35625
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.7375,
+    "2":0.0,
+    "3":0.5,
+    "4":0.9,
+    "5":0.45
+  },
+  "mean_subjectivity":{
+    "0":0.43125,
+    "1":0.43125,
+    "2":0.43125,
+    "3":0.43125,
+    "4":0.43125,
+    "5":0.43125
+  },
+  "screen_name":{
+    "0":"KXMB",
+    "1":"KFYRTV",
+    "2":"bistrib",
+    "3":"KXMB",
+    "4":"bistrib",
+    "5":"KFYRTV"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota",
+    "5":"North Dakota"
+  }
+}

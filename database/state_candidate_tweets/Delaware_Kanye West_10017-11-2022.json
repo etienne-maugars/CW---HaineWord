@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@tomiahonen Three real presidents--none of which started an insurrection or adopted Kanye West.",
+    "1":"Donald Trump to announce he is teaming up with Kanye West and they will be releasing an album....\n\n#TrumpAnnouncement https:\/\/t.co\/Ahku3oJj8H",
+    "2":"London tattoo studio provides to take away Kanye West tattoos at no cost https:\/\/t.co\/DHXG2QUyZI",
+    "3":"@AndIWonderIfYk Kanye West is his stage name, his actual name is Ye \ud83d\ude39 https:\/\/t.co\/UVaxZmuUwH",
+    "4":"Moms just said I look like Kanye West.",
+    "5":"Kanye West: \u201cmy mama ain\u2019t here.. my mama was sacrificed!\u201d\ud83d\ude32 https:\/\/t.co\/udb32pV8Sa via @YouTube",
+    "6":"WAIT!!!\nAm I the only one who didn't see that David Bowie had predicted Kanye West in 1972??? https:\/\/t.co\/0vOaTCVXfl"
+  },
+  "date":{
+    "0":1668592228000,
+    "1":1668558401000,
+    "2":1668535689000,
+    "3":1668388831000,
+    "4":1668278343000,
+    "5":1668277289000,
+    "6":1668095926000
+  },
+  "polarity":{
+    "0":0.2,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":0.0285714286,
+    "1":0.0285714286,
+    "2":0.0285714286,
+    "3":0.0285714286,
+    "4":0.0285714286,
+    "5":0.0285714286,
+    "6":0.0285714286
+  },
+  "subjectivity":{
+    "0":0.3,
+    "1":0.0,
+    "2":0.0,
+    "3":0.1,
+    "4":0.0,
+    "5":0.0,
+    "6":1.0
+  },
+  "mean_subjectivity":{
+    "0":0.2,
+    "1":0.2,
+    "2":0.2,
+    "3":0.2,
+    "4":0.2,
+    "5":0.2,
+    "6":0.2
+  },
+  "screen_name":{
+    "0":"tkwrtrilogy",
+    "1":"RealAdamFrancis",
+    "2":"jason_still",
+    "3":"wymkillean",
+    "4":"tshegomogoshi",
+    "5":"yolishemp",
+    "6":"frankspicer"
+  },
+  "Likes":{
+    "0":17,
+    "1":3,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":3,
+    "6":0
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":1,
+    "6":0
+  },
+  "state":{
+    "0":"Delaware",
+    "1":"Delaware",
+    "2":"Delaware",
+    "3":"Delaware",
+    "4":"Delaware",
+    "5":"Delaware",
+    "6":"Delaware"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"Beyonc\u00e9 ties Grammy record after leading nominations with 9 https:\/\/t.co\/m7EehwZ4va https:\/\/t.co\/2GHiY7iFby",
+    "1":"Grammy nominations announced, Beyonc\u00e9 ties record https:\/\/t.co\/lMqcuzYHRK",
+    "2":"The world will see you  the way you see you,  and treat you the way  you treat yourself.  - Beyonc\u00e9  #quotestoliveby #positivethoughts #motivationalmonday https:\/\/t.co\/fhGFBWK26O",
+    "3":"@DaShaunLH do you consider Beyonc\u00e9\u2019s \u20184\u2019 to be an \u201cunsingable\u201d album??\n\nand do you have 4 singers in mind who could actually cover your 4 favorite tracks on the album?",
+    "4":"True story Beyonc\u00e9 \n@Beyonce https:\/\/t.co\/RzKN3w1kY7",
+    "5":"Absurdist Fraud at Chili Cook-Off in Alaska:\nLessons About Palin, Don Trump &amp; Tabasco\nBeyonce's buoyancy floats Molly Brown Unsinkable\nHow Taylor Swift wrote &amp; thought the Unthinkable\nOne Beatles\u2019 record that once seemed unbeatable\nA novel like John's but a bit mo' readable\nSlyte"
+  },
+  "date":{
+    "0":1668591003000,
+    "1":1668561173000,
+    "2":1668423627000,
+    "3":1668020662000,
+    "4":1667946359000,
+    "5":1667929479000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.25,
+    "4":0.35,
+    "5":-0.05
+  },
+  "mean_polarity":{
+    "0":0.0916666667,
+    "1":0.0916666667,
+    "2":0.0916666667,
+    "3":0.0916666667,
+    "4":0.0916666667,
+    "5":0.0916666667
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.55,
+    "4":0.65,
+    "5":0.8
+  },
+  "mean_subjectivity":{
+    "0":0.3333333333,
+    "1":0.3333333333,
+    "2":0.3333333333,
+    "3":0.3333333333,
+    "4":0.3333333333,
+    "5":0.3333333333
+  },
+  "screen_name":{
+    "0":"wcax",
+    "1":"WVNYWFFF",
+    "2":"cwprintdesign",
+    "3":"trapteas",
+    "4":"teedjvt",
+    "5":"billioris"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":14,
+    "4":5,
+    "5":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont",
+    "2":"Vermont",
+    "3":"Vermont",
+    "4":"Vermont",
+    "5":"Vermont"
+  }
+}

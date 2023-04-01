@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@chinchulin93 que programa usas para grabar , el windows  rec es una cagada",
+    "1":"Nada m\u00e1s fuerte que el primer cigarrillo del d\u00eda, una seca y te reinicia la windows JAJAJA"
+  },
+  "date":{
+    "0":1668528064000,
+    "1":1667921275000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"ArdeMatanza",
+    "1":"Lucas14038653"
+  },
+  "Likes":{
+    "0":0,
+    "1":4
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"New Mexico",
+    "1":"New Mexico"
+  }
+}

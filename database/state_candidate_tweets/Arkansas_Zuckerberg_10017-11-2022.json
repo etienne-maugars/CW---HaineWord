@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"#Meta Morphosis by @LTComicGifts\n #cartoon #cartoons #comics #comic #zuckerberg #zuck #facebook #instagram #socialmedia #kafka #metamorphosis #books #authors #franzkafka #kafkaesque #ltcartoons #tomkerr #ricklondon https:\/\/t.co\/ZT1wWqaIwD",
+    "1":"Mr. Zuckerberg was shocked and upset that Australia wanted Facebook to pay for air access. Figure it out. Your information belongs to you and is worth a fortune when collected and sold for marketing purposes. Medical, Insurance, Retail, etc.",
+    "2":"Facebook parent Meta is laying off 11,000 people, about 13% of its workforce, as it contends with faltering revenue and broader tech industry woes, CEO Mark Zuckerberg announced. https:\/\/t.co\/hRJfg6JsA6"
+  },
+  "date":{
+    "0":1668498063000,
+    "1":1668262100000,
+    "2":1668002406000
+  },
+  "polarity":{
+    "0":0.25,
+    "1":-0.1333333333,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0388888889,
+    "1":0.0388888889,
+    "2":0.0388888889
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.3,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2666666667,
+    "1":0.2666666667,
+    "2":0.2666666667
+  },
+  "screen_name":{
+    "0":"RickLondonGreen",
+    "1":"Michael34581643",
+    "2":"THV11"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1
+  },
+  "state":{
+    "0":"Arkansas",
+    "1":"Arkansas",
+    "2":"Arkansas"
+  }
+}

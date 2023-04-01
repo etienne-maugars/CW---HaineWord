@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"I am finally catching up on #90DaysFiance Bilal, Yve, Emily, and Thais are really self absorbed.",
+    "1":"Every time I see #Bilal #90DayFiance https:\/\/t.co\/St4IMoLQJj",
+    "2":"@MMBilal49 Happy birthday Bilal, wishing you a wonderful year ahead.",
+    "3":"@apopuntaktahu penggali kubur. hakim bilal khan in the making"
+  },
+  "date":{
+    "0":1668713306000,
+    "1":1668392793000,
+    "2":1668223955000,
+    "3":1668046605000
+  },
+  "polarity":{
+    "0":0.3666666667,
+    "1":0.0,
+    "2":0.9,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.3166666667,
+    "1":0.3166666667,
+    "2":0.3166666667,
+    "3":0.3166666667
+  },
+  "subjectivity":{
+    "0":0.6666666667,
+    "1":0.0,
+    "2":1.0,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.4166666667,
+    "1":0.4166666667,
+    "2":0.4166666667,
+    "3":0.4166666667
+  },
+  "screen_name":{
+    "0":"ErikEbert23",
+    "1":"SicilianBeauti",
+    "2":"TomMoodyCricket",
+    "3":"HakimXYQ"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":2,
+    "3":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Arizona",
+    "1":"Arizona",
+    "2":"Arizona",
+    "3":"Arizona"
+  }
+}

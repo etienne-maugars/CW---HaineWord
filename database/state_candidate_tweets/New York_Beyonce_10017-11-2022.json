@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"https:\/\/t.co\/s0EzQeFzdI",
+    "1":"Beyonce  Kendrick Lamar  Adele kryesojne nominimet per Grammy \u2013 Priv\u00e9 #Lifestyle, Adele, Beyonce, Grammy, Kendrick, kryesojne, Lamar, nominimet, Priv\u00e9 https:\/\/t.co\/CVXPhXOGXT https:\/\/t.co\/osLm22UU1c",
+    "2":"n\u00f3s preferimos Beyonc\u00e9 do que Rihanna",
+    "3":"@ThugnastyMMA Plus Beyonc\u00e9 thinks that I\u2019m cute, it\u2019s okay Beyonc\u00e9 I think you\u2019re cute too"
+  },
+  "date":{
+    "0":1668603412000,
+    "1":1668592189000,
+    "2":1668382620000,
+    "3":1668077487000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.5
+  },
+  "mean_polarity":{
+    "0":0.125,
+    "1":0.125,
+    "2":0.125,
+    "3":0.125
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.8333333333
+  },
+  "mean_subjectivity":{
+    "0":0.2083333333,
+    "1":0.2083333333,
+    "2":0.2083333333,
+    "3":0.2083333333
+  },
+  "screen_name":{
+    "0":"gshqip",
+    "1":"lajmelive",
+    "2":"mitski127",
+    "3":"pessimisticpal"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":7
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York",
+    "3":"New York"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"@ukemeukut Father Francis fried five fresh fish for five friends from France",
+    "1":"\ud83d\udca5OFFRE!!\ud83d\udca5 41% remise sur Jeanne en Provence - Cr\u00e8me Mains - Lavande Gourmande - Fabriqu\u00e9 en France - 75 ml \n\n\u274c avant 7.90\u20ac \n\u2714\ufe0fmaintenant pour 4.70\u20ac\n\nboutique: https:\/\/t.co\/o1Tbb3Ywe9\n\nfaites RT et partagez! #offre https:\/\/t.co\/5xmeanCJZ0",
+    "2":"\ud83d\udca5OFFRE!!\ud83d\udca5 37% remise sur Stanley 1-65-479 Tournevis Fm M\u00e9canicien 3 X 75 V Gamme FatMax - Fabriqu\u00e9s En France - L... \n\n\u274c avant 4.90\u20ac \n\u2714\ufe0fmaintenant pour 3.07\u20ac\n\nboutique: https:\/\/t.co\/D7esjZCm9e\n\nfaites RT et partagez! #offre https:\/\/t.co\/f8nBMHlVBP",
+    "3":"\ud83d\udca5OFFRE!!\ud83d\udca5 33% remise sur Equipe de FRANCE de football Sacoche FFF - Collection Officielle \n\n\u274c avant 20.60\u20ac \n\u2714\ufe0fmaintenant pour 13.80\u20ac\n\nboutique: https:\/\/t.co\/idKTO53E5M\n\nfaites RT et partagez! #Pogba https:\/\/t.co\/nzCO2ZOh2I",
+    "4":"\ud83d\udca5OFFRE!!\ud83d\udca5 43% remise sur Equipe de FRANCE de football Bol FFF - 2 Etoiles - Collection Officielle \n\n\u274c avant 20.00\u20ac \n\u2714\ufe0fmaintenant pour 11.50\u20ac\n\nboutique: https:\/\/t.co\/WHm8vin2Ko\n\nfaites RT et partagez! #Pogba https:\/\/t.co\/uh6AnX4zin",
+    "5":"@zachcarp @racerxonline @sxBERCY You thinking potentially a bunch of baguettes? Classic France move",
+    "6":"Sure, Lance Armstrong cheated in the Tour de France(s), but he doesn\u2019t get nearly enough credit for inspiring Peter LaFluer and Average Joe\u2019s to beat those jerks from Globo-Gym.",
+    "7":"@KariLake Voter fraud and ballot dumping only happens in other countries\u2014never in the USA. And just because other developed countries (France, Canada, etc.) have banned electronic voting to protect against fraud, that doesn\u2019t mean we should. Because again, there is no fraud in the USA"
+  },
+  "date":{
+    "0":1668538152000,
+    "1":1668405603000,
+    "2":1668247202000,
+    "3":1668132002000,
+    "4":1668122402000,
+    "5":1668117966000,
+    "6":1668100511000,
+    "7":1668020667000
+  },
+  "polarity":{
+    "0":0.3,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0833333333,
+    "6":0.2125,
+    "7":-0.0925
+  },
+  "mean_polarity":{
+    "0":0.0629166667,
+    "1":0.0629166667,
+    "2":0.0629166667,
+    "3":0.0629166667,
+    "4":0.0629166667,
+    "5":0.0629166667,
+    "6":0.0629166667,
+    "7":0.0629166667
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.5833333333,
+    "6":0.6972222222,
+    "7":0.5475
+  },
+  "mean_subjectivity":{
+    "0":0.2910069444,
+    "1":0.2910069444,
+    "2":0.2910069444,
+    "3":0.2910069444,
+    "4":0.2910069444,
+    "5":0.2910069444,
+    "6":0.2910069444,
+    "7":0.2910069444
+  },
+  "screen_name":{
+    "0":"ADAMZII",
+    "1":"desoffresfr",
+    "2":"desoffresfr",
+    "3":"desoffresfr",
+    "4":"desoffresfr",
+    "5":"406houses",
+    "6":"Foles74",
+    "7":"MangyRolf"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":1,
+    "6":11,
+    "7":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana",
+    "2":"Montana",
+    "3":"Montana",
+    "4":"Montana",
+    "5":"Montana",
+    "6":"Montana",
+    "7":"Montana"
+  }
+}

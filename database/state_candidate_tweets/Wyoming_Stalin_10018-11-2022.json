@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Who\u2019s going to tell this guy about Stalin\u2019s political affiliation? \ud83d\ude02 https:\/\/t.co\/bSc3vOrljH",
+    "1":"@GodlessLiz Stalin did not believe in an after life and killed tens of millions. So did Mao. Atheists have done many more mass killings than anyone else."
+  },
+  "date":{
+    "0":1668360077000,
+    "1":1668031327000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.2666666667
+  },
+  "mean_polarity":{
+    "0":0.1333333333,
+    "1":0.1333333333
+  },
+  "subjectivity":{
+    "0":0.1,
+    "1":0.3333333333
+  },
+  "mean_subjectivity":{
+    "0":0.2166666667,
+    "1":0.2166666667
+  },
+  "screen_name":{
+    "0":"AuntLynnieNY",
+    "1":"GeorgeLDuncan"
+  },
+  "Likes":{
+    "0":1,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Wyoming",
+    "1":"Wyoming"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@TPMP @Cyrilhanouna Mdr vous avez coupez le passage ou il parle du patron de Total ? Mais votre propagande est digne du r\u00e9gime de Staline"
+  },
+  "date":{
+    "0":1668458205000
+  },
+  "polarity":{
+    "0":0.0
+  },
+  "mean_polarity":{
+    "0":0.0
+  },
+  "subjectivity":{
+    "0":0.75
+  },
+  "mean_subjectivity":{
+    "0":0.75
+  },
+  "screen_name":{
+    "0":"Rgrammaton"
+  },
+  "Likes":{
+    "0":1
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"Louisiana"
+  }
+}

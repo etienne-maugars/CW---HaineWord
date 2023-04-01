@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"encima tiro q era doja cat callate milky dolly https:\/\/t.co\/yQp4sWIE9u",
+    "1":"It needs to snow soon so I can practice my yearly tradition of aggressive winter driving while playing Boss Bitch by Doja Cat",
+    "2":"@OMAStormChasers Doja cat we don\u2019t forget \ud83d\udc85"
+  },
+  "date":{
+    "0":1668553186000,
+    "1":1668295965000,
+    "2":1668171979000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"keifisura",
+    "1":"IsabelRKKuebler",
+    "2":"BensonBunnyBoy"
+  },
+  "Likes":{
+    "0":2,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Nebraska",
+    "1":"Nebraska",
+    "2":"Nebraska"
+  }
+}

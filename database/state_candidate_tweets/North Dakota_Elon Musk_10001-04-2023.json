@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@memes_medo Elon musk? https:\/\/t.co\/nZGVTjWIQE",
+    "1":"Elon Musk has failed to find my location.",
+    "2":"Elon Musk, Apple co-founder, other tech experts call for pause on 'giant AI experiments': 'Dangerous race'\n\nhttps:\/\/t.co\/NUsscGBEWg"
+  },
+  "date":{
+    "0":1680298162000,
+    "1":1680264144000,
+    "2":1680092606000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.5,
+    "2":-0.2416666667
+  },
+  "mean_polarity":{
+    "0":-0.2472222222,
+    "1":-0.2472222222,
+    "2":-0.2472222222
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.3,
+    "2":0.7583333333
+  },
+  "mean_subjectivity":{
+    "0":0.3527777778,
+    "1":0.3527777778,
+    "2":0.3527777778
+  },
+  "screen_name":{
+    "0":"mucziin",
+    "1":"adtothebone",
+    "2":"dcbaglaw"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota"
+  }
+}

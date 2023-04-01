@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@amhereforthete1 @slgore76 @AmeriKraut bruh you are out of touch with the whole conversation afaik https:\/\/t.co\/4LMMxPwQyg",
+    "1":"@VVv93233759 @Mr_Swerve_On @ZaydFootball @SaycheeseDGTL Only the indoctrinated believe Kanye west is crazy and is not supporting black America. Get off the plantation bra",
+    "2":"Farrakhan DEFENDS Kyrie Irving and Kanye West!! November 10, 2022 https:\/\/t.co\/6EX9ia1ASL via @YouTube"
+  },
+  "date":{
+    "0":1668320805000,
+    "1":1668300431000,
+    "2":1668106971000
+  },
+  "polarity":{
+    "0":0.2,
+    "1":-0.2229166667,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":-0.0076388889,
+    "1":-0.0076388889,
+    "2":-0.0076388889
+  },
+  "subjectivity":{
+    "0":0.4,
+    "1":0.6458333333,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3486111111,
+    "1":0.3486111111,
+    "2":0.3486111111
+  },
+  "screen_name":{
+    "0":"SpontaneityVR",
+    "1":"CoachMcknight40",
+    "2":"faysan101"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Arkansas",
+    "1":"Arkansas",
+    "2":"Arkansas"
+  }
+}

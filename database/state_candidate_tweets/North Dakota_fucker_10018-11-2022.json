@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@gina_goldberg It\u2019s only going to get worse they are abusing their titles to bring in more money to the courts, I have no record fucker could\u2019ve told me it was library books they were in the car and could\u2019ve handed to him bt he just said it\u2019s a warrant idk for what",
+    "1":"Whoever named house plants knocked that fucker out of the park"
+  },
+  "date":{
+    "0":1668691035000,
+    "1":1668128473000
+  },
+  "polarity":{
+    "0":0.0333333333,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0166666667,
+    "1":0.0166666667
+  },
+  "subjectivity":{
+    "0":0.7,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.35,
+    "1":0.35
+  },
+  "screen_name":{
+    "0":"Magicbh69",
+    "1":"warrenman9"
+  },
+  "Likes":{
+    "0":1,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota"
+  }
+}

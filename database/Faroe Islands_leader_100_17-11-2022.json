@@ -1,0 +1,62 @@
+{
+  "original_text":{
+    "0":"RT @legalisememes: This leads us to where we are today: at 14:50 on the 9th of November, prime minister B\u00e1r\u00f0ur \u00e1 Steig Nielsen dissolved th\u2026",
+    "1":"RT @legalisememes: This leads us to where we are today: at 14:50 on the 9th of November, prime minister B\u00e1r\u00f0ur \u00e1 Steig Nielsen dissolved th\u2026",
+    "2":"This leads us to where we are today: at 14:50 on the 9th of November, prime minister B\u00e1r\u00f0ur \u00e1 Steig Nielsen dissolved the L\u00f8gting and announced elections, thus bringing the saga of one of the Faroes' most tumultuous and drama-filled coalitions to an equally dramatic conclusion. https:\/\/t.co\/Zw0CueNZ2s"
+  },
+  "full_text":{
+    "0":"RT @legalisememes: This leads us to where we are today: at 14:50 on the 9th of November, prime minister B\u00e1r\u00f0ur \u00e1 Steig Nielsen dissolved th\u2026",
+    "1":"RT @legalisememes: This leads us to where we are today: at 14:50 on the 9th of November, prime minister B\u00e1r\u00f0ur \u00e1 Steig Nielsen dissolved th\u2026",
+    "2":"This leads us to where we are today: at 14:50 on the 9th of November, prime minister B\u00e1r\u00f0ur \u00e1 Steig Nielsen dissolved the L\u00f8gting and announced elections, thus bringing the saga of one of the Faroes' most tumultuous and drama-filled coalitions to an equally dramatic conclusion. https:\/\/t.co\/Zw0CueNZ2s"
+  },
+  "date":{
+    "0":1668154324000,
+    "1":1668044792000,
+    "2":1668043384000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0333333333
+  },
+  "mean_polarity":{
+    "0":0.0111111111,
+    "1":0.0111111111,
+    "2":0.0111111111
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.55
+  },
+  "mean_subjectivity":{
+    "0":0.1833333333,
+    "1":0.1833333333,
+    "2":0.1833333333
+  },
+  "screen_name":{
+    "0":"UKordeck",
+    "1":"CrynwrCSM",
+    "2":"legalisememes"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":5
+  },
+  "RTs":{
+    "0":2,
+    "1":2,
+    "2":2
+  },
+  "state":{
+    "0":"Faroe Islands",
+    "1":"Faroe Islands",
+    "2":"Faroe Islands"
+  },
+  "iso_639":{
+    "0":"en",
+    "1":"en",
+    "2":"en"
+  }
+}

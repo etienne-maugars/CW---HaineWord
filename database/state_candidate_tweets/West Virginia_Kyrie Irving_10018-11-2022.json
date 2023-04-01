@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Dave Chapelle on Kanye West, Kyrie Irving and jews 11-13-22 https:\/\/t.co\/KYKGI4W8sA via @BitChute",
+    "1":"Is \u2066@KyrieIrving\u2069 \u2018s tweet an apology?  https:\/\/t.co\/gGR4DlwI4p"
+  },
+  "date":{
+    "0":1668681921000,
+    "1":1668396653000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"Santomauro",
+    "1":"bentollphd"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"West Virginia",
+    "1":"West Virginia"
+  }
+}

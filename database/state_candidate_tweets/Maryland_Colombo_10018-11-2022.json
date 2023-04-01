@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"\u201cYou want to know the truth? I want you to delete the word \u2018mafia\u2019 from the script\u201d - Joe Colombo https:\/\/t.co\/mvuw4mfmWZ",
+    "1":"@blanchi07 @Tifawind @Gabbie2207 Did I say Haiti? No, I said Hayti. And you're going with the same old trope of a white person naming a place that they came across, when the people there had another name.  Also, his name wasn't Christopher Columbus but Cristoforo Colombo",
+    "2":"@gregkellyusa Wow.. Colombo..you have quite the keen eye.",
+    "3":"Excellent! Colombo is one of my favorites too! https:\/\/t.co\/tV85FxJIFu",
+    "4":"Origi sent away Colombo comes back in January only person who says no is Pioli",
+    "5":"@Oldglorycries @SparkyBru That's what 'Colombo would ask' right before leaving the scene ... https:\/\/t.co\/YA2SbfAFsC",
+    "6":"@FighttForTanas @BeltHighdribble @ABC7 They all want to watch the world burn.\nThey're in on the joke Colombo.",
+    "7":"@Prune602 @JuliaDavisNews De Santis is a Latin name ,very common in Italy for sons and daughters of unknown fathers: like Colombo, Diotallevi,Dioguardi etc . Originally meant: \"God will take care of you\""
+  },
+  "date":{
+    "0":1668615751000,
+    "1":1668607885000,
+    "2":1668433030000,
+    "3":1668380403000,
+    "4":1668367388000,
+    "5":1668348855000,
+    "6":1668254115000,
+    "7":1668081155000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0333333333,
+    "2":0.1,
+    "3":1.0,
+    "4":0.0,
+    "5":0.2857142857,
+    "6":0.0,
+    "7":-0.0383333333
+  },
+  "mean_polarity":{
+    "0":0.1725892857,
+    "1":0.1725892857,
+    "2":0.1725892857,
+    "3":0.1725892857,
+    "4":0.1725892857,
+    "5":0.1725892857,
+    "6":0.1725892857,
+    "7":0.1725892857
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.1083333333,
+    "2":1.0,
+    "3":1.0,
+    "4":0.5,
+    "5":0.5357142857,
+    "6":0.0,
+    "7":0.6666666667
+  },
+  "mean_subjectivity":{
+    "0":0.4763392857,
+    "1":0.4763392857,
+    "2":0.4763392857,
+    "3":0.4763392857,
+    "4":0.4763392857,
+    "5":0.4763392857,
+    "6":0.4763392857,
+    "7":0.4763392857
+  },
+  "screen_name":{
+    "0":"NPRextra",
+    "1":"IkaVinaWines",
+    "2":"JJ37984814",
+    "3":"2022Hershey",
+    "4":"Manoloovillegas",
+    "5":"here4younow",
+    "6":"livincartoongal",
+    "7":"DanielemoroMoro"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":5,
+    "3":2,
+    "4":0,
+    "5":1,
+    "6":0,
+    "7":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "state":{
+    "0":"Maryland",
+    "1":"Maryland",
+    "2":"Maryland",
+    "3":"Maryland",
+    "4":"Maryland",
+    "5":"Maryland",
+    "6":"Maryland",
+    "7":"Maryland"
+  }
+}

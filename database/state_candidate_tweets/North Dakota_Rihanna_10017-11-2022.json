@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Quavo pays tribute to slain rapper and fellow Migos member Takeoff, and Rihanna has \"cherished\" the time that she's spent with her son. Get that and more celeb news here. https:\/\/t.co\/s00UYhX3TZ",
+    "1":"Get the latest news on Hot off the Wire, our daily news podcast. https:\/\/t.co\/f8MOUzZSFP"
+  },
+  "date":{
+    "0":1668393602000,
+    "1":1668388803000
+  },
+  "polarity":{
+    "0":0.2,
+    "1":0.25
+  },
+  "mean_polarity":{
+    "0":0.225,
+    "1":0.225
+  },
+  "subjectivity":{
+    "0":0.3,
+    "1":0.5833333333
+  },
+  "mean_subjectivity":{
+    "0":0.4416666667,
+    "1":0.4416666667
+  },
+  "screen_name":{
+    "0":"bistrib",
+    "1":"bistrib"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota"
+  }
+}

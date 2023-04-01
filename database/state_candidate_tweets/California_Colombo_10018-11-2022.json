@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@DonDelco Except that Colombo always had \"one last question\" that ended up cracking the case..."
+  },
+  "date":{
+    "0":1668550920000
+  },
+  "polarity":{
+    "0":0.0
+  },
+  "mean_polarity":{
+    "0":0.0
+  },
+  "subjectivity":{
+    "0":0.0666666667
+  },
+  "mean_subjectivity":{
+    "0":0.0666666667
+  },
+  "screen_name":{
+    "0":"News24680"
+  },
+  "Likes":{
+    "0":1
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"California"
+  }
+}

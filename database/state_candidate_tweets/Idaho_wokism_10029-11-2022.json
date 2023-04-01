@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@boboosta @djrothkopf But wokism and socialism are two very different things.",
+    "1":"If you think \"wokism\" is a thing that needs to be combatted, you're just a basic right-winger, no matter your protestations otherwise; it means you're susceptible to, and consume only, right-wing junk",
+    "2":"some humanity. \n\nNever, EVER let your default assumption be, \"There goes another complainer feeling entitled to special treatment.\" Anti-wokism is the battle cry of entitled victimhood projected on others. The anti-woke movement will never run out of Boogeymen to blame for its"
+  },
+  "date":{
+    "0":1669602105000,
+    "1":1669394212000,
+    "2":1669167229000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.3571428571
+  },
+  "mean_polarity":{
+    "0":0.119047619,
+    "1":0.119047619,
+    "2":0.119047619
+  },
+  "subjectivity":{
+    "0":0.78,
+    "1":0.5625,
+    "2":0.5714285714
+  },
+  "mean_subjectivity":{
+    "0":0.6379761905,
+    "1":0.6379761905,
+    "2":0.6379761905
+  },
+  "screen_name":{
+    "0":"FearlessMod150",
+    "1":"jimmy_bowman",
+    "2":"FearlessMod150"
+  },
+  "Likes":{
+    "0":1,
+    "1":3,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho"
+  }
+}

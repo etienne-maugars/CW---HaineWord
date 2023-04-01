@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@alyankovic Weird Al yankovic looks like a Colombo villain in this photo"
+  },
+  "date":{
+    "0":1668139682000
+  },
+  "polarity":{
+    "0":-0.5
+  },
+  "mean_polarity":{
+    "0":-0.5
+  },
+  "subjectivity":{
+    "0":1.0
+  },
+  "mean_subjectivity":{
+    "0":1.0
+  },
+  "screen_name":{
+    "0":"garykingofscots"
+  },
+  "Likes":{
+    "0":0
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"Alabama"
+  }
+}

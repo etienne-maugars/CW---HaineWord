@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"DONALD TRUMP | El empresario intentar\u00e1 retornar a la Casa Blanca tras haber ocupado ese cargo entre 2017 y 2021\n https:\/\/t.co\/16cCgOBF34",
+    "1":"@HelenaVillarRT Suena a hacer un golpe de estado a nivel institucional y amparado por la justicia de EEUU. Ya me lo imagino creando le causas a Trump. Igual cualquiera de los dos son la misma mierda",
+    "2":"DONALD TRUMP | El l\u00edder republicano sostuvo que su partido podr\u00eda llevarse la ventaja en la c\u00e1mara de Representantes y varios esca\u00f1os en el Senado\n https:\/\/t.co\/A6tELR9MG5"
+  },
+  "date":{
+    "0":1668600058000,
+    "1":1668038971000,
+    "2":1668002756000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"Radio_Eme",
+    "1":"MerkDrm",
+    "2":"Radio_Eme"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"New Mexico",
+    "1":"New Mexico",
+    "2":"New Mexico"
+  }
+}

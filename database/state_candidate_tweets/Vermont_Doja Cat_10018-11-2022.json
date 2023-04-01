@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Doechii\nDoja Cat\nTierra Whack\nJ.I.D\nTyler the Creator\nSmino https:\/\/t.co\/fB0bi076Xo",
+    "1":"@eatxshit_ He was mad that he opened the bottle \u201cfor nothing\u201d. To be fair I was willing to be drunk and rap doja cat the whole night . That is NOT nothing."
+  },
+  "date":{
+    "0":1668725156000,
+    "1":1668024277000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.005
+  },
+  "mean_polarity":{
+    "0":0.0025,
+    "1":0.0025
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.81
+  },
+  "mean_subjectivity":{
+    "0":0.405,
+    "1":0.405
+  },
+  "screen_name":{
+    "0":"KFent2K",
+    "1":"SexOnYourEgo"
+  },
+  "Likes":{
+    "0":1,
+    "1":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont"
+  }
+}

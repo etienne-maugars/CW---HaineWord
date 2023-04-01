@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"Christian Pulisic leads Team USA's quest for the World Cup against Gareth Bale and Wales -- November 21st on FOX30. https:\/\/t.co\/Pty8Ze60cl",
+    "1":"Any news on Pulisic? Looked in real pain. Hope he doesn\u2019t miss the World Cup.",
+    "2":"@ManagerTactical If we get into the knockout round ans go to PKs, who takes them after Pulisic and Reyna? Not feeling very good about our scorers",
+    "3":"@LondonBluePod Pulisic must start.",
+    "4":"Christian Pulisic embracing the pressure of spearheading U.S. World Cup ambitions https:\/\/t.co\/qvmOUktUpZ"
+  },
+  "date":{
+    "0":1668441480000,
+    "1":1668343044000,
+    "2":1668058044000,
+    "3":1668030981000,
+    "4":1667999015000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.2,
+    "2":0.355,
+    "3":0.0,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.111,
+    "1":0.111,
+    "2":0.111,
+    "3":0.111,
+    "4":0.111
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.3,
+    "2":0.59,
+    "3":0.0,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.178,
+    "1":0.178,
+    "2":0.178,
+    "3":0.178,
+    "4":0.178
+  },
+  "screen_name":{
+    "0":"twinstatesnews",
+    "1":"roblj23",
+    "2":"AngelDeMusa",
+    "3":"owen_terry",
+    "4":"awsports23"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":3,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Mississippi",
+    "1":"Mississippi",
+    "2":"Mississippi",
+    "3":"Mississippi",
+    "4":"Mississippi"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"\u23f0 Ladies of Another View - Today at 4:30pm CT       \n\ud83d\udcfa WATCH LIVE:  https:\/\/t.co\/0DtJiqwaka\n\ud83d\udcfa WATCH LATER: https:\/\/t.co\/2FvBwiMuJL\n#BEKTV #BEKNews #LadiesOfAnotherView #ConservativeWomen #Cryptocurrency #bitcoin #crypto #blockchain #money https:\/\/t.co\/b4qmKg832K",
+    "1":"Are Smart Contracts Just Codes or Are They Legal Contracts?#100DaysOfCode #Python #CyberSercurity #BTC #Bitcoin #AI #ArtificialIntelligence #cryptocurrency #NFTs #NFTArt #Blockchain #DLT #Web3 #DataProtection #RugPull #HongKong #COVID #healthcare #Omicron",
+    "2":"@blockchainchick Looking at The Graph, Render, Polygon and, of course, BITCOIN!",
+    "3":"@BALawyer88 @KovaxxSandy @BriannaWu @elonmusk He always liked his pump and dump schemes with bitcoin. It felt like he was trying it with Twitter and it backfired spectacularly.",
+    "4":"Even bitcoin rose on hopes a slowdown in inflation could mean the Federal Reserve won\u2019t have to be so aggressive about raising rates. https:\/\/t.co\/6COEZxO8aD",
+    "5":"@ArnoldMVijil @salomondrin Hasta donde se va bitcoin Arnold el sniper perron"
+  },
+  "date":{
+    "0":1668635325000,
+    "1":1668525004000,
+    "2":1668369384000,
+    "3":1668122052000,
+    "4":1668117423000,
+    "5":1668088140000
+  },
+  "polarity":{
+    "0":0.0681818182,
+    "1":0.2071428571,
+    "2":0.0,
+    "3":0.6,
+    "4":0.14375,
+    "5":0.0
+  },
+  "mean_polarity":{
+    "0":0.1698457792,
+    "1":0.1698457792,
+    "2":0.1698457792,
+    "3":0.1698457792,
+    "4":0.1698457792,
+    "5":0.1698457792
+  },
+  "subjectivity":{
+    "0":0.25,
+    "1":0.4214285714,
+    "2":0.0,
+    "3":0.85,
+    "4":0.81875,
+    "5":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3900297619,
+    "1":0.3900297619,
+    "2":0.3900297619,
+    "3":0.3900297619,
+    "4":0.3900297619,
+    "5":0.3900297619
+  },
+  "screen_name":{
+    "0":"BEKNewsTV",
+    "1":"Pinnacle9493_",
+    "2":"ItsAbadox",
+    "3":"darsius2",
+    "4":"bistrib",
+    "5":"FabianArzate4"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":0,
+    "3":1,
+    "4":0,
+    "5":0
+  },
+  "RTs":{
+    "0":0,
+    "1":3,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota",
+    "5":"North Dakota"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@Tammi_Colombo Nope, they just loooove sin city!\ud83d\ude08\ud83d\udc9a",
+    "1":"@kevin_colombo @XXL Ashanti was singing about getting cheated on, how she can\u2019t breathe without a nigga, loving niggas more than they love her, nobody wanna hear that shit. &amp; I do love Ashanti but don\u2019t nobody wanna cry."
+  },
+  "date":{
+    "0":1668038176000,
+    "1":1668017379000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.38
+  },
+  "mean_polarity":{
+    "0":0.19,
+    "1":0.19
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.69
+  },
+  "mean_subjectivity":{
+    "0":0.345,
+    "1":0.345
+  },
+  "screen_name":{
+    "0":"FlyFrontier",
+    "1":"Mommyteezy"
+  },
+  "Likes":{
+    "0":1,
+    "1":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Colorado",
+    "1":"Colorado"
+  }
+}

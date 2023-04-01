@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@horrormuseum I'd relocate but feel so bad about making hours and hours of its work meaningless. At the same time...you are not going to catch much in a car, buddy. I roll these windows up usually.",
+    "1":"View from my classroom today. It is good to have windows. https:\/\/t.co\/PVgV42a5uw",
+    "2":"@BlackKnight10k Facebook is a friggin mess, what with having to open 4 windows to get to one's messages. They really screwed FB up with \"Meta Business.\" They force it on you even if your pages are not for selling anything.",
+    "3":"@Windows betas or earlier?",
+    "4":"@Windows this screen never had audio, the closest was during setup if your speakers worked you got that cool OOBE music",
+    "5":"@thenerdyschmid Dave said it turned out really well despite us having eye watering smoke in house that caused us to have all the fans going and windows open to disperse it.",
+    "6":"\"CIA museum\" feels like the setup to a joke - like you get there and it's just a solid stone cube with no doors or windows. https:\/\/t.co\/IkwAalwAy6"
+  },
+  "date":{
+    "0":1668548831000,
+    "1":1668540087000,
+    "2":1668191209000,
+    "3":1668088903000,
+    "4":1668088868000,
+    "5":1667955977000,
+    "6":1667924417000
+  },
+  "polarity":{
+    "0":-0.25,
+    "1":0.7,
+    "2":0.0083333333,
+    "3":0.0,
+    "4":0.35,
+    "5":0.1,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":0.1297619048,
+    "1":0.1297619048,
+    "2":0.1297619048,
+    "3":0.1297619048,
+    "4":0.1297619048,
+    "5":0.1297619048,
+    "6":0.1297619048
+  },
+  "subjectivity":{
+    "0":0.4483333333,
+    "1":0.6,
+    "2":0.2916666667,
+    "3":0.5,
+    "4":0.65,
+    "5":0.35,
+    "6":0.1
+  },
+  "mean_subjectivity":{
+    "0":0.42,
+    "1":0.42,
+    "2":0.42,
+    "3":0.42,
+    "4":0.42,
+    "5":0.42,
+    "6":0.42
+  },
+  "screen_name":{
+    "0":"JasonRo35771763",
+    "1":"sheehy",
+    "2":"peggydetmers",
+    "3":"GCustom",
+    "4":"GCustom",
+    "5":"nimdaandor",
+    "6":"cattheterrible"
+  },
+  "Likes":{
+    "0":2,
+    "1":5,
+    "2":0,
+    "3":0,
+    "4":5,
+    "5":1,
+    "6":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":1
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota",
+    "2":"South Dakota",
+    "3":"South Dakota",
+    "4":"South Dakota",
+    "5":"South Dakota",
+    "6":"South Dakota"
+  }
+}

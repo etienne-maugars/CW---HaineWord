@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@JoshuaPHilll Fascist to be against wokism? That's a leap.",
+    "1":"@elonmusk @getpaidwrite The conservative counter narrative to \u201cwokism\u201d is hatred, denial, bigotry, and persecution of individual liberty \u2013 precisely the thing our founders feared the most."
+  },
+  "date":{
+    "0":1669418515000,
+    "1":1669378643000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.3
+  },
+  "mean_polarity":{
+    "0":0.15,
+    "1":0.15
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.5666666667
+  },
+  "mean_subjectivity":{
+    "0":0.2833333333,
+    "1":0.2833333333
+  },
+  "screen_name":{
+    "0":"lawnaficionado1",
+    "1":"tcf98"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Pennsylvania",
+    "1":"Pennsylvania"
+  }
+}

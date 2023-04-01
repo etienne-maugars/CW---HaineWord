@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@bilal_shaaf Oki Shaaf IK \ud83c\udf37",
+    "1":"Keep readinf about how Graham doesn't have the pieces for his defense, and yes, it's partially the right take..but..\n He and Ziegler brought in:\n\nBilal Nichols\nRock Ya-Sin\nDuron Harmon\nAnthony Averette\nChandler Jones\nAndrew Billings\nJayon Brown"
+  },
+  "date":{
+    "0":1668160007000,
+    "1":1668087422000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0928571429
+  },
+  "mean_polarity":{
+    "0":0.0464285714,
+    "1":0.0464285714
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.4178571429
+  },
+  "mean_subjectivity":{
+    "0":0.2089285714,
+    "1":0.2089285714
+  },
+  "screen_name":{
+    "0":"Saadiatistic17",
+    "1":"MidgetTamer"
+  },
+  "Likes":{
+    "0":1,
+    "1":65
+  },
+  "RTs":{
+    "0":0,
+    "1":5
+  },
+  "state":{
+    "0":"Pennsylvania",
+    "1":"Pennsylvania"
+  }
+}

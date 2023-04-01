@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"new rihanna sawnggggggg"
+  },
+  "date":{
+    "0":1668005572000
+  },
+  "polarity":{
+    "0":0.1363636364
+  },
+  "mean_polarity":{
+    "0":0.1363636364
+  },
+  "subjectivity":{
+    "0":0.4545454545
+  },
+  "mean_subjectivity":{
+    "0":0.4545454545
+  },
+  "screen_name":{
+    "0":"laurstclair"
+  },
+  "Likes":{
+    "0":0
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"Wyoming"
+  }
+}

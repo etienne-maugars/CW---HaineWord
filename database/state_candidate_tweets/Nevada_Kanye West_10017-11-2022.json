@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@courtneyknill at the time it seemed like a good decision but he has show recently a god complex that never ends well just look at Kanye West\nit will be interesting seeing what DeSantis will do",
+    "1":"@usastrongwoman @adidas @kanyewest https:\/\/t.co\/7sqhcmGuPV",
+    "2":"Charleston White On Whats Happening To Kanye West #shorts #subscribe #mo... https:\/\/t.co\/2z9CJ63xZR via @YouTube",
+    "3":"Y\u2019all like edm? https:\/\/t.co\/2sBFOOk2hI",
+    "4":"@sond1ya I remember this from a Kanye west song"
+  },
+  "date":{
+    "0":1668568432000,
+    "1":1668475208000,
+    "2":1668361905000,
+    "3":1668295735000,
+    "4":1668010255000
+  },
+  "polarity":{
+    "0":0.225,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.045,
+    "1":0.045,
+    "2":0.045,
+    "3":0.045,
+    "4":0.045
+  },
+  "subjectivity":{
+    "0":0.4375,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0875,
+    "1":0.0875,
+    "2":0.0875,
+    "3":0.0875,
+    "4":0.0875
+  },
+  "screen_name":{
+    "0":"FundayXD",
+    "1":"GiftedChildEros",
+    "2":"invofbodysnatch",
+    "3":"_Tang_Tang_",
+    "4":"BathongRay"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":3,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada",
+    "2":"Nevada",
+    "3":"Nevada",
+    "4":"Nevada"
+  }
+}

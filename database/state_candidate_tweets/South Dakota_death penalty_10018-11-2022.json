@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"\u201cRep. Marjorie Taylor Greene, R-Ga., calls herself a Christian nationalist, because \u2018she loves God and loves her country.\u2019 I\u2019m not sure she would claim to love all her neighbors in Congress, as she said Nancy Pelosi committed treason, which calls for the death penalty.\u201d",
+    "1":"@adater You're an increasingly rare breed, AD. Moderates are harder to come by these days. I'm actually not even sure what you'd have to stand for to be a moderate anymore. pro abortion and pro guns? Pro-pot and anti abortion? Pro-police and anti-death penalty? Seems like an anomaly."
+  },
+  "date":{
+    "0":1668437915000,
+    "1":1668057405000
+  },
+  "polarity":{
+    "0":0.0833333333,
+    "1":0.14
+  },
+  "mean_polarity":{
+    "0":0.1116666667,
+    "1":0.1116666667
+  },
+  "subjectivity":{
+    "0":0.4962962963,
+    "1":0.5177777778
+  },
+  "mean_subjectivity":{
+    "0":0.507037037,
+    "1":0.507037037
+  },
+  "screen_name":{
+    "0":"DakotaStandard",
+    "1":"avsphins76"
+  },
+  "Likes":{
+    "0":2,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota"
+  }
+}

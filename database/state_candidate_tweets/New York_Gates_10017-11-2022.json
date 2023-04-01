@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Psalm 24: 9-10 Lift up your heads, you gates;\n\u00a0\u00a0\u00a0\u00a0lift them up, you ancient doors,\n\u00a0\u00a0\u00a0\u00a0that the King of glory may come in.\n10\u00a0Who is he, this King of glory?\n\u00a0\u00a0\u00a0\u00a0The\u00a0Lord\u00a0Almighty \u2014\n\u00a0\u00a0\u00a0\u00a0he is the King of glory.",
+    "1":"@LOUIELOVES28 Elon is such a naive innocent soul, bless his trust in Twitter and his belief that everyone will behave when he opens the gates and lets everyone off the leash hahahahaha",
+    "2":"@bubies111 ja mein vater bill gates"
+  },
+  "date":{
+    "0":1668560782000,
+    "1":1668339377000,
+    "2":1668104972000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.1,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0333333333,
+    "1":0.0333333333,
+    "2":0.0333333333
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.7,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2333333333,
+    "1":0.2333333333,
+    "2":0.2333333333
+  },
+  "screen_name":{
+    "0":"OrkidaMuca",
+    "1":"CAETFOOD",
+    "2":"PIDH9NE"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York"
+  }
+}

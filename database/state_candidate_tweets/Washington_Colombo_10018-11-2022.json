@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@matiasgarciard No le preguntaste a yankee por colombo rubirosa unmm \ud83d\ude02\ud83d\ude02",
+    "1":"@kathy_colombo @MayorofSeattle People feel unsafe since Columbine?\n\nFacts:\n~165 million children graduated HS.\n&gt;100,000 children lost their lives to underage alcohol consumption.\n~180 children\u2019s lives were stolen in school shootings.\n\nHow many lives would be saved if we ban alcohol?\nIt\u2019s the parent\u2019s fault.",
+    "2":"@fernandoharin @richardquest @CNN Swiss Airlines are not starting flights to Colombo!\nFacts do matter old boy - at least in the real world."
+  },
+  "date":{
+    "0":1668646508000,
+    "1":1668489376000,
+    "2":1668030809000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.5,
+    "2":6.938893904e-18
+  },
+  "mean_polarity":{
+    "0":0.1666666667,
+    "1":0.1666666667,
+    "2":0.1666666667
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.5,
+    "2":0.25
+  },
+  "mean_subjectivity":{
+    "0":0.25,
+    "1":0.25,
+    "2":0.25
+  },
+  "screen_name":{
+    "0":"mannybv13",
+    "1":"reino260z",
+    "2":"charlesabey"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Washington",
+    "1":"Washington",
+    "2":"Washington"
+  }
+}

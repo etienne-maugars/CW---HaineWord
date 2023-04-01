@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Vegas by Doja Cat was on three separate times I got into my car today.",
+    "1":"Who else is thinking about that one Doja Cat clip when they see this ? Can anybody find it for me? https:\/\/t.co\/Pm0CtCc5Dk",
+    "2":"The Mia Gothicafication of Doja Cat. https:\/\/t.co\/N2Bpd7tESb"
+  },
+  "date":{
+    "0":1668548895000,
+    "1":1668396850000,
+    "2":1668128317000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"dontbeadownerok",
+    "1":"femmephibian",
+    "2":"femmephibian"
+  },
+  "Likes":{
+    "0":0,
+    "1":6,
+    "2":5
+  },
+  "RTs":{
+    "0":0,
+    "1":3,
+    "2":0
+  },
+  "state":{
+    "0":"West Virginia",
+    "1":"West Virginia",
+    "2":"West Virginia"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"Dr Umar Johnson Speaks On Kanye West Kyrie Irving &amp; Black People In Medi... https:\/\/t.co\/yhY47BsHGF via @YouTube",
+    "1":"Kanye West Say's He was under MK ULTRA... FULL Video!!! https:\/\/t.co\/N1AmLmrfUj via @YouTube",
+    "2":"Es 2022 y para m\u00ed es tan sencillo como que TODOS los que apoyen a AMLO, a Morena, al PAN, a Gloria Trevi y Kanye West pueden ir a chingar a su madre y seguir siendo pendejos con ella. \n\nFeliz lunes \ud83d\ude04.",
+    "3":"Dr Umar Johnson Speaks On Kanye West Kyrie Irving &amp; Black People In Medi... https:\/\/t.co\/yhY47BKj5f via @YouTube",
+    "4":"Dr Umar Johnson Speaks On Kanye West Kyrie Irving &amp; Black People In Medi... https:\/\/t.co\/yhY47BKQUN via @YouTube",
+    "5":"Kanye West Allegedly Fired Employee For Suggesting Playing Drake\u2019s Music https:\/\/t.co\/ZLIHr1Ot58 via @Yahoo He`d still be there if he`d asked to listen to Freddie Gibbs \ud83d\ude0e"
+  },
+  "date":{
+    "0":1668650198000,
+    "1":1668476175000,
+    "2":1668441835000,
+    "3":1668347353000,
+    "4":1668121247000,
+    "5":1668107197000
+  },
+  "polarity":{
+    "0":-0.1666666667,
+    "1":0.68359375,
+    "2":0.0,
+    "3":-0.1666666667,
+    "4":-0.1666666667,
+    "5":-0.1
+  },
+  "mean_polarity":{
+    "0":0.0139322917,
+    "1":0.0139322917,
+    "2":0.0139322917,
+    "3":0.0139322917,
+    "4":0.0139322917,
+    "5":0.0139322917
+  },
+  "subjectivity":{
+    "0":0.4333333333,
+    "1":0.55,
+    "2":0.0,
+    "3":0.4333333333,
+    "4":0.4333333333,
+    "5":0.1
+  },
+  "mean_subjectivity":{
+    "0":0.325,
+    "1":0.325,
+    "2":0.325,
+    "3":0.325,
+    "4":0.325,
+    "5":0.325
+  },
+  "screen_name":{
+    "0":"RashiedLane",
+    "1":"RashiedLane",
+    "2":"jc_roes",
+    "3":"RashiedLane",
+    "4":"RashiedLane",
+    "5":"STUPH4KEWLKIDZ"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":0,
+    "5":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont",
+    "2":"Vermont",
+    "3":"Vermont",
+    "4":"Vermont",
+    "5":"Vermont"
+  }
+}

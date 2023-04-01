@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@BolWrld Kyrie Irving\nVince Carter\nLebron James\nTim Duncan\nDwight Howard",
+    "1":"@JJHobbs12 I have you started protest to have at \n@PrimeVideo @amazon to remove the show from it platform yet. It still on there you can bash Kyrie Irving and @KingJames but have you bash the biggest source of it yet?",
+    "2":"@JJHobbs12 I have you started protest to have at \n@PrimeVideo @amazon to remove the show from it platform yet. It still on there you can bash Kyrie Irving and @KingJames but have you bash the biggest source of it yet?"
+  },
+  "date":{
+    "0":1668309376000,
+    "1":1668117817000,
+    "2":1668117773000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"mrgrimm1022",
+    "1":"Meek1524",
+    "2":"Meek1524"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada",
+    "2":"Nevada"
+  }
+}

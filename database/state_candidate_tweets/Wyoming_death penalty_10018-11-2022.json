@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@costgallo @Cryptorain9 @Timccopeland Embarrassment is hardly tantamount to the death penalty, but jokes on you I\u2019m pro capital punishment.",
+    "1":"Buying weed in Colorado is like another item on your grocery list. But in IOWA you'll get the DEATH PENALTY. https:\/\/t.co\/7agTaEhVnP",
+    "2":"@PsychRabble \ud83d\ude3f 19.7% \"strongly\" &amp; 28.1% \"somewhat\" agree\n\n\u201cVIOLENCE IN RESPONSE TO OFFENSIVE SPEECH IS NOT A NEW PHENOMENON. IN SOME CULTURES, SOME TYPES OF OFFENSIVE SPEECH EVEN MERIT THE DEATH PENALTY. SOME SPEECH CAN BE SO OFFENSIVE IN CERTAIN CASES THAT IT MERITS SUCH HARSH PUNISHMENT.\u201d",
+    "3":"@PsychRabble Is this for real?\n\n\"almost half (48%) of students agreed that violence in response to offensiveness is not a new phenomenon &amp; the same % say that some kinds of expression are so offensive they deserve extremely harsh punishment \u2014 like the death penalty\"\nhttps:\/\/t.co\/J54zGQsUjv",
+    "4":"@SBF_FTX needs to talk, then he needs the death penalty.\n\nSeems there\u2019s a lot missing and it\u2019s not limited to crypto.",
+    "5":"i hate all video games and everyone who has ever played a video game should be sentenced to the death penalty without trial https:\/\/t.co\/FwQcTkX9Ue",
+    "6":"Do you think now that the elections are over, they\u2019ll outlaw the death penalty? I don\u2019t. Our government is savage."
+  },
+  "date":{
+    "0":1668623268000,
+    "1":1668569317000,
+    "2":1668386036000,
+    "3":1668382440000,
+    "4":1668300799000,
+    "5":1668096634000,
+    "6":1668047485000
+  },
+  "polarity":{
+    "0":-0.2916666667,
+    "1":0.0,
+    "2":0.0758874459,
+    "3":-0.046969697,
+    "4":-0.0821428571,
+    "5":-0.6,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":-0.1349845393,
+    "1":-0.1349845393,
+    "2":-0.1349845393,
+    "3":-0.1349845393,
+    "4":-0.1349845393,
+    "5":-0.1349845393,
+    "6":-0.1349845393
+  },
+  "subjectivity":{
+    "0":0.5416666667,
+    "1":0.0,
+    "2":0.5918614719,
+    "3":0.3492424242,
+    "4":0.0964285714,
+    "5":0.65,
+    "6":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3184570192,
+    "1":0.3184570192,
+    "2":0.3184570192,
+    "3":0.3184570192,
+    "4":0.3184570192,
+    "5":0.3184570192,
+    "6":0.3184570192
+  },
+  "screen_name":{
+    "0":"Eratosthenes0",
+    "1":"BadaBinge",
+    "2":"robsica",
+    "3":"robsica",
+    "4":"EF_Biz",
+    "5":"ramunejay",
+    "6":"unionizebabylon"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":65,
+    "6":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":6,
+    "6":0
+  },
+  "state":{
+    "0":"Wyoming",
+    "1":"Wyoming",
+    "2":"Wyoming",
+    "3":"Wyoming",
+    "4":"Wyoming",
+    "5":"Wyoming",
+    "6":"Wyoming"
+  }
+}

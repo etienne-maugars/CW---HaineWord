@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@wembi_steve STALINE EST DEVENU CONGOLAIS?"
+  },
+  "date":{
+    "0":1668078337000
+  },
+  "polarity":{
+    "0":0.0
+  },
+  "mean_polarity":{
+    "0":0.0
+  },
+  "subjectivity":{
+    "0":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0
+  },
+  "screen_name":{
+    "0":"MacLothi"
+  },
+  "Likes":{
+    "0":0
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"Kentucky"
+  }
+}

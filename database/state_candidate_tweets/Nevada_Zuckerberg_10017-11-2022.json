@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"https:\/\/t.co\/WzAGxoZJy5 https:\/\/t.co\/U9EanKwuhy",
+    "1":"Mark Zuckerberg announced Wednesday that Meta will be laying off 11,000 people due to faltering revenue and broader tech industry woes.\nhttps:\/\/t.co\/hrlFY9UiKJ",
+    "2":"Meta laying off more than 11,000 employees: Read Zuckerberg's letter announcing the cuts https:\/\/t.co\/DntL9dXuVj",
+    "3":"Facebook parent Meta is laying off 11,000 people, about 13% of its workforce, as it contends with faltering revenue and broader tech industry woes, CEO Mark Zuckerberg said in a letter to employees today.  https:\/\/t.co\/xZUhfeWoqM",
+    "4":"Facebook parent Meta is laying off 11,000 people, about 13% of its workforce. https:\/\/t.co\/xgDf0aZe8O",
+    "5":"@D_B_Harrison @CNBC Hmm, and I bet we won\u2019t hear a peep from the blue checks about how terrible Zuckerberg is for it. \ud83e\udd14"
+  },
+  "date":{
+    "0":1668482713000,
+    "1":1668029400000,
+    "2":1668023074000,
+    "3":1668006060000,
+    "4":1668003181000,
+    "5":1667994218000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.125,
+    "2":0.5,
+    "3":0.0,
+    "4":0.0,
+    "5":-0.5
+  },
+  "mean_polarity":{
+    "0":-0.0208333333,
+    "1":-0.0208333333,
+    "2":-0.0208333333,
+    "3":-0.0208333333,
+    "4":-0.0208333333,
+    "5":-0.0208333333
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.375,
+    "2":0.5,
+    "3":0.0,
+    "4":0.0,
+    "5":0.55
+  },
+  "mean_subjectivity":{
+    "0":0.2375,
+    "1":0.2375,
+    "2":0.2375,
+    "3":0.2375,
+    "4":0.2375,
+    "5":0.2375
+  },
+  "screen_name":{
+    "0":"augusII4",
+    "1":"fox11reno",
+    "2":"Jonathansabin1",
+    "3":"KTVN",
+    "4":"KRNV",
+    "5":"ChrisHohnholz"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":4,
+    "4":1,
+    "5":16
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":2
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada",
+    "2":"Nevada",
+    "3":"Nevada",
+    "4":"Nevada",
+    "5":"Nevada"
+  }
+}

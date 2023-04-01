@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"@emeriticus \u201cBiden, who showered with his daughter, is seen greeting Macron\u201d",
+    "1":"@Margari77581206 @ACTBrigitte So what? He could've driven there if he really cared. General Kelly went. How did he get there? Macron and Merkel went too. Stop lying for Trump. He never gave a f*ck about vets.",
+    "2":"@TellonTue @ACTBrigitte Macron and Merkel too. Trudeau went to an event in the Northeast of France. Nice try though.",
+    "3":"@PolitiBunny 2020 did change us, but it seems to be part of a bigger plan to do just that. When Biden was running for President he, Dems and other leaders around the world like Trudeau, Macron and Boris Johnson kept talking about \u201cThe New Normal\u201d.\nHere we are\u2026."
+  },
+  "date":{
+    "0":1668580476000,
+    "1":1668199233000,
+    "2":1668199163000,
+    "3":1668044932000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.125,
+    "2":0.6,
+    "3":0.0403409091
+  },
+  "mean_polarity":{
+    "0":0.1913352273,
+    "1":0.1913352273,
+    "2":0.1913352273,
+    "3":0.1913352273
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.35,
+    "2":1.0,
+    "3":0.4948863636
+  },
+  "mean_subjectivity":{
+    "0":0.4612215909,
+    "1":0.4612215909,
+    "2":0.4612215909,
+    "3":0.4612215909
+  },
+  "screen_name":{
+    "0":"anniebad2",
+    "1":"LongPeace69",
+    "2":"LongPeace69",
+    "3":"JBarrORConserv"
+  },
+  "Likes":{
+    "0":15,
+    "1":1,
+    "2":2,
+    "3":0
+  },
+  "RTs":{
+    "0":2,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Oregon",
+    "1":"Oregon",
+    "2":"Oregon",
+    "3":"Oregon"
+  }
+}

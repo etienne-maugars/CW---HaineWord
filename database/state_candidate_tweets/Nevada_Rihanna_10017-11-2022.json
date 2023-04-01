@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@chartdata @rihanna free fall queen",
+    "1":"Rihanna new album is for girls that accepted the soft girl era",
+    "2":"@IvanIvez There's a lot more money in being kid friendly than ppl realize. Just the fact he was on Disney then after the Rihanna thing happened that episode is pretty much wiped off the internet now. He's more like a black ppl celebrity than celebrity celebrity now",
+    "3":"@enews LOL when he asked Rihanna that question \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "4":"@jdrealitives @rihanna You JD were the one normal hot guy on the video. . . had to laugh",
+    "5":"The ending to #WakandaForever mixed the new Rihanna song \ud83d\ude2d\ud83d\ude2d",
+    "6":"@alexa99 Rihanna #BlackPanther"
+  },
+  "date":{
+    "0":1668550878000,
+    "1":1668529608000,
+    "2":1668465483000,
+    "3":1668462617000,
+    "4":1668397225000,
+    "5":1668320502000,
+    "6":1668023017000
+  },
+  "polarity":{
+    "0":0.4,
+    "1":0.1181818182,
+    "2":0.2763888889,
+    "3":0.8,
+    "4":0.2333333333,
+    "5":0.0681818182,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":0.2708694084,
+    "1":0.2708694084,
+    "2":0.2708694084,
+    "3":0.2708694084,
+    "4":0.2708694084,
+    "5":0.2708694084,
+    "6":0.2708694084
+  },
+  "subjectivity":{
+    "0":0.8,
+    "1":0.4022727273,
+    "2":0.5222222222,
+    "3":0.7,
+    "4":0.5333333333,
+    "5":0.3522727273,
+    "6":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.4728715729,
+    "1":0.4728715729,
+    "2":0.4728715729,
+    "3":0.4728715729,
+    "4":0.4728715729,
+    "5":0.4728715729,
+    "6":0.4728715729
+  },
+  "screen_name":{
+    "0":"Kraftsmaknchez",
+    "1":"Busines87546561",
+    "2":"queennicki__1",
+    "3":"WinndellJ",
+    "4":"PamFig1224",
+    "5":"C_M_Peffer",
+    "6":"WinndellJ"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":1,
+    "5":0,
+    "6":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada",
+    "2":"Nevada",
+    "3":"Nevada",
+    "4":"Nevada",
+    "5":"Nevada",
+    "6":"Nevada"
+  }
+}

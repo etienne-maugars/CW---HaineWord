@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"Christian Pulisic - Chelsea 2022-2023 Attacking Midfield &amp; Winger Template, Radar https:\/\/t.co\/gPmeQoITWu",
+    "1":"@JayAH985 I like this.  I certainly like Sargent up top.  I like that this gets Reyna and Pulisic on at the same time.  It's good to have quality subs like Aronson waiting in the wings if he's not starting. If Westin can go I'd have him in over Musah.",
+    "2":"@ManagerTactical He\u2019s gonna play pulisic as a right wing back isn\u2019t he? Lol",
+    "3":"@SJohnsonSport Over\/Under how many times will England foul Pulisic - 7.5",
+    "4":"@GabeoZaos Pulisic, Ziyech, Kovaci\u0107, Loftus-Cheek, Aubameyang e Havertz n\u00e3o fariam falta alguma (como 9 prefiro Werner do que Havertz)"
+  },
+  "date":{
+    "0":1668619696000,
+    "1":1668612386000,
+    "2":1668557859000,
+    "3":1668523105000,
+    "4":1667919318000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.2828571429,
+    "2":0.3619047619,
+    "3":0.5,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.228952381,
+    "1":0.228952381,
+    "2":0.228952381,
+    "3":0.228952381,
+    "4":0.228952381
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.3792857143,
+    "2":0.4119047619,
+    "3":0.5,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2582380952,
+    "1":0.2582380952,
+    "2":0.2582380952,
+    "3":0.2582380952,
+    "4":0.2582380952
+  },
+  "screen_name":{
+    "0":"CrabStats",
+    "1":"JeffShepherd63",
+    "2":"JeffShepherd63",
+    "3":"JeffShepherd63",
+    "4":"Cohenzzor"
+  },
+  "Likes":{
+    "0":5,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada",
+    "2":"Nevada",
+    "3":"Nevada",
+    "4":"Nevada"
+  }
+}

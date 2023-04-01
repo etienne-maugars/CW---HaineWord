@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@ImagenRetro @gronalex_ @RobertoRuedaQ Osamaaa Ben Laden, tu que tumbaste las torres gemelas, las m\u00e1s mamonudas",
+    "1":"@nahuelzn Falt\u00f3 Osama Ben Laden .!"
+  },
+  "date":{
+    "0":1668220125000,
+    "1":1668194252000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"Julio_DiazCanti",
+    "1":"Carlitos422"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"South Carolina",
+    "1":"South Carolina"
+  }
+}

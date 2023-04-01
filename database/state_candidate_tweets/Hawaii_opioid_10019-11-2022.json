@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"Officials said overdoses linked to fentanyl are continuing and the demand for Narcan, the medication used to counteract an opioid overdose, has doubled.\nhttps:\/\/t.co\/hkov6Tc1Ww",
+    "1":"The Opioid Epidemic Now Kills More Black People Than White Ones because of Unequal Access to Treatment\n\nClinics and the most effective types of therapy are harder to find in communities where people of color live https:\/\/t.co\/gOOx7NdLbo",
+    "2":"Barriers to Care \u2013 Addressing Health Inequities in Treatment and Recovery of Opioid Use Disorder https:\/\/t.co\/K3bp4jxUv7",
+    "3":"\"Maintaining a reliable, safe supply of amphetamine medications is crucial to avoid a major public health crisis.\" @LeoBeletsky in today's @latimes.\n\nOp-Ed: Don't let Adderall scarcity trigger a repeat of the opioid epidemic https:\/\/t.co\/dNzTzQs0zP",
+    "4":"Non-fatal opioid OD after release from prison among men who injected drugs prior to imprisonment: \n\nIn 1st 2 wks after their release from prison, people are at greater risk than usual of fatal opioid OD. They are also at greater risk of non-fatal opioid OD https:\/\/t.co\/88oK32mFs4 https:\/\/t.co\/pvqSmDvKlL",
+    "5":"City streetscapes &amp;  neighborhood characteristics of fatal opioid ODs among people experiencing homelessness in NYC\n\n55.9% of fatal ODs occurred in supportive housing or shelters &amp; 15.5% in public spaces\n\nHarm reduction services should be in facilities... https:\/\/t.co\/ciBJClCdoD https:\/\/t.co\/P2KmWcmtw9",
+    "6":"Study details worsening racial disparities in opioid addiction treatment\n\nResults of a new study show a growing racial gap in treatment length for patients with opioid use disorder. https:\/\/t.co\/CWAECxYolx",
+    "7":"@thinker_indie Thank you! Opioid use is  prevalent among vets who cannot cope as well\ud83d\ude14",
+    "8":"Narcan trainings ramp up across metro Detroit amid opioid crisis https:\/\/t.co\/WlL2X2SxMW"
+  },
+  "date":{
+    "0":1668544091000,
+    "1":1668528518000,
+    "2":1668527460000,
+    "3":1668502508000,
+    "4":1668436058000,
+    "5":1668384239000,
+    "6":1668382900000,
+    "7":1668194908000,
+    "8":1668105246000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.20995671,
+    "2":0.0,
+    "3":0.140625,
+    "4":0.1875,
+    "5":0.25,
+    "6":0.1363636364,
+    "7":0.0,
+    "8":0.0
+  },
+  "mean_polarity":{
+    "0":0.1027161496,
+    "1":0.1027161496,
+    "2":0.1027161496,
+    "3":0.1027161496,
+    "4":0.1027161496,
+    "5":0.1027161496,
+    "6":0.1027161496,
+    "7":0.1027161496,
+    "8":0.1027161496
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.3904761905,
+    "2":0.0,
+    "3":0.5166666667,
+    "4":0.3125,
+    "5":0.5333333333,
+    "6":0.4545454545,
+    "7":0.0,
+    "8":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2452801828,
+    "1":0.2452801828,
+    "2":0.2452801828,
+    "3":0.2452801828,
+    "4":0.2452801828,
+    "5":0.2452801828,
+    "6":0.2452801828,
+    "7":0.2452801828,
+    "8":0.2452801828
+  },
+  "screen_name":{
+    "0":"KHONnews",
+    "1":"HIV_Insight",
+    "2":"HIV_Insight",
+    "3":"nikosleverenz",
+    "4":"HIV_Insight",
+    "5":"HIV_Insight",
+    "6":"HIV_Insight",
+    "7":"kellyinhilo",
+    "8":"HIV_Insight"
+  },
+  "Likes":{
+    "0":2,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":2,
+    "7":1,
+    "8":0
+  },
+  "RTs":{
+    "0":1,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":8,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"Hawaii",
+    "1":"Hawaii",
+    "2":"Hawaii",
+    "3":"Hawaii",
+    "4":"Hawaii",
+    "5":"Hawaii",
+    "6":"Hawaii",
+    "7":"Hawaii",
+    "8":"Hawaii"
+  }
+}

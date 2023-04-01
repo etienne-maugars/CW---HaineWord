@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"Wokism strikes again https:\/\/t.co\/LDjWQJocLc",
+    "1":"Finn Twitter is in chaos as a new law criminalizes public and unwanted comments about asses. Is this Soviet Wokism? In 2023, yelling \u201cLook at all that ass\u201d in Finland may be a misdemeanor, depending on circumstances. https:\/\/t.co\/rwIFk4pfbk",
+    "2":"Wokism is the new Puritanism. https:\/\/t.co\/TS2US9qAU8",
+    "3":"@THR @RobertIger Hopefully there will be less wokism!"
+  },
+  "date":{
+    "0":1669655251000,
+    "1":1669141147000,
+    "2":1669080540000,
+    "3":1669000233000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0681818182,
+    "2":0.1363636364,
+    "3":-0.2083333333
+  },
+  "mean_polarity":{
+    "0":-0.0009469697,
+    "1":-0.0009469697,
+    "2":-0.0009469697,
+    "3":-0.0009469697
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.2606060606,
+    "2":0.4545454545,
+    "3":0.0666666667
+  },
+  "mean_subjectivity":{
+    "0":0.1954545455,
+    "1":0.1954545455,
+    "2":0.1954545455,
+    "3":0.1954545455
+  },
+  "screen_name":{
+    "0":"ralphalberti",
+    "1":"teroterotero",
+    "2":"LPofCT",
+    "3":"ColinSteinberg"
+  },
+  "Likes":{
+    "0":0,
+    "1":4,
+    "2":27,
+    "3":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":2,
+    "3":0
+  },
+  "state":{
+    "0":"Connecticut",
+    "1":"Connecticut",
+    "2":"Connecticut",
+    "3":"Connecticut"
+  }
+}

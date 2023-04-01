@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"https:\/\/t.co\/1rCehp75iq Charles Barkley reacts to Kyrie Irving and Dave Chappelle https:\/\/t.co\/zfQt0EI46r https:\/\/t.co\/GV8XiSyeLw",
+    "1":"Brooklyn Nets Owner Almost Cut Kyrie Irving After Watching The Documentary Irving Shared On Social Media https:\/\/t.co\/m9QqkeoPWj",
+    "2":"https:\/\/t.co\/gnmqg3w5Xw Kyrie Irving Suspended For Game Against The Sacramento Kings https:\/\/t.co\/CaYWK0YyYI https:\/\/t.co\/KgeGggcHh1",
+    "3":"I know your not religiously observant, but you are ethnically and culturally an American Ashkanzi Jew. \nWhat are your thoughts around this, and Kanye, and Kyrie Irving etc? https:\/\/t.co\/8D549Nm6Qk",
+    "4":"NBA Defensive GOAT?! Billionaire Mark Cuban candid interview on Kyrie Irving, Kanye, Elon Musk, Lil Wayne, Luka, NBA+More https:\/\/t.co\/qWIbm8JboF https:\/\/t.co\/xi7MseYtWo",
+    "5":"Nets and ADL Want Jeff Bezos and Amazon To Remove The Film Kyrie Irving Shared on His Social Media \u2013 BlackSportsOnline https:\/\/t.co\/kn957zy1RW via @bso"
+  },
+  "date":{
+    "0":1668714454000,
+    "1":1668677423000,
+    "2":1668554681000,
+    "3":1668499541000,
+    "4":1668220565000,
+    "5":1668162611000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0166666667,
+    "2":-0.4,
+    "3":0.0,
+    "4":0.6,
+    "5":0.0333333333
+  },
+  "mean_polarity":{
+    "0":0.0416666667,
+    "1":0.0416666667,
+    "2":0.0416666667,
+    "3":0.0416666667,
+    "4":0.0416666667,
+    "5":0.0416666667
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0333333333,
+    "2":0.4,
+    "3":0.125,
+    "4":0.8,
+    "5":0.0666666667
+  },
+  "mean_subjectivity":{
+    "0":0.2375,
+    "1":0.2375,
+    "2":0.2375,
+    "3":0.2375,
+    "4":0.2375,
+    "5":0.2375
+  },
+  "screen_name":{
+    "0":"dr_oz_chili",
+    "1":"RocketstarMedia",
+    "2":"Hoops227_CBB",
+    "3":"CiabanItReal",
+    "4":"MSUSpartanChili",
+    "5":"RocketstarMedia"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho",
+    "3":"Idaho",
+    "4":"Idaho",
+    "5":"Idaho"
+  }
+}

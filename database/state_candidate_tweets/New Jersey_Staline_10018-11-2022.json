@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"Joseph Staline https:\/\/t.co\/pdtjqPcjYM",
+    "1":"@AldoSterone111 Je me disais la m\u00eame chose aujourd\u2019hui. Staline avait donc raison.",
+    "2":"@petuniaficus Et surtout intol\u00e9rants, des Staline aux petits pieds !",
+    "3":"@guccislorde @Pr1cedechezloub @LouisWitter @BFMTV Il est pr\u00e9sident d'un parti politique, il a toute l\u00e9gitimit\u00e9 \u00e0 s'exprimer. C'est terrible ce besoin de faire taire les gens qui ne pensent pas comme vous. Vous \u00eates les nouveaux Staline, Mao  ...",
+    "4":"@Lectures_Rouges Ne faite pas semblant de ne pas comprendre la technique. Vous r\u00e9sumez Hannah Arendt au mot totalitarisme. Vous y mettez Hitler et Staline. Vous y ajoutez du Pol Pot, Mao, Kim Jong-Un, Castro et Chavez. Ca y est la soupe est pr\u00eate. Vous pouvez enfin y mettre du Melenchon, ..."
+  },
+  "date":{
+    "0":1668502212000,
+    "1":1668384815000,
+    "2":1668280666000,
+    "3":1668198258000,
+    "4":1668043207000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-1.0,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":-0.2,
+    "1":-0.2,
+    "2":-0.2,
+    "3":-0.2,
+    "4":-0.2
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2,
+    "1":0.2,
+    "2":0.2,
+    "3":0.2,
+    "4":0.2
+  },
+  "screen_name":{
+    "0":"Ze_Nerf_Ta_Mid",
+    "1":"bernanos68",
+    "2":"JoLeca6",
+    "3":"JoLeca6",
+    "4":"PacoBatali"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":8,
+    "4":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":0
+  },
+  "state":{
+    "0":"New Jersey",
+    "1":"New Jersey",
+    "2":"New Jersey",
+    "3":"New Jersey",
+    "4":"New Jersey"
+  }
+}

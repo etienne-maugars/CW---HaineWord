@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"@EpochOpinion @EpochTimes @JohnRLottJr How is it that this guys doesn\u2019t get the death penalty!?!",
+    "1":"@DelacroixHero It's the state, they don't have the death penalty in WI. I think Wisconsin is the only state that's outlawed it",
+    "2":"@RBReich @faewings Or the death penalty?",
+    "3":"@Shayan86 The articles I read indicated there were members of the MPs demanding the death penalty for all the protestors detained, which is nearly 16,000.\n\nNewsweek reported it accurately, and aren't responsible for politicians twisting it to score points. https:\/\/t.co\/FEqdknBeX1",
+    "4":"@GaryCallahan76 @emrazz The death penalty has no deterrent effect. Claims that each execution deters a certain number of murders have been thoroughly discredited by social science research.",
+    "5":"@AdamCrigler I agree with you Adam. The only way I would consider death penalty for drug dealers is if the dealer was linked directly to drugs that definitively killed somebody, and even then, I\u2019d only support if the drugs were confirmed tainted, because accidental and intentional ODs happen.",
+    "6":"@miles_commodore How can a Christian be for the death penalty?",
+    "7":"@LilaGraceRose Michigan too. Right through fetal viability (when the baby can live outside the womb) and up to its actual birth. Being conceived should not be a crime which deserves the death penalty \ud83d\ude1e",
+    "8":"I\u2019m against the death penalty. Passionately so. And yet, people who haven\u2019t figured out how to go on mute on Zoom in the year of our Lord, 2022, (especially on very large calls) make a compelling case for exceptions https:\/\/t.co\/WQdSqClcKu"
+  },
+  "date":{
+    "0":1668725194000,
+    "1":1668705523000,
+    "2":1668676348000,
+    "3":1668595258000,
+    "4":1668586021000,
+    "5":1668568580000,
+    "6":1668396422000,
+    "7":1668053657000,
+    "8":1668024857000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.2333333333,
+    "4":0.1238095238,
+    "5":0.06,
+    "6":0.0,
+    "7":0.1055194805,
+    "8":0.1761904762
+  },
+  "mean_polarity":{
+    "0":0.0776503127,
+    "1":0.0776503127,
+    "2":0.0776503127,
+    "3":0.0776503127,
+    "4":0.0776503127,
+    "5":0.0776503127,
+    "6":0.0776503127,
+    "7":0.0776503127,
+    "8":0.0776503127
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":1.0,
+    "2":0.0,
+    "3":0.5277777778,
+    "4":0.319047619,
+    "5":0.68,
+    "6":0.0,
+    "7":0.2964285714,
+    "8":0.669047619
+  },
+  "mean_subjectivity":{
+    "0":0.3880335097,
+    "1":0.3880335097,
+    "2":0.3880335097,
+    "3":0.3880335097,
+    "4":0.3880335097,
+    "5":0.3880335097,
+    "6":0.3880335097,
+    "7":0.3880335097,
+    "8":0.3880335097
+  },
+  "screen_name":{
+    "0":"WardoftheHaw",
+    "1":"_lizsama",
+    "2":"scribblerbilly",
+    "3":"MaJonesNephew",
+    "4":"LissaPea",
+    "5":"DarthKeidran",
+    "6":"scribblerbilly",
+    "7":"realRichardPaul",
+    "8":"ericearling"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":3,
+    "3":1,
+    "4":4,
+    "5":1,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":2,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho",
+    "3":"Idaho",
+    "4":"Idaho",
+    "5":"Idaho",
+    "6":"Idaho",
+    "7":"Idaho",
+    "8":"Idaho"
+  }
+}

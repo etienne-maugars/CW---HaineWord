@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"He had fatal levels of a powerful synthetic opioid in his system\nhttps:\/\/t.co\/kzukGDN5vs",
+    "1":"Have a patient on suboxone for Opioid dependence and she\u2019s had two scripts of Percocet in the past two weeks\u2026 doctors are dumb as hell I swear. Lmao",
+    "2":"#Naloxone is life-saving\n\nIt's used to reverse an opioid overdose.\n\nSome kits have missing, or no needles at all.\n\nPlease check your kits and replace if needed.\n\nIf you don't have one, please get yourself a kit &amp; keep with you at all times. You could save a life.\n\n#RecoveryPosse https:\/\/t.co\/l0jQDA10Au"
+  },
+  "date":{
+    "0":1668696220000,
+    "1":1668653903000,
+    "2":1668169759000
+  },
+  "polarity":{
+    "0":0.3,
+    "1":-0.0083333333,
+    "2":-0.2
+  },
+  "mean_polarity":{
+    "0":0.0305555556,
+    "1":0.0305555556,
+    "2":0.0305555556
+  },
+  "subjectivity":{
+    "0":1.0,
+    "1":0.5833333333,
+    "2":0.05
+  },
+  "mean_subjectivity":{
+    "0":0.5444444444,
+    "1":0.5444444444,
+    "2":0.5444444444
+  },
+  "screen_name":{
+    "0":"KM_newsroom",
+    "1":"jamieerex",
+    "2":"dazlarrr"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1
+  },
+  "state":{
+    "0":"Delaware",
+    "1":"Delaware",
+    "2":"Delaware"
+  }
+}

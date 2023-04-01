@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"@SkySportsPL Suspend Messi passport or something. This dude needa be on da\u2019 plane",
+    "1":"@TheEuropeanLad Tryna snuck Messi in \ud83d\ude2d https:\/\/t.co\/dR7vmuDwIG",
+    "2":"@FabrizioRomano Messi news?",
+    "3":"@FCBarcelona This is all Messi fault \ud83d\ude2d"
+  },
+  "date":{
+    "0":1668364199000,
+    "1":1668341735000,
+    "2":1668108831000,
+    "3":1667945102000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "screen_name":{
+    "0":"1202z2_IAN",
+    "1":"1202z2_IAN",
+    "2":"1202z2_IAN",
+    "3":"1202z2_IAN"
+  },
+  "Likes":{
+    "0":3,
+    "1":1,
+    "2":1,
+    "3":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota",
+    "2":"South Dakota",
+    "3":"South Dakota"
+  }
+}

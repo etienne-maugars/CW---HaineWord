@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@SlabHeadBurner @Harv_234 Pulisic is mid",
+    "1":"\ud83c\uddfa\ud83c\uddf8\u2705#USMNT squad!\n\nHorvath, Johnson, Turner\n\nDest, Moore, Yedlin, Scally, Long, Zimmerman, Carter-Vickers, Ream, Robinson\n\nAaronson, Acosta, Adams, McKennie, Roldan, De la Torre, Musah\n\nFerreira, Morris, Pulisic, Reyna, Sargent, Weah, Wright\n\nAnalysis \u2935\ufe0f https:\/\/t.co\/0W8j3DKsNB",
+    "2":"#USMNT forwards: Jordan Morris, Josh Sargent, Haji Wright, Gio Reyna, Christian Pulisic, Jesus Ferreira, Tim Weah. https:\/\/t.co\/gaT9ynNJrO",
+    "3":"#USMNT\u2019s Christian Pulisic surges forward 40 yards with the ball and curls a shot towards the far corner which is saved. Positive stuff from the American winger.",
+    "4":"Christian Pulisic should have put Chelsea 1-0 up at Manchester City in the League Cup. The #USMNT forward was wide open in middle of the goal, 8 yards out, but his weak effort is deflected and saved."
+  },
+  "date":{
+    "0":1668088395000,
+    "1":1668033004000,
+    "2":1668032447000,
+    "3":1668025486000,
+    "4":1668025103000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.05,
+    "2":0.0,
+    "3":0.0818181818,
+    "4":-0.095
+  },
+  "mean_polarity":{
+    "0":-0.0126363636,
+    "1":-0.0126363636,
+    "2":-0.0126363636,
+    "3":-0.0126363636,
+    "4":-0.0126363636
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.4,
+    "2":0.0,
+    "3":0.3863636364,
+    "4":0.305
+  },
+  "mean_subjectivity":{
+    "0":0.2182727273,
+    "1":0.2182727273,
+    "2":0.2182727273,
+    "3":0.2182727273,
+    "4":0.2182727273
+  },
+  "screen_name":{
+    "0":"_MUFCJames",
+    "1":"JPW_NBCSports",
+    "2":"JPW_NBCSports",
+    "3":"JPW_NBCSports",
+    "4":"JPW_NBCSports"
+  },
+  "Likes":{
+    "0":6,
+    "1":7,
+    "2":3,
+    "3":11,
+    "4":7
+  },
+  "RTs":{
+    "0":0,
+    "1":3,
+    "2":0,
+    "3":1,
+    "4":0
+  },
+  "state":{
+    "0":"Arkansas",
+    "1":"Arkansas",
+    "2":"Arkansas",
+    "3":"Arkansas",
+    "4":"Arkansas"
+  }
+}

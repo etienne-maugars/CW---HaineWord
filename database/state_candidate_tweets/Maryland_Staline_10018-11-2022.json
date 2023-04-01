@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"@ouitit Le Donbass est russe depuis le nettoyage ethnique du XVIII\u00e8me par Catherine II, depuis celui du XX\u00e8me orchestr\u00e9 par Staline, ou depuis celui de 2014 organis\u00e9 par Poutine ?",
+    "1":"@rducaillou @nohagte Vas-y ch\u00f4me, tu crois que mettre la photo de Louis XVI fais de toi une \u00e9lite.\nTon exemple s\u2019applique-t\u2019il au communisme de Staline aussi\u2026?\nIls \u00e9taient sacr\u00e9ment de \u00ab\u00a0droite\u00a0\u00bb dans les id\u00e9es dis-donc ainsi que dans le nom du parti, non ?",
+    "2":"@nohagte Ouais, Staline \u00e9tait centriste aussi, fa\u00e7on Modem non ?!",
+    "3":"@L_ThinkTank Sympa la petite photo de Staline sur le bureau."
+  },
+  "date":{
+    "0":1668605703000,
+    "1":1668062941000,
+    "2":1668027993000,
+    "3":1668003044000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "screen_name":{
+    "0":"_H_S_I",
+    "1":"SobotkaFranck",
+    "2":"SobotkaFranck",
+    "3":"elzuzurper"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":17
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Maryland",
+    "1":"Maryland",
+    "2":"Maryland",
+    "3":"Maryland"
+  }
+}

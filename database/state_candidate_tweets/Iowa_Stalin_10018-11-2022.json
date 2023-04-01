@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@LeviPunckelton The context behind the quote is also crucial. If I tell you a quote is from Gandhi and you believe it, then I reveal it\u2019s from Stalin, that doesn\u2019t mean you should agree with Stalin. It\u2019s deliberate deception as a \u201cgotcha!\u201d https:\/\/t.co\/fZk7J6D5Vw",
+    "1":"@BANKER_MAK And a wannabe dictator. As for allies, FDR allied with Stalin, who was a monster. Lesser of two evils in this case was the right, if fraught approach."
+  },
+  "date":{
+    "0":1668619341000,
+    "1":1668488757000
+  },
+  "polarity":{
+    "0":-0.2635416667,
+    "1":0.1428571429
+  },
+  "mean_polarity":{
+    "0":-0.0603422619,
+    "1":-0.0603422619
+  },
+  "subjectivity":{
+    "0":0.7958333333,
+    "1":0.5178571429
+  },
+  "mean_subjectivity":{
+    "0":0.6568452381,
+    "1":0.6568452381
+  },
+  "screen_name":{
+    "0":"l3gitthurston",
+    "1":"ROBWGRAY"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Iowa",
+    "1":"Iowa"
+  }
+}

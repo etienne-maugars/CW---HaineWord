@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@Rajeshp38824730 @ChaoticPesme @POTUS Yes. Even Hitler and Mussolini were chosen by the people.",
+    "1":"@MargoGontar That has been the problem from the start. When you see this Hitler level shit you have to just go all in right away.  Too much foot dragging on Ukraine",
+    "2":"@emericanjezebel \"Did you know the person that we think is literally Hitler reincarnated has the same traits? Just an fyi.\"",
+    "3":"@0xlambda1 no it's not. Hans Asperger was a Nazi who murdered hundreds of children and literally argued that \"Asperger's fairies\" were the perfect citizens to join Hitler Youth.\n\nthere's a reason I get to reject you.",
+    "4":"@pvvfaber Eva Braun maar dan 10x lelijker,\nZelfs hitler zou zijn Duitse staander niet over jou heen laten gaan"
+  },
+  "date":{
+    "0":1668690734000,
+    "1":1668558174000,
+    "2":1668460446000,
+    "3":1668200772000,
+    "4":1668122619000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0952380952,
+    "2":0.0,
+    "3":1.0,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.219047619,
+    "1":0.219047619,
+    "2":0.219047619,
+    "3":0.219047619,
+    "4":0.219047619
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.5119047619,
+    "2":0.125,
+    "3":1.0,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3273809524,
+    "1":0.3273809524,
+    "2":0.3273809524,
+    "3":0.3273809524,
+    "4":0.3273809524
+  },
+  "screen_name":{
+    "0":"param_aujla",
+    "1":"bjmiller1972",
+    "2":"cumradewaifu",
+    "3":"Gothfarts1",
+    "4":"Claus_sWAP"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":1,
+    "3":0,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana",
+    "2":"Montana",
+    "3":"Montana",
+    "4":"Montana"
+  }
+}

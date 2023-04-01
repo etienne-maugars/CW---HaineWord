@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Pulisic deserves to play for vitese",
+    "1":"Pulisic needs 10 shots to make a goal. Frustrating player"
+  },
+  "date":{
+    "0":1668028600000,
+    "1":1668024885000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.4
+  },
+  "mean_polarity":{
+    "0":-0.2,
+    "1":-0.2
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.9
+  },
+  "mean_subjectivity":{
+    "0":0.45,
+    "1":0.45
+  },
+  "screen_name":{
+    "0":"julian__x26",
+    "1":"julian__x26"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York"
+  }
+}

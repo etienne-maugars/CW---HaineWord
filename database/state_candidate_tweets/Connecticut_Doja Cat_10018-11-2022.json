@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@halebxespinosa Doja Cat",
+    "1":"I'm going to start tweeting like Doja Cat but just say titles of words from Urban dictionary",
+    "2":"@_mcchris @elonmusk He's not falling for the doja cat fake out again",
+    "3":"Post Malone - I Like You (A Happier Song) w. Doja Cat [Official Music Vi... https:\/\/t.co\/2D4v3YjOlh via @YouTube",
+    "4":"Cus u got doja cat Funnyface humor https:\/\/t.co\/rhPtIqaP19",
+    "5":"@elizlipp I am so old and white, I only know that Doja Cat was in the news a few weeks ago but I have no idea what for.  \n\nBut, this...this has made me a fan.",
+    "6":"Doja Cat Slams Elon Musk After Getting Stuck With Twitter Name 'Christmas' https:\/\/t.co\/hFFP7YWS7b"
+  },
+  "date":{
+    "0":1668552802000,
+    "1":1668518417000,
+    "2":1668481128000,
+    "3":1668428646000,
+    "4":1668405238000,
+    "5":1668310277000,
+    "6":1668093085000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":-0.5,
+    "3":0.0,
+    "4":0.0,
+    "5":-0.025,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":-0.075,
+    "1":-0.075,
+    "2":-0.075,
+    "3":-0.075,
+    "4":-0.075,
+    "5":-0.075,
+    "6":-0.075
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":1.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.325,
+    "6":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1892857143,
+    "1":0.1892857143,
+    "2":0.1892857143,
+    "3":0.1892857143,
+    "4":0.1892857143,
+    "5":0.1892857143,
+    "6":0.1892857143
+  },
+  "screen_name":{
+    "0":"myaaaa_xo3",
+    "1":"Kollin_Lamo",
+    "2":"Brooqs",
+    "3":"Lmeath_fracker",
+    "4":"roadrunnrrr",
+    "5":"Refracture_",
+    "6":"thebeat973"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":2,
+    "3":0,
+    "4":1,
+    "5":4,
+    "6":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0
+  },
+  "state":{
+    "0":"Connecticut",
+    "1":"Connecticut",
+    "2":"Connecticut",
+    "3":"Connecticut",
+    "4":"Connecticut",
+    "5":"Connecticut",
+    "6":"Connecticut"
+  }
+}

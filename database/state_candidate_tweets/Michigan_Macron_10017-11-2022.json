@@ -1,0 +1,122 @@
+{
+  "full_text":{
+    "0":"@bennyjohnson Surrounding macron? It\u2019s the end of the world! Well\u2026 it could be worse with Trudeau!",
+    "1":"restrictions on abortion after 14 weeks too\n\n\"48% thought Mr. Macron\u2019s government \u201cright-wing\u201d and only 11% thought it \u201cleft-wing.\u201d Mr. Macron may be a technocrat to his fingertips, but he has responded pragmatically to the public mood.\" https:\/\/t.co\/N1J43VOu6z",
+    "2":"@bertito01 No lo hab\u00eda pensado, ojal\u00e1 Macron se vuelva humanitario y reciba toda la carga el solo, pero ha estado pidiendo colaboraci\u00f3n a otros pa\u00edses europeos. Si no fuese por Alemania y Francia la crisis migratoria en Europa probablemente no hubiese existido, al menos no de esta manera",
+    "3":"Macron es un aceleracionista de primera, planea recibir a todos los migrantes que Italia rechace para seguir hundiendo a Francia. Hay que quererlo.",
+    "4":"@chrislhayes But globally, we're in the age of short kings: Sunak, Macron, Putin, Zelensky, Scholz, Lula, Kishida.",
+    "5":"Liz Truss\u2019 comments on Macron were incredibly stupid",
+    "6":"Im glad Sunak and Macron are getting along. We need unity at this time.",
+    "7":"Glad that President Macron has finally come to the conclusion that we need a total ban on seabed mining at #COP27 \ud83c\uddeb\ud83c\uddf7\n\nIt took a bit of pressure (including our own Resolution in European Parliament recently), now \ud83c\uddee\ud83c\uddea Ireland needs to also take the lead in ocean protection \ud83c\udf0a https:\/\/t.co\/hmnWezjx2V",
+    "8":"@EmilDeCrypto @JackPosobiec 1. Get out of France \n2. Vote Macron out\n3. Bring back the guiotine \n\nThose your top 3 options",
+    "9":"@BenjaminNorton More like macron has realized that Maduro\u2019s dictatorship is here to stay since Maduro has the backing of the army"
+  },
+  "date":{
+    "0":1668635528000,
+    "1":1668423017000,
+    "2":1668376605000,
+    "3":1668366880000,
+    "4":1668239101000,
+    "5":1668005729000,
+    "6":1668005686000,
+    "7":1667941997000,
+    "8":1667941520000,
+    "9":1667934120000
+  },
+  "polarity":{
+    "0":-0.5,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":-0.8,
+    "6":0.5,
+    "7":0.1833333333,
+    "8":0.25,
+    "9":0.5
+  },
+  "mean_polarity":{
+    "0":0.0133333333,
+    "1":0.0133333333,
+    "2":0.0133333333,
+    "3":0.0133333333,
+    "4":0.0133333333,
+    "5":0.0133333333,
+    "6":0.0133333333,
+    "7":0.0133333333,
+    "8":0.0133333333,
+    "9":0.0133333333
+  },
+  "subjectivity":{
+    "0":0.6,
+    "1":0.5333333333,
+    "2":0.0,
+    "3":0.0,
+    "4":0.15,
+    "5":1.0,
+    "6":1.0,
+    "7":0.6666666667,
+    "8":0.25,
+    "9":0.5
+  },
+  "mean_subjectivity":{
+    "0":0.47,
+    "1":0.47,
+    "2":0.47,
+    "3":0.47,
+    "4":0.47,
+    "5":0.47,
+    "6":0.47,
+    "7":0.47,
+    "8":0.47,
+    "9":0.47
+  },
+  "screen_name":{
+    "0":"leogastmann",
+    "1":"oldlife",
+    "2":"Anderdoblea",
+    "3":"Anderdoblea",
+    "4":"madeindefiance",
+    "5":"BlumpkinHaver",
+    "6":"BlumpkinHaver",
+    "7":"GraceOSllvn",
+    "8":"ThomasConleyJr",
+    "9":"CMedina240"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":0,
+    "3":7,
+    "4":0,
+    "5":1,
+    "6":1,
+    "7":88,
+    "8":0,
+    "9":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":21,
+    "8":0,
+    "9":0
+  },
+  "state":{
+    "0":"Michigan",
+    "1":"Michigan",
+    "2":"Michigan",
+    "3":"Michigan",
+    "4":"Michigan",
+    "5":"Michigan",
+    "6":"Michigan",
+    "7":"Michigan",
+    "8":"Michigan",
+    "9":"Michigan"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Doja Cat Asks Elon Musk for Help After Changing Twitter Name to \u201cChristmas\u201d https:\/\/t.co\/ja4RsrKnIV via @enews",
+    "1":"\u201cChristmas Forever\u201d \nA Hallmark Movie staring Christmas aka Doja Cat https:\/\/t.co\/n3LIYixa3B",
+    "2":"Doja cat struggling era \ud83d\ude06\ud83d\ude06"
+  },
+  "date":{
+    "0":1668131668000,
+    "1":1668109730000,
+    "2":1668070108000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"marcosarellano",
+    "1":"Cmbrown_",
+    "2":"MissTayLena1322"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Utah",
+    "1":"Utah",
+    "2":"Utah"
+  }
+}

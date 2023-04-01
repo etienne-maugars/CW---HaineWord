@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@BHaitam1 Bilal!? \ud83e\udd23\ud83e\udd23",
+    "1":"Bilal  signifie \"eau\" ou \"rafra\u00eechissement\". L'un des premiers Bilal c\u00e9l\u00e8bres est l'ancien esclave Bilal ibn Rabah qui fut un compagnon du proph\u00e8te Mahomet ainsi que le tout premier muezzin. https:\/\/t.co\/moNCHSHSXX",
+    "2":"@90DayFiance Not a Bilal fan but Eutrice needs to dial it back. She\u2019s aggressive and rude and needs to STFU."
+  },
+  "date":{
+    "0":1668701244000,
+    "1":1668456688000,
+    "2":1668382422000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":-0.15
+  },
+  "mean_polarity":{
+    "0":-0.05,
+    "1":-0.05,
+    "2":-0.05
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.3
+  },
+  "mean_subjectivity":{
+    "0":0.1,
+    "1":0.1,
+    "2":0.1
+  },
+  "screen_name":{
+    "0":"mnfycryb",
+    "1":"jairzinho_229",
+    "2":"londonsmom951"
+  },
+  "Likes":{
+    "0":1,
+    "1":12,
+    "2":3
+  },
+  "RTs":{
+    "0":1,
+    "1":1,
+    "2":0
+  },
+  "state":{
+    "0":"South Carolina",
+    "1":"South Carolina",
+    "2":"South Carolina"
+  }
+}

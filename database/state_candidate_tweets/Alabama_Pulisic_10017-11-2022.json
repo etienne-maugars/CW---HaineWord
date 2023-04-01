@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"Mendy, Thiago Silva, Koulibaly, Azpilicueta, Kovacic, Zakaria, Mount, Gallagher, Pulisic, Sterling, Havertz, Ziyech\n\n3-2-3-2. Ziyech on the bench \ud83d\ude04 https:\/\/t.co\/Az6zFREDwF",
+    "1":"Pulisic need to show these boys what\u2019s comin",
+    "2":"@Bd_irB_ll @mashocistic The last two fair but the first three are much better than Pulisic",
+    "3":"Man last thing the USMNT needs is Christian Pulisic playing in a league cup match 2 weeks before the WC starts. Everyone knows this man is made of cake. Can\u2019t have downy extra picking up an injury.",
+    "4":"@grantdesmidt @KierDoyle Got pulisic in there twice"
+  },
+  "date":{
+    "0":1668538526000,
+    "1":1668278954000,
+    "2":1668272476000,
+    "3":1668025138000,
+    "4":1667941843000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.3625,
+    "3":0.0,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.0725,
+    "1":0.0725,
+    "2":0.0725,
+    "3":0.0725,
+    "4":0.0725
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.45,
+    "3":0.0555555556,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1011111111,
+    "1":0.1011111111,
+    "2":0.1011111111,
+    "3":0.1011111111,
+    "4":0.1011111111
+  },
+  "screen_name":{
+    "0":"MadeOfBlaq",
+    "1":"Shad60kg",
+    "2":"IronghaziStan",
+    "3":"BamaLFC334",
+    "4":"CrewtonMcgregor"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":0,
+    "3":1,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Alabama",
+    "1":"Alabama",
+    "2":"Alabama",
+    "3":"Alabama",
+    "4":"Alabama"
+  }
+}

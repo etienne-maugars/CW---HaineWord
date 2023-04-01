@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@Bilal_Tekatli \u0130nsan buna e\u015f\u015fe\u011fini teslim etmez , yaz\u0131k koskoca \u015fehri teslim etmi\u015fler buna",
+    "1":"@Bilal_GSW Oh wow are you talking about the R word? My mouth dropped!",
+    "2":"@sherry2diamond @Chack_bilal @POTUS \u201cMost countries I\u2019ve seen\u201d https:\/\/t.co\/ZJdg7mKc8f"
+  },
+  "date":{
+    "0":1668703994000,
+    "1":1668486912000,
+    "2":1668368289000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.125,
+    "2":0.5
+  },
+  "mean_polarity":{
+    "0":0.2083333333,
+    "1":0.2083333333,
+    "2":0.2083333333
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":1.0,
+    "2":0.5
+  },
+  "mean_subjectivity":{
+    "0":0.5,
+    "1":0.5,
+    "2":0.5
+  },
+  "screen_name":{
+    "0":"Muhtar25301540",
+    "1":"linaji",
+    "2":"PiggyShitCock"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Hawaii",
+    "1":"Hawaii",
+    "2":"Hawaii"
+  }
+}

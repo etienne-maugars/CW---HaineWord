@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@jonpi39 @AlgernonLecuyer @IDVT1976 Relatif \u00e0 Staline, au stalinisme...un staliniste.\nInculte \ud83d\ude18.",
+    "1":"@Lectures_Rouges Staline est pire bien pire qu'Hitler mdr"
+  },
+  "date":{
+    "0":1668374557000,
+    "1":1668095058000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"Montjoie62200",
+    "1":"Andy1KPM"
+  },
+  "Likes":{
+    "0":2,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Delaware",
+    "1":"Delaware"
+  }
+}

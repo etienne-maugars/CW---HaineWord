@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"there's nothing easier! easy money @rokstylez13 @DJ_Pants @jamaicaneddie @AraBalaghi @BTCSTMPNK @Shen_eth @AvatarsGothy @kengantrader @Earleen000 @bilal_hebbar https:\/\/t.co\/KNVICizl4m",
+    "1":"@OnkelMivs @ughmerve Hvis mindre kan g\u00f8re det, er jeg glad for Royal Shawarma p\u00e5 Ryesgade og for Bilal i Bazar Vest, hvis man husker at f\u00e5 den i br\u00f8d frem for rulle."
+  },
+  "date":{
+    "0":1668744537000,
+    "1":1668602657000
+  },
+  "polarity":{
+    "0":0.4333333333,
+    "1":0.5
+  },
+  "mean_polarity":{
+    "0":0.4666666667,
+    "1":0.4666666667
+  },
+  "subjectivity":{
+    "0":0.8333333333,
+    "1":1.0
+  },
+  "mean_subjectivity":{
+    "0":0.9166666667,
+    "1":0.9166666667
+  },
+  "screen_name":{
+    "0":"FetatJXWYV",
+    "1":"kochpittet"
+  },
+  "Likes":{
+    "0":0,
+    "1":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"West Virginia",
+    "1":"West Virginia"
+  }
+}

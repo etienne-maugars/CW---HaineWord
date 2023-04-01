@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@FashionFreqTV Bilal is a puke.",
+    "1":"@BalaPattySZN @bilal_2090"
+  },
+  "date":{
+    "0":1668654875000,
+    "1":1668321075000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"LevieDiane",
+    "1":"vikes4life_"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Florida",
+    "1":"Florida"
+  }
+}

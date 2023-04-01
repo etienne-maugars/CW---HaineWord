@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"Lol to Rihanna. Like how dare you. Honestly.",
+    "1":"Rihanna https:\/\/t.co\/6p83MUsFDu",
+    "2":"@HoboPrincess_ @sammymullz @ohhhshtbtch @tvgirlz In Rihanna's position, she literally just has to show up when she comes on. The fans will never know the difference",
+    "3":"@dont4getthewhat @rihanna @chrisbrown Stg, cuz everytime they did a joint together their voices sounded perfect together",
+    "4":"@DomDaTrainer @rihanna @SavageXFenty You and me both want to be on that stage and we got what it takes!  I've been dm'ing her, tagging her, and doing the same with @SavageXFenty as well.  @fatbellybella said write it down and make it happen.  She ripped the runway for her last year.",
+    "5":"@PopCrave @rihanna LETS GOOO",
+    "6":"@lilschwartzie this is a very brief example of Depp\u2019s treatment of Heard. There are admissions of physical abuse, vaguely. Like i have said, Rihanna being an abuse survivor makes it a problem. https:\/\/t.co\/U19YXciNFY",
+    "7":"@washingtonpost Why? Because Depp is a man and not to be believed? So Rihanna is misusing her platform for publicly supporting Depp? While Amber Heard has a DV history and is a pathological liar that tried to tarnish his reputation. So tired of the negative Depp narrative, do better!!!",
+    "8":"ja t\u00f4 saturada de esperar \u00e1lbum novo da Rihanna \u00f3 fia n\u00e3o quer lan\u00e7ar t\u00e1 bom entao blz chega j\u00e1 deu desse papo"
+  },
+  "date":{
+    "0":1668634986000,
+    "1":1668520821000,
+    "2":1668439734000,
+    "3":1668275571000,
+    "4":1668119714000,
+    "5":1668098632000,
+    "6":1668021193000,
+    "7":1668003591000,
+    "8":1667932051000
+  },
+  "polarity":{
+    "0":0.7,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0,
+    "4":-0.0518518519,
+    "5":0.0,
+    "6":-0.1666666667,
+    "7":0.131640625,
+    "8":0.0
+  },
+  "mean_polarity":{
+    "0":0.1792357896,
+    "1":0.1792357896,
+    "2":0.1792357896,
+    "3":0.1792357896,
+    "4":0.1792357896,
+    "5":0.1792357896,
+    "6":0.1792357896,
+    "7":0.1792357896,
+    "8":0.1792357896
+  },
+  "subjectivity":{
+    "0":0.8,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0,
+    "4":0.1601851852,
+    "5":0.0,
+    "6":0.3587301587,
+    "7":0.4625,
+    "8":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3090461493,
+    "1":0.3090461493,
+    "2":0.3090461493,
+    "3":0.3090461493,
+    "4":0.3090461493,
+    "5":0.3090461493,
+    "6":0.3090461493,
+    "7":0.3090461493,
+    "8":0.3090461493
+  },
+  "screen_name":{
+    "0":"Mojadeaintjokun",
+    "1":"_mylahs",
+    "2":"maniceyesmusic",
+    "3":"Manicthe17th",
+    "4":"MillicentCunn11",
+    "5":"dsdevofficial",
+    "6":"Heatherondo",
+    "7":"dr_belissima",
+    "8":"mandesrey"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":2,
+    "5":0,
+    "6":1,
+    "7":3,
+    "8":20
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":2
+  },
+  "state":{
+    "0":"Arkansas",
+    "1":"Arkansas",
+    "2":"Arkansas",
+    "3":"Arkansas",
+    "4":"Arkansas",
+    "5":"Arkansas",
+    "6":"Arkansas",
+    "7":"Arkansas",
+    "8":"Arkansas"
+  }
+}

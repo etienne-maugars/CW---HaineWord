@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"Filling an opioid prescription? \ud83d\udc8a\n\nSee how to better understand the risks and benefits of pain medications, spot the signs of addiction, help prevent an overdose and more:\n\nhttps:\/\/t.co\/pNu87aWKHw https:\/\/t.co\/MQxiDjMKnv",
+    "1":"Robins Kaplan LLP Announces Major Proposed Opioid Settlement For Its Tribal Nation Clients \n\nRobins Kaplan LLP Law Firm https:\/\/t.co\/Yq93Ubnopq",
+    "2":"Walmart set to pay $3.1 billion in opioid settlement https:\/\/t.co\/CpsQXM8ehQ",
+    "3":"Walmart agrees to pay $3.1 billion to settle opioid lawsuits https:\/\/t.co\/AydbJ8LoKb"
+  },
+  "date":{
+    "0":1668618909000,
+    "1":1668532410000,
+    "2":1668528850000,
+    "3":1668515671000
+  },
+  "polarity":{
+    "0":0.5,
+    "1":-0.06875,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.1078125,
+    "1":0.1078125,
+    "2":0.1078125,
+    "3":0.1078125
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.45,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2375,
+    "1":0.2375,
+    "2":0.2375,
+    "3":0.2375
+  },
+  "screen_name":{
+    "0":"bhishealth",
+    "1":"TQPurdon",
+    "2":"KXMB",
+    "3":"bistrib"
+  },
+  "Likes":{
+    "0":0,
+    "1":10,
+    "2":0,
+    "3":0
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota"
+  }
+}

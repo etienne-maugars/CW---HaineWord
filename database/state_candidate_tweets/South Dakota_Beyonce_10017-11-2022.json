@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"I\u2019m so annoyed with Ebro\u2019s sidekick trying to play Kelly like that. Beyonc\u00e9 is who she is but don\u2019t play with Kelly the fucking Rowland!",
+    "1":"@parkwood @GarcelleB @Beyonce LOL.",
+    "2":"@RollingStone @Adele @Beyonce @rosalia The hate Adele Fans are giving to Beyonce is borderline RACIST. it's very disturbing they're attacking bey for Nominations and wins that do not even exist yet. Very niki",
+    "3":"I think my Siri hates Beyonc\u00e9 \ud83e\udd74",
+    "4":"Siri just stopped playing Beyonc\u00e9 I guess she\u2019s tired \ud83e\udee0\ud83e\udee3",
+    "5":"I\u2019m going to a Beyonc\u00e9 party Thanksgiving weekend since I missed all of the ones in August due to lies!",
+    "6":"\ud83e\udd79\ud83e\udd79\ud83e\udd79\ud83e\udd79 why won\u2019t you release the visuals? @Beyonce @BeyLegion",
+    "7":"@chart_perry Slurs are jokes now? You can tell she distanced herself HARD when the 2020 election came and she was nowhere to be seen. And the CMAs? The ones who almost denied the Dixie chicks bc they wanted to do a duet with Beyonce?",
+    "8":"@Ayyyye_J @nyaimaan_ @blk_tinkerbell9 @teairalaniece @A_JayXO Check y\u2019all groupme Beyonc\u00e9 in there!"
+  },
+  "date":{
+    "0":1668634556000,
+    "1":1668617513000,
+    "2":1668515453000,
+    "3":1668447454000,
+    "4":1668122799000,
+    "5":1668096973000,
+    "6":1668093219000,
+    "7":1668089577000,
+    "8":1667942686000
+  },
+  "polarity":{
+    "0":-0.575,
+    "1":0.8,
+    "2":-0.2375,
+    "3":0.0,
+    "4":-0.4,
+    "5":-0.15625,
+    "6":0.0,
+    "7":-0.2916666667,
+    "8":0.0
+  },
+  "mean_polarity":{
+    "0":-0.0956018519,
+    "1":-0.0956018519,
+    "2":-0.0956018519,
+    "3":-0.0956018519,
+    "4":-0.0956018519,
+    "5":-0.0956018519,
+    "6":-0.0956018519,
+    "7":-0.0956018519,
+    "8":-0.0956018519
+  },
+  "subjectivity":{
+    "0":0.8,
+    "1":0.7,
+    "2":0.6,
+    "3":0.0,
+    "4":0.7,
+    "5":0.375,
+    "6":0.0,
+    "7":0.5416666667,
+    "8":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.412962963,
+    "1":0.412962963,
+    "2":0.412962963,
+    "3":0.412962963,
+    "4":0.412962963,
+    "5":0.412962963,
+    "6":0.412962963,
+    "7":0.412962963,
+    "8":0.412962963
+  },
+  "screen_name":{
+    "0":"Big__Bash",
+    "1":"DarlaBl69611374",
+    "2":"LanasMonster1",
+    "3":"Big__Bash",
+    "4":"Big__Bash",
+    "5":"Big__Bash",
+    "6":"Big__Bash",
+    "7":"LanasMonster1",
+    "8":"Big__Bash"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":0
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota",
+    "2":"South Dakota",
+    "3":"South Dakota",
+    "4":"South Dakota",
+    "5":"South Dakota",
+    "6":"South Dakota",
+    "7":"South Dakota",
+    "8":"South Dakota"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@ye4us You guys realize that no one outside the US gives a single fuck about Kanye or...Kyrie Irving, right?"
+  },
+  "date":{
+    "0":1668274444000
+  },
+  "polarity":{
+    "0":-0.0464285714
+  },
+  "mean_polarity":{
+    "0":-0.0464285714
+  },
+  "subjectivity":{
+    "0":0.35
+  },
+  "mean_subjectivity":{
+    "0":0.35
+  },
+  "screen_name":{
+    "0":"ElGrecoAleman"
+  },
+  "Likes":{
+    "0":0
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"Kentucky"
+  }
+}

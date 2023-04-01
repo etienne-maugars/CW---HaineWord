@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Retail giant Walmart become the latest major player in the drug industry to announce a plan to settle lawsuits filed by state and local governments over the toll of powerful prescription opioids sold at its pharmacies. https:\/\/t.co\/0AUkZNgmPe",
+    "1":"Retail giant Walmart become the latest major player in the drug industry to announce a plan to settle lawsuits filed by state and local governments over the toll of powerful prescription opioids sold at its pharmacies. https:\/\/t.co\/jHtw86C9gk",
+    "2":"Legal expenses continue to mount in Nevada's fight against opioids. @JoeHartKRNV has been following this situation for months and has more in this report.\n\nhttps:\/\/t.co\/qhVCHJAYQO"
+  },
+  "date":{
+    "0":1668527040000,
+    "1":1668524530000,
+    "2":1668105434000
+  },
+  "polarity":{
+    "0":0.1725,
+    "1":0.1725,
+    "2":0.2333333333
+  },
+  "mean_polarity":{
+    "0":0.1927777778,
+    "1":0.1927777778,
+    "2":0.1927777778
+  },
+  "subjectivity":{
+    "0":0.68,
+    "1":0.68,
+    "2":0.2666666667
+  },
+  "mean_subjectivity":{
+    "0":0.5422222222,
+    "1":0.5422222222,
+    "2":0.5422222222
+  },
+  "screen_name":{
+    "0":"KRNV",
+    "1":"fox11reno",
+    "2":"KRNV"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":0
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada",
+    "2":"Nevada"
+  }
+}

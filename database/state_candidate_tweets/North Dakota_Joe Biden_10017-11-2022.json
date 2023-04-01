@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"President Joe Biden said Wednesday it was \u201cunlikely\u201d that a missile that killed two in NATO-ally Poland was fired from Russia, but he pledged support for Poland\u2019s investigation into what it had called a \u201cRussian-made\u201d missile. https:\/\/t.co\/n5iDntbhWW",
+    "1":"President Joe Biden\u2019s plan to forgive student loan debt for millions of borrowers lost another battle in court on Monday when a federal appeals court panel agreed to a preliminary injunction halting the program while an appeal plays out. https:\/\/t.co\/jOsY5Lr9Jt",
+    "2":"President Joe Biden joined a conference of southeast Asian nations on Saturday, looking to emphasize the United States\u2019 commitment in the region where a looming China is also working to expand its influence. https:\/\/t.co\/yU2ATpx4lA",
+    "3":"Democratic Sen. Catherine Cortez Masto won election to a second term representing Nevada on Saturday, defeating Republican Adam Laxalt to clinch the party\u2019s control of the chamber for the next two years of Joe Biden\u2019s presidency. https:\/\/t.co\/gTOSl2wp9l",
+    "4":"Meanwhile, Joe Biden mainly wants to open a channel with Putin to get WNBA star Brittney Griner out of a Russian penal colony. Get the latest on both storylines here. https:\/\/t.co\/XcmdlMHOyt",
+    "5":"Good morning #PurdonNation. \n\nSome things I know: \n\n@claudia_purdon nailed it - the kids are alright.\n\nWithout gerrymander &amp; SCOTUS expanding Purcell, Dem\u2019s keep House.\n\nAnti-MAGA majority: most powerful force in politics w\/ 4 straight national election wins.\n\nJoe Biden, man\u2026. https:\/\/t.co\/jTmfcF026u",
+    "6":"I\u2019ve seen enough. \n\nDem\u2019s WILL HOLD the U.S. Senate TONIGHT with victories in PA, AZ and NV. (Warnock will win GA run off and be 51st Dem in US Senate.)\n\nI\u2019m not staying up to see if D\u2019s hold house, BUT we could.\n\nMaybe, just hear me out, Joe Biden knows what he\u2019s doing.\n\ud83c\uddfa\ud83c\uddf8 \ud83e\udd85 \ud83c\uddfa\ud83c\uddf8 https:\/\/t.co\/inzipbVlrh",
+    "7":"Energized Republicans are eager to claw back power in Congress, working to break the Democrats\u2019 one-party hold in Washington and putting the future of President Joe Biden\u2019s agenda at stake this Election Day. https:\/\/t.co\/5gzOTVUBJK"
+  },
+  "date":{
+    "0":1668573600000,
+    "1":1668452412000,
+    "2":1668313200000,
+    "3":1668309336000,
+    "4":1668055442000,
+    "5":1668003189000,
+    "6":1667969291000,
+    "7":1667934006000
+  },
+  "polarity":{
+    "0":-0.35,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.175,
+    "5":0.4,
+    "6":0.4,
+    "7":0.0
+  },
+  "mean_polarity":{
+    "0":0.078125,
+    "1":0.078125,
+    "2":0.078125,
+    "3":0.078125,
+    "4":0.078125,
+    "5":0.078125,
+    "6":0.078125,
+    "7":0.078125
+  },
+  "subjectivity":{
+    "0":0.25,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.375,
+    "5":0.54,
+    "6":0.45,
+    "7":0.0625
+  },
+  "mean_subjectivity":{
+    "0":0.2096875,
+    "1":0.2096875,
+    "2":0.2096875,
+    "3":0.2096875,
+    "4":0.2096875,
+    "5":0.2096875,
+    "6":0.2096875,
+    "7":0.2096875
+  },
+  "screen_name":{
+    "0":"KFYRTV",
+    "1":"KFYRTV",
+    "2":"KFYRTV",
+    "3":"KFYRTV",
+    "4":"bistrib",
+    "5":"TQPurdon",
+    "6":"TQPurdon",
+    "7":"KFYRTV"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":0,
+    "5":38,
+    "6":37,
+    "7":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":2,
+    "6":1,
+    "7":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota",
+    "5":"North Dakota",
+    "6":"North Dakota",
+    "7":"North Dakota"
+  }
+}

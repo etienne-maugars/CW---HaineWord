@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"She can call him out if she wants but her and Beyonc\u00e9 aren\u2019t the same kinda light https:\/\/t.co\/lG79IYHjBX",
+    "1":"One of these albums doesn\u2019t belong here\u2026 hmmmm. Guess Beyonc\u00e9 was desperate for one this year https:\/\/t.co\/wk7GxGXtzm",
+    "2":"If Adele beats Beyonc\u00e9 again I just know that both of them are gonna have a field day https:\/\/t.co\/huoUagLp0X",
+    "3":"@ThatEricAlper Beyonc\u00e9",
+    "4":"Mental state: a playlist that goes from Beyonc\u00e9, to Carly Rae Jepsen, to ice spice, to T-Swift"
+  },
+  "date":{
+    "0":1668662698000,
+    "1":1668540217000,
+    "2":1668537959000,
+    "3":1667933736000,
+    "4":1667921869000
+  },
+  "polarity":{
+    "0":0.2,
+    "1":-0.6,
+    "2":0.0,
+    "3":0.0,
+    "4":-0.1
+  },
+  "mean_polarity":{
+    "0":-0.1,
+    "1":-0.1,
+    "2":-0.1,
+    "3":-0.1,
+    "4":-0.1
+  },
+  "subjectivity":{
+    "0":0.3083333333,
+    "1":1.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.2
+  },
+  "mean_subjectivity":{
+    "0":0.3016666667,
+    "1":0.3016666667,
+    "2":0.3016666667,
+    "3":0.3016666667,
+    "4":0.3016666667
+  },
+  "screen_name":{
+    "0":"Henzino95",
+    "1":"Gsandman42",
+    "2":"Toasty_E_",
+    "3":"rejeanlevell",
+    "4":"Toasty_E_"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Wyoming",
+    "1":"Wyoming",
+    "2":"Wyoming",
+    "3":"Wyoming",
+    "4":"Wyoming"
+  }
+}

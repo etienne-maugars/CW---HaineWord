@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"@Windows how much raisins to put in green bean casserole",
+    "1":"Jumper Notebook 14 Pollici, PC Portatile Windows 11, 12GB RAM 256GB SSD ROM, 1920 \u00d7 1080 FHD, Bluetooth, WiFi, HDMI, Webcam precedente 901,69\u20ac, Ora per 269,99\u20ac #offerte\n\nNegozio: https:\/\/t.co\/BGQu9mc9LS\n\nFai RT e condividi https:\/\/t.co\/ARdWLmymxN",
+    "2":"@EdFatherOfCats 98% of my cats stare out the windows but they stay inside. Too dangerous outside.",
+    "3":"Notebook 15.6\\\" 128 GB SSD Supporta l\\'espansione Windows 10 PC Portatile Intel 6GB RAM WOZIFAN 2.4G+5G WiFi 1080 FHD BT 4.2 USB HDMI con mo... precedente 299,99\u20ac, Ora per 279,99\u20ac #offerte\n\nNegozio: https:\/\/t.co\/prSAhw7w0A\n\nFai RT e condividi https:\/\/t.co\/qIkTRhvxay"
+  },
+  "date":{
+    "0":1668660506000,
+    "1":1668582650000,
+    "2":1668360367000,
+    "3":1668068359000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":-0.3,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":-0.075,
+    "1":-0.075,
+    "2":-0.075,
+    "3":-0.075
+  },
+  "subjectivity":{
+    "0":0.25,
+    "1":0.0,
+    "2":0.475,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.18125,
+    "1":0.18125,
+    "2":0.18125,
+    "3":0.18125
+  },
+  "screen_name":{
+    "0":"ItsCovarr",
+    "1":"offertediprodo1",
+    "2":"mkhodges",
+    "3":"offertediprodo1"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana",
+    "2":"Montana",
+    "3":"Montana"
+  }
+}

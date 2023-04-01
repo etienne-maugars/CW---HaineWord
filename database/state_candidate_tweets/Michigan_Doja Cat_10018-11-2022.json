@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"@streamhatelove the only difference is that doja cat is actually talented, never put them in the same sentence babes",
+    "1":"Doja Cat vs Elon in an unfunny competition who you taking?",
+    "2":"this was inspired by doja cat",
+    "3":"Elon Musk d\u00e1 resposta afiada para Doja Cat ap\u00f3s problemas com o\u00a0twitter https:\/\/t.co\/8rHKa6nZLC",
+    "4":"#NowPlaying Doja Cat - Woman (Official Video) (480P) on #afrikbestradio",
+    "5":"@DojaCat @elonmusk Who would\u2019ve thought Twitter would bring us an interaction between Doja Cat and Elon Musk"
+  },
+  "date":{
+    "0":1668512340000,
+    "1":1668283747000,
+    "2":1668202566000,
+    "3":1668112459000,
+    "4":1668104053000,
+    "5":1668078308000
+  },
+  "polarity":{
+    "0":0.2333333333,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0
+  },
+  "mean_polarity":{
+    "0":0.0388888889,
+    "1":0.0388888889,
+    "2":0.0388888889,
+    "3":0.0388888889,
+    "4":0.0388888889,
+    "5":0.0388888889
+  },
+  "subjectivity":{
+    "0":0.675,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1125,
+    "1":0.1125,
+    "2":0.1125,
+    "3":0.1125,
+    "4":0.1125,
+    "5":0.1125
+  },
+  "screen_name":{
+    "0":"k_bye4now_",
+    "1":"nottrevis",
+    "2":"douglaschu_",
+    "3":"afrikbestradio",
+    "4":"afrikbestradio",
+    "5":"JAC3NT"
+  },
+  "Likes":{
+    "0":0,
+    "1":4,
+    "2":14,
+    "3":0,
+    "4":1,
+    "5":340
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":9
+  },
+  "state":{
+    "0":"Michigan",
+    "1":"Michigan",
+    "2":"Michigan",
+    "3":"Michigan",
+    "4":"Michigan",
+    "5":"Michigan"
+  }
+}

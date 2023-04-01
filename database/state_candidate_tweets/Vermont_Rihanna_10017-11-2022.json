@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@RihannaFancam We're about to play LIFT ME UP by #RIHANNA! Listen &amp; Vote 4 More: https:\/\/t.co\/i9pXycU51L",
+    "1":"@RihannaFancam We're about to play LIFT ME UP by #RIHANNA! Listen &amp; Vote 4 More: https:\/\/t.co\/i9pXycU51L"
+  },
+  "date":{
+    "0":1668096552000,
+    "1":1668004034000
+  },
+  "polarity":{
+    "0":0.5,
+    "1":0.5
+  },
+  "mean_polarity":{
+    "0":0.5,
+    "1":0.5
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.5
+  },
+  "mean_subjectivity":{
+    "0":0.5,
+    "1":0.5
+  },
+  "screen_name":{
+    "0":"Star929Radio",
+    "1":"Star929Radio"
+  },
+  "Likes":{
+    "0":0,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont"
+  }
+}

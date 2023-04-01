@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"Elon musk ruined this app man",
+    "1":"elon musk vc \u00e9 um querido https:\/\/t.co\/DJtuqUH5bN",
+    "2":"Elon Musk and tech execs call for pause on AI development",
+    "3":"Elon Musk me fazendo rir em 1 dia mais que os humor\u00edsticos da Globo em 10 anos: https:\/\/t.co\/uYA6spdFcn"
+  },
+  "date":{
+    "0":1680280907000,
+    "1":1680272698000,
+    "2":1680184735000,
+    "3":1680130187000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "screen_name":{
+    "0":"hoesandfifa",
+    "1":"thecovn",
+    "2":"HeIenRogers",
+    "3":"GabrieNantes"
+  },
+  "Likes":{
+    "0":2,
+    "1":9,
+    "2":0,
+    "3":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana",
+    "2":"Montana",
+    "3":"Montana"
+  }
+}

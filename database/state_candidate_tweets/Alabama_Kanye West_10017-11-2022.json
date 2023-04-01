@@ -1,0 +1,122 @@
+{
+  "full_text":{
+    "0":"Jesus Walks (Kanye West Diss) #KanyeWest #jesuswalks https:\/\/t.co\/by0PVYOI2O",
+    "1":"Jon Stewart On Dave Chappelle, Kyrie Irving, And Kanye West https:\/\/t.co\/3T5EV6vi7M via @YouTube",
+    "2":"Adidas to pay Kanye West MILLIONS after messing up! https:\/\/t.co\/IDPMW7hgY6 via @YouTube \n\nKANYE IS ONE SMART M@therf@cker",
+    "3":"Kanye West Diss drops tonight at 11pm est",
+    "4":"@XXL Kanye West and Kanye West",
+    "5":"So is Cristiano Ronaldo the Kanye West of football?",
+    "6":"Listening to Put On (feat. Kanye West) by Young Jeezy on @PandoraMusic\nhttps:\/\/t.co\/BSsC7HrmuL https:\/\/t.co\/G9LwQQeXno",
+    "7":"@Sophi41316533 @444triste @spotyfrase Si aguanto los cambios de humor de Kanye West puedo con los tuyos\ud83e\udee1",
+    "8":"A reckless version of free speech is spreading across America, partly because of unchecked rhetoric by Elon Musk, Kanye West, and Kyrie Irving. We can't be complicit. https:\/\/t.co\/eNjdaUOytO",
+    "9":"magnus mefisto hizo un video de kanye west sdk.fjalflafjhhks"
+  },
+  "date":{
+    "0":1668617051000,
+    "1":1668614201000,
+    "2":1668549570000,
+    "3":1668520178000,
+    "4":1668495792000,
+    "5":1668463876000,
+    "6":1668376284000,
+    "7":1668366926000,
+    "8":1667957928000,
+    "9":1667940991000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.2142857143,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.1,
+    "7":0.0,
+    "8":0.4,
+    "9":0.0
+  },
+  "mean_polarity":{
+    "0":0.0714285714,
+    "1":0.0714285714,
+    "2":0.0714285714,
+    "3":0.0714285714,
+    "4":0.0714285714,
+    "5":0.0714285714,
+    "6":0.0714285714,
+    "7":0.0714285714,
+    "8":0.0714285714,
+    "9":0.0714285714
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.6428571429,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.4,
+    "7":0.0,
+    "8":0.8,
+    "9":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1842857143,
+    "1":0.1842857143,
+    "2":0.1842857143,
+    "3":0.1842857143,
+    "4":0.1842857143,
+    "5":0.1842857143,
+    "6":0.1842857143,
+    "7":0.1842857143,
+    "8":0.1842857143,
+    "9":0.1842857143
+  },
+  "screen_name":{
+    "0":"willietheebawdy",
+    "1":"JairBear7",
+    "2":"LordNik20505445",
+    "3":"willietheebawdy",
+    "4":"Alex_Ochoa01",
+    "5":"mike_boi1nda",
+    "6":"abren_sr",
+    "7":"theonlygabo",
+    "8":"GaleTStrong",
+    "9":"JotitaTuitero"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":1,
+    "3":1,
+    "4":0,
+    "5":2,
+    "6":0,
+    "7":0,
+    "8":2,
+    "9":3
+  },
+  "RTs":{
+    "0":1,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":1,
+    "9":0
+  },
+  "state":{
+    "0":"Alabama",
+    "1":"Alabama",
+    "2":"Alabama",
+    "3":"Alabama",
+    "4":"Alabama",
+    "5":"Alabama",
+    "6":"Alabama",
+    "7":"Alabama",
+    "8":"Alabama",
+    "9":"Alabama"
+  }
+}

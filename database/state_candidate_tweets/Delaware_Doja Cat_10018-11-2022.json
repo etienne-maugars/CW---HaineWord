@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@simonberthel Eliza Legzdina &amp; Ruckspin - Leader of the Pack\n\nChloe, Liquid Giraffe - Have Mercy (Remix)\n\nDoja Cat, Bianca Oblivion - Get Into It (Yuh) (Remix)",
+    "1":"I hate myself for immediately thinking of that doja cat interview https:\/\/t.co\/VzpSJgprYH",
+    "2":"I can\u2019t with Doja Cat \ud83e\udd23 https:\/\/t.co\/eCjWb3BEJa",
+    "3":"@EmmaKennedy She's a lovable goofball that Doja Cat! (reals)",
+    "4":"Doja cat makes me happy. Friday am thoughts.",
+    "5":"@JustJordan_1 Doja Cat\u2019s music reminds me of Flo Rida and I can\u2019t explain it",
+    "6":"ti amo doja cat ti amo"
+  },
+  "date":{
+    "0":1668544816000,
+    "1":1668365727000,
+    "2":1668239216000,
+    "3":1668191994000,
+    "4":1668176935000,
+    "5":1668121543000,
+    "6":1668010311000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.8,
+    "2":0.0,
+    "3":0.625,
+    "4":0.8,
+    "5":0.0,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":0.0892857143,
+    "1":0.0892857143,
+    "2":0.0892857143,
+    "3":0.0892857143,
+    "4":0.0892857143,
+    "5":0.0892857143,
+    "6":0.0892857143
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.9,
+    "2":0.0,
+    "3":0.5,
+    "4":1.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3428571429,
+    "1":0.3428571429,
+    "2":0.3428571429,
+    "3":0.3428571429,
+    "4":0.3428571429,
+    "5":0.3428571429,
+    "6":0.3428571429
+  },
+  "screen_name":{
+    "0":"_spicysoda",
+    "1":"luckydubedubee",
+    "2":"TheMorrisLand",
+    "3":"vinner57",
+    "4":"hello_loverr",
+    "5":"IncredibleJord",
+    "6":"gipsofilas"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":1,
+    "5":1,
+    "6":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":0,
+    "6":0
+  },
+  "state":{
+    "0":"Delaware",
+    "1":"Delaware",
+    "2":"Delaware",
+    "3":"Delaware",
+    "4":"Delaware",
+    "5":"Delaware",
+    "6":"Delaware"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@ToroenReposo No parece que Macron se est\u00e1 aguantando la risa?",
+    "1":"@_2019_nCoV @SLb_74 Un \u00e9lecteur de Macron.",
+    "2":"@guyverhofstadt Sure! You think about Vlaams\u2026 Macron about Corsica\u2026.Sanchez about Catalonia\u2026. UK on Scotland and North Ireland\u2026.etc. \nUntil yesterday you didn\u2019t know the existence of Donbass, Kherson etc. That\u2019s right Superman? https:\/\/t.co\/zE7y25lqv4",
+    "3":"@mgmaglie Per un uomo piccolo e di infinita miseria umana come macron si vede che sono troppi...italia generosa ma non deve passare per stupida",
+    "4":"The refusal of #Meloni Government to welcome migrants on boats is a betrayal to Italians who came to the US on a boat and were given chance for a better life! And to piss #Macron off ugh   #Meloni c\u2019eravamo anche noi su quelle navi \ud83d\udef3 #GovernoDegliOrrori #GovernoMeloni #migranti https:\/\/t.co\/CwOtrQeXX4",
+    "5":"bon les gens si il y a une dissolution allez tous voter NUPES hein, m\u00eame si on aime pas \u00e0 100% LFI \u00e7a reste la seule option viable \u00e0 gauche\ncar bon le \"vote r\u00e9volutionnaire\" c'est bien gentil mais hormis faire le jeu de l'extr\u00eame-droite et de macron \u00e7a sert pas \u00e0 grand chose",
+    "6":"@PradelLepers @FolloBackNUPES Enlevez Macron du bandeau."
+  },
+  "date":{
+    "0":1668685662000,
+    "1":1668628464000,
+    "2":1668509839000,
+    "3":1668196261000,
+    "4":1668113452000,
+    "5":1668110059000,
+    "6":1667994573000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.4553571429,
+    "3":0.0,
+    "4":0.7125,
+    "5":0.5,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":0.2382653061,
+    "1":0.2382653061,
+    "2":0.2382653061,
+    "3":0.2382653061,
+    "4":0.2382653061,
+    "5":0.2382653061,
+    "6":0.2382653061
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.7123015873,
+    "3":0.0,
+    "4":0.7,
+    "5":1.0,
+    "6":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3446145125,
+    "1":0.3446145125,
+    "2":0.3446145125,
+    "3":0.3446145125,
+    "4":0.3446145125,
+    "5":0.3446145125,
+    "6":0.3446145125
+  },
+  "screen_name":{
+    "0":"luismiseijas",
+    "1":"newnessie75",
+    "2":"UEInsider",
+    "3":"ele61doc",
+    "4":"AguzziAnnie",
+    "5":"1221_1312",
+    "6":"newnessie75"
+  },
+  "Likes":{
+    "0":0,
+    "1":2,
+    "2":2,
+    "3":7,
+    "4":1,
+    "5":1,
+    "6":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":1,
+    "5":0,
+    "6":0
+  },
+  "state":{
+    "0":"Utah",
+    "1":"Utah",
+    "2":"Utah",
+    "3":"Utah",
+    "4":"Utah",
+    "5":"Utah",
+    "6":"Utah"
+  }
+}

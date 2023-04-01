@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@elonmusk is the greatest version of Twitter. Doja cat new Bamako being fart is simply incredible",
+    "1":"@FentyBrows @eurosteppp @zoraslovechild Suddenly doja cat is white",
+    "2":"Doja Cat is a treasure https:\/\/t.co\/0ADboF57Bg"
+  },
+  "date":{
+    "0":1668458674000,
+    "1":1668317220000,
+    "2":1668218588000
+  },
+  "polarity":{
+    "0":0.6787878788,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.2262626263,
+    "1":0.2262626263,
+    "2":0.2262626263
+  },
+  "subjectivity":{
+    "0":0.7848484848,
+    "1":0.25,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3449494949,
+    "1":0.3449494949,
+    "2":0.3449494949
+  },
+  "screen_name":{
+    "0":"camaronie",
+    "1":"SkinnyRenn",
+    "2":"jennifertru07"
+  },
+  "Likes":{
+    "0":0,
+    "1":7,
+    "2":12
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Hawaii",
+    "1":"Hawaii",
+    "2":"Hawaii"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Oh no.....Bilal is gay. It all makes sense now. I would like him so much more if he had married a man #90DayFiance",
+    "1":"Bilal is such an asshole #90DayFiance",
+    "2":"@Bilal_ajeeb I respect the hustle \ud83e\udee1"
+  },
+  "date":{
+    "0":1668392683000,
+    "1":1668392428000,
+    "2":1668197539000
+  },
+  "polarity":{
+    "0":0.3888888889,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.1296296296,
+    "1":0.1296296296,
+    "2":0.1296296296
+  },
+  "subjectivity":{
+    "0":0.4444444444,
+    "1":0.5,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3148148148,
+    "1":0.3148148148,
+    "2":0.3148148148
+  },
+  "screen_name":{
+    "0":"moharv",
+    "1":"moharv",
+    "2":"BitBoyJay"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":3
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Texas",
+    "1":"Texas",
+    "2":"Texas"
+  }
+}

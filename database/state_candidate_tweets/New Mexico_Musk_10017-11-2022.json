@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"literalmente tony stark no existen y elon musk s\u00ed jajaja. Estos son los que miran pelis de superh\u00e9roes pero si existieran dir\u00edan que son un peligro y que vayan presos https:\/\/t.co\/vOwsnT9p6U",
+    "1":"@MarisaKlos A veces se ve, en una noche trasl\u00facida, un tren que, son estrellas, es la red starlink de elon musk.\nProporciona Internet donde esta no llega.\nHoy es muy importante en Ucrania, por la destrucci\u00f3n de infraestructura.\nEs caro el servicio. \nA Ucrania se lo entrega gratis, por ahora.",
+    "2":"@MarisaKlos Sat\u00e9lites de Elon Musk!"
+  },
+  "date":{
+    "0":1668261871000,
+    "1":1668214775000,
+    "2":1668184221000
+  },
+  "polarity":{
+    "0":-0.2,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":-0.0666666667,
+    "1":-0.0666666667,
+    "2":-0.0666666667
+  },
+  "subjectivity":{
+    "0":0.6,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2,
+    "1":0.2,
+    "2":0.2
+  },
+  "screen_name":{
+    "0":"BeckmannPuchi",
+    "1":"GallegoDerecho",
+    "2":"saraadami11221"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"New Mexico",
+    "1":"New Mexico",
+    "2":"New Mexico"
+  }
+}

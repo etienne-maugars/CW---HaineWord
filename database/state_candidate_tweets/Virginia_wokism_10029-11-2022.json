@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@FoxNews What is wokism, exactly?",
+    "1":"Wokism is a fanatical and totalitarian religion. Its objective: to shape the minds of men. Its main target: our children.\n\nWe can't let them do so. I'll take the lead in this fight and I'm sure many French people will follow me.\n\n#FaceABockCote https:\/\/t.co\/WFD6bZIDJi"
+  },
+  "date":{
+    "0":1669569350000,
+    "1":1669099120000
+  },
+  "polarity":{
+    "0":0.25,
+    "1":0.2333333333
+  },
+  "mean_polarity":{
+    "0":0.2416666667,
+    "1":0.2416666667
+  },
+  "subjectivity":{
+    "0":0.25,
+    "1":0.3644444444
+  },
+  "mean_subjectivity":{
+    "0":0.3072222222,
+    "1":0.3072222222
+  },
+  "screen_name":{
+    "0":"swoops36",
+    "1":"ToreRasm"
+  },
+  "Likes":{
+    "0":0,
+    "1":7
+  },
+  "RTs":{
+    "0":0,
+    "1":4
+  },
+  "state":{
+    "0":"Virginia",
+    "1":"Virginia"
+  }
+}

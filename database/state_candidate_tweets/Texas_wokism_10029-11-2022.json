@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@DeeMarley16 @marcusstokes06 Before wokism it was acceptable. Tasteless, but acceptable.",
+    "1":"@mattxiv Woke liberal people treat me like this all the time but usually when my attention isn't on them. How does it feel Matt? To have someone who believes in human rights get a hard time like your complaining about? To endure what wokism does to others?",
+    "2":"@Nomad_1x @elonmusk wokism is a toxic environment, you even wonder if it's not a mental illness."
+  },
+  "date":{
+    "0":1669517907000,
+    "1":1669225484000,
+    "2":1669183212000
+  },
+  "polarity":{
+    "0":-0.6,
+    "1":-0.1805555556,
+    "2":0.05
+  },
+  "mean_polarity":{
+    "0":-0.2435185185,
+    "1":-0.2435185185,
+    "2":-0.2435185185
+  },
+  "subjectivity":{
+    "0":0.9,
+    "1":0.2972222222,
+    "2":0.2
+  },
+  "mean_subjectivity":{
+    "0":0.4657407407,
+    "1":0.4657407407,
+    "2":0.4657407407
+  },
+  "screen_name":{
+    "0":"ronancomics",
+    "1":"d25951234",
+    "2":"LunatiqueFrench"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":5
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Texas",
+    "1":"Texas",
+    "2":"Texas"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"I\u2019ve felt like shit the last few days and my job has really been trying me \ud83d\ude05 \n\nMy Microsoft Teams is about to go on DND the rest of the week.",
+    "1":"Sorry pal. I actually like what you said. I know some peeps at @Microsoft and @Google https:\/\/t.co\/fHBRNtIJHs",
+    "2":"I just used dotnet format and cleaned up 450 files.\n\nhttps:\/\/t.co\/tD4YLLfkXw\n\nhttps:\/\/t.co\/WJyAYoMGGD is nice if you have it cleaned up and everyone checks that box\n#dotnet",
+    "3":"@fam_kindom @pickett_shaun @TheSuperMachine @PittsburghPug86 It's a business and what happens after their pos they don't care. Neither does Sony, Microsoft, Neca, etc."
+  },
+  "date":{
+    "0":1668530301000,
+    "1":1668473005000,
+    "2":1668116737000,
+    "3":1668032651000
+  },
+  "polarity":{
+    "0":-0.05,
+    "1":-0.25,
+    "2":0.6,
+    "3":0.0
+  },
+  "mean_polarity":{
+    "0":0.075,
+    "1":0.075,
+    "2":0.075,
+    "3":0.075
+  },
+  "subjectivity":{
+    "0":0.2916666667,
+    "1":0.55,
+    "2":1.0,
+    "3":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.4604166667,
+    "1":0.4604166667,
+    "2":0.4604166667,
+    "3":0.4604166667
+  },
+  "screen_name":{
+    "0":"_JennifeR4",
+    "1":"AndrewD21215460",
+    "2":"alignedDev",
+    "3":"Mitch_Craig13"
+  },
+  "Likes":{
+    "0":1,
+    "1":1,
+    "2":0,
+    "3":2
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota",
+    "2":"South Dakota",
+    "3":"South Dakota"
+  }
+}

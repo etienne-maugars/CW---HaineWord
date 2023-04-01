@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@chrisbetravelin @sarahmoga @1BipolarCancer I was thinking she must be with an abusive person to think Bilal is fine. Yikes how doesn\u2019t she see every description you listed??",
+    "1":"T\u00fcrkiye\u2019de serbest piyasa olmad\u0131\u011f\u0131 i\u00e7in b\u00f6yle bir i\u015fi aya\u011fa kald\u0131rmak ad\u0131na Siyasi bir destek gerekli.\n\nGidip projenizi Sn Bilal Erdo\u011fan veya S\u00fcleyman Soylu\u2019nun o\u011fluna sunabilirsiniz.\n\nFikri be\u011fenirlerse destek olurlar.\n\nBelki T\u00fcrgev elinizden projeyi kapar.\n\nOras\u0131n\u0131 bilemem\ud83d\ude01"
+  },
+  "date":{
+    "0":1668428721000,
+    "1":1668106734000
+  },
+  "polarity":{
+    "0":0.4166666667,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.2083333333,
+    "1":0.2083333333
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.25,
+    "1":0.25
+  },
+  "screen_name":{
+    "0":"noliej",
+    "1":"srkninci"
+  },
+  "Likes":{
+    "0":6,
+    "1":101
+  },
+  "RTs":{
+    "0":0,
+    "1":2
+  },
+  "state":{
+    "0":"Alaska",
+    "1":"Alaska"
+  }
+}

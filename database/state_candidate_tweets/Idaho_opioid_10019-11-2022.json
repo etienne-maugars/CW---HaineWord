@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"The Utah AG has joined a coalition of 45 attorneys general urging the DEA and Substance Abuse and Mental Health Services Administration to permanently extend telehealth flexibilities for prescribing buprenorphine, an opioid use disorder treatment. https:\/\/t.co\/ePCCAFrSRo",
+    "1":"AG Reyes announced today that a settlement has been reached with Walmart to address the company\u2019s role in the opioid crisis. Once approved, it will provide more than $3 billion nationally and require significant improvements in how Walmart handles opioids. https:\/\/t.co\/775rARQ6ef",
+    "2":"News release: Wasden Announces $3.1 Billion Settlement with Walmart over Opioid Epidemic Allegations https:\/\/t.co\/YYtHRn0Rnf",
+    "3":"You can now get my 6 Hour Digital Seminar - The New Rules for Treating Chronic Pain: Addiction-Free Solutions in the Era of Opioid Crisis For 1\/2 Price now during the @PESIinc 2022 Black Friday Sale. @drgrinstead \n\n https:\/\/t.co\/HbKZ3ScgE0",
+    "4":"Walmart will pay $3.1B to state, local, tribal governments to settle opioid lawsuits\nhttps:\/\/t.co\/urqq9udaaF",
+    "5":"Walmart offers to pay $3.1 billion to settle opioid lawsuits https:\/\/t.co\/Qv4BrV3T53",
+    "6":"@bintalshamsa They let Purdue Pharma and the Sacklers be the scapegoat for the opioid crisis lawsuits and then kept right on going with it."
+  },
+  "date":{
+    "0":1668726460000,
+    "1":1668554575000,
+    "2":1668535121000,
+    "3":1668533222000,
+    "4":1668523200000,
+    "5":1668521643000,
+    "6":1668359328000
+  },
+  "polarity":{
+    "0":-0.025,
+    "1":0.4375,
+    "2":0.0,
+    "3":-0.0101010101,
+    "4":0.0,
+    "5":0.1,
+    "6":0.2857142857
+  },
+  "mean_polarity":{
+    "0":0.1125876108,
+    "1":0.1125876108,
+    "2":0.1125876108,
+    "3":0.1125876108,
+    "4":0.1125876108,
+    "5":0.1125876108,
+    "6":0.1125876108
+  },
+  "subjectivity":{
+    "0":0.35,
+    "1":0.6875,
+    "2":0.0,
+    "3":0.295959596,
+    "4":0.0,
+    "5":0.0,
+    "6":0.5357142857
+  },
+  "mean_subjectivity":{
+    "0":0.2670248402,
+    "1":0.2670248402,
+    "2":0.2670248402,
+    "3":0.2670248402,
+    "4":0.2670248402,
+    "5":0.2670248402,
+    "6":0.2670248402
+  },
+  "screen_name":{
+    "0":"UtahAG",
+    "1":"UtahAG",
+    "2":"lawrencewasden",
+    "3":"drgrinstead",
+    "4":"CBS2Boise",
+    "5":"KTVB",
+    "6":"secretlawesome"
+  },
+  "Likes":{
+    "0":0,
+    "1":3,
+    "2":5,
+    "3":0,
+    "4":0,
+    "5":1,
+    "6":3
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":1,
+    "3":0,
+    "4":1,
+    "5":0,
+    "6":0
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho",
+    "3":"Idaho",
+    "4":"Idaho",
+    "5":"Idaho",
+    "6":"Idaho"
+  }
+}

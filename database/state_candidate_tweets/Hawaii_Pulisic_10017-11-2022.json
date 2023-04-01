@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Who is Christian Pulisic\u2019s sister Devyn?... - The US Sun || #ChristianBusinessNews Courtesy of The New Central Christian Business and Networking Website Subscribe by Following on Twitter GodsBusinessWay https:\/\/t.co\/Zodf2xTjTp",
+    "1":"@CanMNTonly Fixed it for you \n1. Davies\n2. McKennie\n3. Navas\n4. Reyna\n5. Pulisic\n6. \u00c1lvarez \n7. David\n8. Aaronson\n9. Adams\n10. Lozano"
+  },
+  "date":{
+    "0":1668487955000,
+    "1":1668351782000
+  },
+  "polarity":{
+    "0":0.0272727273,
+    "1":0.1
+  },
+  "mean_polarity":{
+    "0":0.0636363636,
+    "1":0.0636363636
+  },
+  "subjectivity":{
+    "0":0.1609090909,
+    "1":0.2
+  },
+  "mean_subjectivity":{
+    "0":0.1804545455,
+    "1":0.1804545455
+  },
+  "screen_name":{
+    "0":"GodsBusinessWay",
+    "1":"EmilBzCal"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":2,
+    "1":0
+  },
+  "state":{
+    "0":"Hawaii",
+    "1":"Hawaii"
+  }
+}

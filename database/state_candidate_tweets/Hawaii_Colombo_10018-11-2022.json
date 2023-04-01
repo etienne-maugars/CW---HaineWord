@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Stunning historic win for @GoSwords womens volleyball as they upset #1 Alaska Anchorage in the opening round of the @NCAADII tournament, avenging a preseason loss. @ThePacWest Newcomer of the year Sasha Colombo with a a match-high 20 kills.\n\n\ud83d\udcdd\ud83d\udc49https:\/\/t.co\/teH7hSKECy https:\/\/t.co\/107ihfJdny",
+    "1":"\ud83c\udfd0 #SwordsVB upsets No. 1 seed Alaska Anchorage in 5 sets in first round of NCAA West Regional and will face 4th-seed Cal Poly Pomona in semis tomorrow. Four 'Swords w\/ double-digit kills, led by Colombo's 20. Corti adds 17. #SwordsOhana #ChaminadeOnTheRise"
+  },
+  "date":{
+    "0":1668743362000,
+    "1":1668736951000
+  },
+  "polarity":{
+    "0":0.275,
+    "1":0.025
+  },
+  "mean_polarity":{
+    "0":0.15,
+    "1":0.15
+  },
+  "subjectivity":{
+    "0":0.45,
+    "1":0.3666666667
+  },
+  "mean_subjectivity":{
+    "0":0.4083333333,
+    "1":0.4083333333
+  },
+  "screen_name":{
+    "0":"AHoshidaSports",
+    "1":"GoSwords"
+  },
+  "Likes":{
+    "0":7,
+    "1":30
+  },
+  "RTs":{
+    "0":2,
+    "1":9
+  },
+  "state":{
+    "0":"Hawaii",
+    "1":"Hawaii"
+  }
+}

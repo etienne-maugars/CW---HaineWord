@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@TheoVon Sometimes you just got to put a bitch in their place",
+    "1":"Riding the #Vikings wave pretty hard. Just proclaimed \u201csuck it bitch\u201d at family din din Yahtzee when rolling s full house.",
+    "2":"@RonFilipkowski @JoyAnnReid KARMA is a real predictable Bitch!!! Let history record McConnell\u2019s dirty deeds as the worm turns!!!! It\u2019s true. \u201cThe same things that made you laugh can make you cry.\u201d",
+    "3":"@MarshaBlackburn So what have you tried to do besides bitch about it?",
+    "4":"@jackeichel he\u2019s a immature bitch!\nGo Buffalo! He\u2019s not classy at all. Glad he\u2019s no longer part of Buffalo! @BuffaloSabres"
+  },
+  "date":{
+    "0":1668559794000,
+    "1":1668391270000,
+    "2":1668382404000,
+    "3":1668181919000,
+    "4":1668133178000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.1027777778,
+    "2":-0.1871875,
+    "3":0.0,
+    "4":0.2875
+  },
+  "mean_polarity":{
+    "0":0.0406180556,
+    "1":0.0406180556,
+    "2":0.0406180556,
+    "3":0.0406180556,
+    "4":0.0406180556
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.6972222222,
+    "2":0.485,
+    "3":0.0,
+    "4":0.95
+  },
+  "mean_subjectivity":{
+    "0":0.4264444444,
+    "1":0.4264444444,
+    "2":0.4264444444,
+    "3":0.4264444444,
+    "4":0.4264444444
+  },
+  "screen_name":{
+    "0":"Magicbh69",
+    "1":"JordanWeichel",
+    "2":"gloriablane",
+    "3":"krueg_",
+    "4":"patriotNDfather"
+  },
+  "Likes":{
+    "0":0,
+    "1":3,
+    "2":1,
+    "3":0,
+    "4":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota"
+  }
+}

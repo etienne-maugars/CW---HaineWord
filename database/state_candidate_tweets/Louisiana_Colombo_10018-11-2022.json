@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"#Internacionales || #ELN libera a dos soldados secuestrados en frontera colombo-venezolana\nLea la nota \ud83d\udc49 https:\/\/t.co\/rCTS88A2wi\n\ud83d\udcf8 La Opini\u00f3n https:\/\/t.co\/Firlqk2gSr",
+    "1":"@ema_colombo So cool",
+    "2":"@ema_colombo Sure teacher"
+  },
+  "date":{
+    "0":1668693624000,
+    "1":1668606802000,
+    "2":1668534177000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.35,
+    "2":0.5
+  },
+  "mean_polarity":{
+    "0":0.2833333333,
+    "1":0.2833333333,
+    "2":0.2833333333
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.65,
+    "2":0.8888888889
+  },
+  "mean_subjectivity":{
+    "0":0.512962963,
+    "1":0.512962963,
+    "2":0.512962963
+  },
+  "screen_name":{
+    "0":"_NewsCentral",
+    "1":"Juan_R_Mon",
+    "2":"Juan_R_Mon"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Louisiana",
+    "1":"Louisiana",
+    "2":"Louisiana"
+  }
+}

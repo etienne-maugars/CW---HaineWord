@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"@NekiasNBA Doja Cat song I actually like a lot.",
+    "1":"hi doja cat @DojaCat",
+    "2":"i\u2019ve gotten doja cat, rico nasty, prince\u2019s younger sister, jimi hendrix\u2019s granddaughter, rhianna, zendaya &amp; beyonc\u00e9",
+    "3":"if doja cat has 10000 fans im one of them. if doja has 100 fans im one of them. if doja has 1 fan it\u2019s me. and if doja has 0 fans im fucking dead",
+    "4":"Wtf is a doja cat and does it need a special diet",
+    "5":"I DO NOT like this little weird phase doja cat going through. She\u2019s just soo talented",
+    "6":"I feel like if I knew Doja Cat irl we would be close asf but me and Sza would be closer \ud83c\udf1a",
+    "7":"if doja cat can be christmas bitch so can i"
+  },
+  "date":{
+    "0":1668533497000,
+    "1":1668443668000,
+    "2":1668442062000,
+    "3":1668395070000,
+    "4":1668288017000,
+    "5":1668179249000,
+    "6":1668170094000,
+    "7":1668133651000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":-0.5,
+    "3":-0.2,
+    "4":-0.0714285714,
+    "5":0.0041666667,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_polarity":{
+    "0":-0.0959077381,
+    "1":-0.0959077381,
+    "2":-0.0959077381,
+    "3":-0.0959077381,
+    "4":-0.0959077381,
+    "5":-0.0959077381,
+    "6":-0.0959077381,
+    "7":-0.0959077381
+  },
+  "subjectivity":{
+    "0":0.1,
+    "1":0.0,
+    "2":0.5,
+    "3":0.4,
+    "4":0.7857142857,
+    "5":0.8,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.3232142857,
+    "1":0.3232142857,
+    "2":0.3232142857,
+    "3":0.3232142857,
+    "4":0.3232142857,
+    "5":0.3232142857,
+    "6":0.3232142857,
+    "7":0.3232142857
+  },
+  "screen_name":{
+    "0":"streethistory",
+    "1":"dinosearth",
+    "2":"rogreeen",
+    "3":"itsalyssa_btw",
+    "4":"shutupmac",
+    "5":"JustInhaleThis",
+    "6":"juju23white_",
+    "7":"baaaphomet"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":1,
+    "3":0,
+    "4":12,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":2,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "state":{
+    "0":"Florida",
+    "1":"Florida",
+    "2":"Florida",
+    "3":"Florida",
+    "4":"Florida",
+    "5":"Florida",
+    "6":"Florida",
+    "7":"Florida"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Breaking News: Migration does not cause opioid and fentanyl addiction or smuggling. https:\/\/t.co\/4RPX0fKhFr",
+    "1":"@mbox30_ Morphine my fav opioid shit makes me feel like a baby",
+    "2":"Schmerzmittelsucht in den USA: Walmart zahlt mehr als drei Milliarden Dollar in Vergleich.\nhttps:\/\/t.co\/8WLsj5K2s6"
+  },
+  "date":{
+    "0":1668764770000,
+    "1":1668700420000,
+    "2":1668593275000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.2,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":-0.0666666667,
+    "1":-0.0666666667,
+    "2":-0.0666666667
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.8,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2666666667,
+    "1":0.2666666667,
+    "2":0.2666666667
+  },
+  "screen_name":{
+    "0":"RealRobertBusch",
+    "1":"pipsandtapes",
+    "2":"ap_tweety"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":3
+  },
+  "RTs":{
+    "0":1,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Kentucky",
+    "1":"Kentucky",
+    "2":"Kentucky"
+  }
+}

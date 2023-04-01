@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"what\nwhat?\nI have to sit for days without power and without water, hear russian missiles hit outside my windows, and these shits from america make it their political issue?\nfuck off. https:\/\/t.co\/hV4SYBltcN",
+    "1":"fogging the windows https:\/\/t.co\/91zGQl1rWY",
+    "2":"Hey you dream of El kader night\nDream of your crush Roots,you personally rotated them Roots\nYou denying Quran El kader night\nToday in windows life everything of yours is dryer me and future are died in that door Allah have left with us in Allah perfect time \nTodayyouwaiting forus https:\/\/t.co\/XfucwNVCSS"
+  },
+  "date":{
+    "0":1668695181000,
+    "1":1668488681000,
+    "2":1668283976000
+  },
+  "polarity":{
+    "0":-0.1,
+    "1":0.0,
+    "2":0.25
+  },
+  "mean_polarity":{
+    "0":0.05,
+    "1":0.05,
+    "2":0.05
+  },
+  "subjectivity":{
+    "0":0.1875,
+    "1":0.0,
+    "2":0.35625
+  },
+  "mean_subjectivity":{
+    "0":0.18125,
+    "1":0.18125,
+    "2":0.18125
+  },
+  "screen_name":{
+    "0":"AceTheBirdie",
+    "1":"irenesneck",
+    "2":"LalaDiturie"
+  },
+  "Likes":{
+    "0":0,
+    "1":3,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York"
+  }
+}

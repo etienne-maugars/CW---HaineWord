@@ -1,0 +1,62 @@
+{
+  "full_text":{
+    "0":"@nazly Curious, why should everything be in Colombo?",
+    "1":"Words cannot express our heartbreak as we come to grips with the loss of wonderful alumna Nirmani Liyanage. Bright, funny, hard-working, charitable, kind ... she is gone too soon with so much yet to accomplish.  We mourn with those in Colombo. https:\/\/t.co\/Vw7HNjDxYM",
+    "2":"@jumbo_colombo Ya, let's do some cardiooo",
+    "3":"What's the best place to get Cakes and Fried Rice (With Chop suey and all) in Colombo? #HelpLK #Help"
+  },
+  "date":{
+    "0":1668608251000,
+    "1":1668448712000,
+    "2":1668313901000,
+    "3":1668264021000
+  },
+  "polarity":{
+    "0":-0.1,
+    "1":0.5583333333,
+    "2":0.0,
+    "3":1.0
+  },
+  "mean_polarity":{
+    "0":0.3645833333,
+    "1":0.3645833333,
+    "2":0.3645833333,
+    "3":0.3645833333
+  },
+  "subjectivity":{
+    "0":1.0,
+    "1":0.7833333333,
+    "2":0.0,
+    "3":0.3
+  },
+  "mean_subjectivity":{
+    "0":0.5208333333,
+    "1":0.5208333333,
+    "2":0.5208333333,
+    "3":0.5208333333
+  },
+  "screen_name":{
+    "0":"ItsChanaka",
+    "1":"bsu_planning",
+    "2":"justincferrell",
+    "3":"ItsChanaka"
+  },
+  "Likes":{
+    "0":0,
+    "1":3,
+    "2":3,
+    "3":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":4
+  },
+  "state":{
+    "0":"Indiana",
+    "1":"Indiana",
+    "2":"Indiana",
+    "3":"Indiana"
+  }
+}

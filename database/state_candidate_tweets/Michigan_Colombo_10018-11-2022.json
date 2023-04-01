@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@RNRenewal The FBI had an agent inside the Bonnano and Colombo crime families for five years.",
+    "1":"\u2728Fun Fact Friday\u2728\nThank you, Alyssa Colombo, for sharing this fact about these fun guys! https:\/\/t.co\/8Xv3DIbHOU"
+  },
+  "date":{
+    "0":1668562054000,
+    "1":1668191020000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.375
+  },
+  "mean_polarity":{
+    "0":0.1875,
+    "1":0.1875
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.2
+  },
+  "mean_subjectivity":{
+    "0":0.1,
+    "1":0.1
+  },
+  "screen_name":{
+    "0":"DaftPodunk",
+    "1":"MSU_MMG"
+  },
+  "Likes":{
+    "0":0,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":1
+  },
+  "state":{
+    "0":"Michigan",
+    "1":"Michigan"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "full_text":{
+    "0":"In recent years, opioid deaths have soared to record levels around 80,000 a year.  https:\/\/t.co\/MquYwtxwCM",
+    "1":"It follows a similar announcement from pharmacy chains CVS Health and Walgreen Co. https:\/\/t.co\/M7N7Yep968",
+    "2":"Walmart latest pharmacy chain to propose opioid settlement https:\/\/t.co\/Db4WF3T0hz",
+    "3":"That new weed gon become the next opioid crisis\u2026they gettin n***as hooked on it now",
+    "4":"@mxajnobles I'm going to go see my regular doctor Monday but wtf. This opioid epidemic has doctors torturing people",
+    "5":"Fentanyl 101: The Basics, The Facts, &amp; Know How to Act. Lesson 1: The Basics. What is the powerful synthetic opioid called Fentanyl? Want to learn more?  Visit https:\/\/t.co\/rXRhfYwh4s.  Also here is a guide to having \"the talk\" with teens https:\/\/t.co\/pM6rkv7NQu.  @dameofdementia https:\/\/t.co\/eLe9Ud6kFt"
+  },
+  "date":{
+    "0":1668531617000,
+    "1":1668524410000,
+    "2":1668517323000,
+    "3":1668402332000,
+    "4":1668312514000,
+    "5":1668269998000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.5,
+    "3":0.0681818182,
+    "4":-0.25,
+    "5":0.4
+  },
+  "mean_polarity":{
+    "0":0.1196969697,
+    "1":0.1196969697,
+    "2":0.1196969697,
+    "3":0.1196969697,
+    "4":0.1196969697,
+    "5":0.1196969697
+  },
+  "subjectivity":{
+    "0":0.25,
+    "1":0.4,
+    "2":0.9,
+    "3":0.2272727273,
+    "4":0.5384615385,
+    "5":0.75
+  },
+  "mean_subjectivity":{
+    "0":0.510955711,
+    "1":0.510955711,
+    "2":0.510955711,
+    "3":0.510955711,
+    "4":0.510955711,
+    "5":0.510955711
+  },
+  "screen_name":{
+    "0":"WTOKTV",
+    "1":"WLBT",
+    "2":"16WAPTNews",
+    "3":"BilalMujahhid",
+    "4":"smartstatistic",
+    "5":"jonhubanks"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":2,
+    "3":1,
+    "4":4,
+    "5":8
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":1,
+    "4":0,
+    "5":3
+  },
+  "state":{
+    "0":"Mississippi",
+    "1":"Mississippi",
+    "2":"Mississippi",
+    "3":"Mississippi",
+    "4":"Mississippi",
+    "5":"Mississippi"
+  }
+}

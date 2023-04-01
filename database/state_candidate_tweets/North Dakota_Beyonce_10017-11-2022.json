@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"Beyonc\u00e9 is now tied with her husband Jay-Z as the most nominated music act in the history of the awards show. https:\/\/t.co\/pZuKbYOMQz",
+    "1":"Grammy nominations announced, Beyonc\u00e9 ties record https:\/\/t.co\/lNddEv7yQO",
+    "2":"@Narugod5 RELESSE THE BEAST IN THE. SHADKWS OF THE NIGHT NARUGOD\nRELESSE TI\nITS YOUR PROFECHY\nTHE BEYONCE IN THE SHADOES OF THE KNIGHT\nSHOE THEM THE BETTLE IN THE NIGHT KF TBE SHADOES https:\/\/t.co\/OzndbDhnUP"
+  },
+  "date":{
+    "0":1668609600000,
+    "1":1668551953000,
+    "2":1668435083000
+  },
+  "polarity":{
+    "0":0.5,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.1666666667,
+    "1":0.1666666667,
+    "2":0.1666666667
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1666666667,
+    "1":0.1666666667,
+    "2":0.1666666667
+  },
+  "screen_name":{
+    "0":"KFYRTV",
+    "1":"KXMB",
+    "2":"The_Funny_Snow"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":102
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":1
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota"
+  }
+}

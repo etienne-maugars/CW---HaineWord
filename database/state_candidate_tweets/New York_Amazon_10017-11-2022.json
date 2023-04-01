@@ -1,0 +1,122 @@
+{
+  "full_text":{
+    "0":"@HoaraBorselli @Libero_official Chiedi a una turnista Amazon se pu\u00f2 portare la figlia al lavoro!!!\nMa ti dovrebbero ancora pagare in cornetti, anzi lecca lecca che si vede che sei esperta in piaggeria",
+    "1":"E-commerce giant may be latest to announce job cuts ahead of potential economic downturn\nhttps:\/\/t.co\/6tYeabA7je is planning to lay off about 10,000 people in corporate and technology jobs, starting as soon as this week, @WSJ reported on Monday.\n#ecommerce #AmazonPrime https:\/\/t.co\/Qoq1Rkwm8S",
+    "2":"ser\u00e1 que em janeiro vai ter outro bug da amazon? preciso das outras comics de vox machina \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+    "3":"@strangegutz These things could be a Solution, they protect stuff without crushing it. They're made from corn starch and that makes them biodegradable\nhttps:\/\/t.co\/mTBf50T4hr",
+    "4":"@StopAntisemites @ajassy @albert_cheng @amazon A Jewish book of devil worship that says its fine to have sex with a girl that is 3yrs old. https:\/\/t.co\/PWCLa2P5N5",
+    "5":"@StopAntisemites @ajassy @albert_cheng @amazon We need to ban the Talmud from Amazon. It promotes disgusted pedophilia which is common amongst Jewish people. Rabbi Joseph (M.nid. 5:4)\ud83d\udc47 https:\/\/t.co\/t988lZ8kdy",
+    "6":"@StopAntisemites @ajassy @albert_cheng @amazon LMFAO https:\/\/t.co\/SHaICbEnv4",
+    "7":"Amazon gained 15% \nAfter report that CEO Andy Jassy has embarked on a new cost-cutting plan, part of broader plan to streamline the world\u2019s largest e-commerce company, via @WSJ \n\nhttps:\/\/t.co\/E4P6Jte1tr",
+    "8":"@Ruzzlefuzz @Ap_Saegge @elonmusk Someone tried to sell me Amazon shirts with married boomer camping humor",
+    "9":"@AmazonHelp @GoodYveToYou Is it still possible to buy it again cause they said this doll already discontinue but at amazon still in stock \u2026.im confused for awhile"
+  },
+  "date":{
+    "0":1668694620000,
+    "1":1668451070000,
+    "2":1668379762000,
+    "3":1668245707000,
+    "4":1668226775000,
+    "5":1668226713000,
+    "6":1668222801000,
+    "7":1668195409000,
+    "8":1668182000000,
+    "9":1668122596000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.1166666667,
+    "2":0.0,
+    "3":0.4,
+    "4":0.1722222222,
+    "5":-0.4333333333,
+    "6":0.0,
+    "7":0.1363636364,
+    "8":0.25,
+    "9":-0.2
+  },
+  "mean_polarity":{
+    "0":0.0441919192,
+    "1":0.0441919192,
+    "2":0.0441919192,
+    "3":0.0441919192,
+    "4":0.0441919192,
+    "5":0.0441919192,
+    "6":0.0441919192,
+    "7":0.0441919192,
+    "8":0.0441919192,
+    "9":0.0441919192
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.5333333333,
+    "2":0.0,
+    "3":0.9,
+    "4":0.2333333333,
+    "5":0.5,
+    "6":0.0,
+    "7":0.4545454545,
+    "8":0.25,
+    "9":0.85
+  },
+  "mean_subjectivity":{
+    "0":0.3721212121,
+    "1":0.3721212121,
+    "2":0.3721212121,
+    "3":0.3721212121,
+    "4":0.3721212121,
+    "5":0.3721212121,
+    "6":0.3721212121,
+    "7":0.3721212121,
+    "8":0.3721212121,
+    "9":0.3721212121
+  },
+  "screen_name":{
+    "0":"GigiAdinolfi",
+    "1":"the_journalbiz",
+    "2":"mightypike",
+    "3":"CAETFOOD",
+    "4":"TruLiess",
+    "5":"TruLiess",
+    "6":"TruLiess",
+    "7":"the_journalbiz",
+    "8":"CAETFOOD",
+    "9":"D3vi11baby"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":3,
+    "3":1,
+    "4":0,
+    "5":2,
+    "6":0,
+    "7":1,
+    "8":2,
+    "9":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0,
+    "5":1,
+    "6":0,
+    "7":0,
+    "8":0,
+    "9":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York",
+    "3":"New York",
+    "4":"New York",
+    "5":"New York",
+    "6":"New York",
+    "7":"New York",
+    "8":"New York",
+    "9":"New York"
+  }
+}

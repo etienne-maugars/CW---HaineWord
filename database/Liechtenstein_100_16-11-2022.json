@@ -1,0 +1,50 @@
+{
+  "original_text":{
+    "0":"15 verspielte Jahre, 100 fantastische Ideen und 2 entschlossene Menschen. \ud83d\udc69\ud83c\udffb\u200d\ud83e\uddb0\ud83e\uddd4\ud83c\udffc\u200d\u2642\ufe0f\n\nhttps:\/\/t.co\/F3ZUPCosoP\n\n#spielen #Vaduz #liechtenstein #Otterspiele https:\/\/t.co\/8iKa2ffkOg",
+    "1":"Zwischen-Kritiken an der Universit\u00e4t #Liechtenstein \ud83c\uddf1\ud83c\uddee. Ernste Stunden f\u00fcr die #Studierende der #Architektur  - Intermediate reviews at the University of #Liechtenstein \ud83c\uddf1\ud83c\uddee.  Serious hours for the #students of #architecture #unili https:\/\/t.co\/37DaimXNnM"
+  },
+  "full_text":{
+    "0":"15 playful years, 100 fantastic ideas and 2 determined people. \ud83d\udc69\ud83c\udffb\ud83e\uddb0\ud83e\uddd4\ud83c\udffc\u2642\ufe0f\n\nhttps:\/\/t.co\/F3ZUPCosoP\n\n#play #Vaduz #liechtenstein #Otter Games https:\/\/t.co\/8iKa2ffkOg",
+    "1":"Intermediate reviews at the University of #Liechtenstein \ud83c\uddf1\ud83c\uddee. Serious hours for the #students of #architecture - Intermediate reviews at the University of #Liechtenstein \ud83c\uddf1\ud83c\uddee.  Serious hours for the #students of #architecture #unili https:\/\/t.co\/37DaimXNnM"
+  },
+  "date":{
+    "0":1668631964000,
+    "1":1668103136000
+  },
+  "polarity":{
+    "0":0.4,
+    "1":-0.3333333333
+  },
+  "mean_polarity":{
+    "0":0.0333333333,
+    "1":0.0333333333
+  },
+  "subjectivity":{
+    "0":0.9,
+    "1":0.6666666667
+  },
+  "mean_subjectivity":{
+    "0":0.7833333333,
+    "1":0.7833333333
+  },
+  "screen_name":{
+    "0":"otterspiele",
+    "1":"GabrielaBCortes"
+  },
+  "Likes":{
+    "0":2,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Liechtenstein",
+    "1":"Liechtenstein"
+  },
+  "iso_639":{
+    "0":"de",
+    "1":"de"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@j0hnnian HAPPY BIRTHDAY FUCKER \ud83c\udf82 \/lh",
+    "1":"@IsabelOakeshott You backed the fucker!  Another one of those be careful what you wish for moments? https:\/\/t.co\/GGgZ4DwT8c",
+    "2":"@sixfeetofficial Bloodbath that fucker! \ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23 https:\/\/t.co\/cdMtjKVdhZ"
+  },
+  "date":{
+    "0":1668725516000,
+    "1":1668537413000,
+    "2":1668220589000
+  },
+  "polarity":{
+    "0":0.8,
+    "1":-0.1,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.2333333333,
+    "1":0.2333333333,
+    "2":0.2333333333
+  },
+  "subjectivity":{
+    "0":1.0,
+    "1":1.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.6666666667,
+    "1":0.6666666667,
+    "2":0.6666666667
+  },
+  "screen_name":{
+    "0":"MeganGardnerVA",
+    "1":"Iain7Iain",
+    "2":"J1sonofagun"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Vermont",
+    "1":"Vermont",
+    "2":"Vermont"
+  }
+}

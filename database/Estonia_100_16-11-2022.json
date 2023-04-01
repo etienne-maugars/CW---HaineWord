@@ -1,0 +1,86 @@
+{
+  "original_text":{
+    "0":"OLEMAS! https:\/\/t.co\/jHVlhG9yoO",
+    "1":"S\u00fc\u00fctab pliidi all tule. *Aahhh, nice* https:\/\/t.co\/Q4qirOQuq4",
+    "2":"AAAA NAMJOON TE AMO",
+    "3":"Head k\u00f5rvitsa-aastaaega \ud83e\udd26\ud83e\udd26\ud83e\udd26 Paide abilinnapea tervitus paidekatele. Oeh. https:\/\/t.co\/lMmqiEdWBx",
+    "4":"No telaceeooaowkwlqkpdldns ESTOT RAB FELIz https:\/\/t.co\/pLrDHtri4L"
+  },
+  "full_text":{
+    "0":"ALUMAS! https:\/\/t.co\/jHVlhG9yoO",
+    "1":"Catches fire under the stove. *Aahhh, nice* https:\/\/t.co\/Q4qirOQuq4",
+    "2":"AAAA NAMJOON TE AMO",
+    "3":"Happy pumpkin season \ud83e\udd26\ud83e\udd26\ud83e\udd26 Greetings from the Deputy Mayor of Paide to the people of Paide. Oeh. https:\/\/t.co\/lMmqiEdWBx",
+    "4":"No telaceeooaowkwlqkpdldns ESTOT RAB FELIz https:\/\/t.co\/pLrDHtri4L"
+  },
+  "date":{
+    "0":1668265183000,
+    "1":1668160129000,
+    "2":1668092494000,
+    "3":1668067680000,
+    "4":1667822660000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.6,
+    "2":0.0,
+    "3":0.8,
+    "4":0.0
+  },
+  "mean_polarity":{
+    "0":0.28,
+    "1":0.28,
+    "2":0.28,
+    "3":0.28,
+    "4":0.28
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":1.0,
+    "2":0.0,
+    "3":1.0,
+    "4":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.4,
+    "1":0.4,
+    "2":0.4,
+    "3":0.4,
+    "4":0.4
+  },
+  "screen_name":{
+    "0":"PLinnameeskond",
+    "1":"mlemmaster",
+    "2":"suggamessi",
+    "3":"kaspartammist",
+    "4":"97sHOME"
+  },
+  "Likes":{
+    "0":5,
+    "1":2,
+    "2":0,
+    "3":1,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Estonia",
+    "1":"Estonia",
+    "2":"Estonia",
+    "3":"Estonia",
+    "4":"Estonia"
+  },
+  "iso_639":{
+    "0":"et",
+    "1":"et",
+    "2":"et",
+    "3":"et",
+    "4":"et"
+  }
+}

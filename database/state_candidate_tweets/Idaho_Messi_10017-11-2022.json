@@ -1,0 +1,102 @@
+{
+  "full_text":{
+    "0":"@emmettfkk madonna come stanno messi male",
+    "1":"Messi hits the post, nearly makes it 4-0 \ud83d\udd34\ud83d\udd35",
+    "2":"@benedikt_dieker Could use a similar argument for fans who began supporting their club because of Messi or Ronaldo, every club on Earth has seen their fanbase become global in the last 15 years. No club is immune to having plastic supporters",
+    "3":"@ParisTheGoaT_ It was like the Messi Ballon D\u2019Or last year, he technically won it at PSG but he earned it at Bar\u00e7a. Weah won it at Milan but earned it\/locked it up at PSG the previous spring",
+    "4":"I want to test something out: \nWill you like PSG any less when Messi and\/or Neymar leave? \ud83d\udd34\ud83d\udd35 #psg",
+    "5":"@BigLeagBallers @ryanwhitney6 The gap between Messi\/Ronaldo and the next best players of the 10s (Modric, Bale, Lewa, etc.) is so much smaller than the gap between McDavid and the next best NHL guys (MacKinnon, Matthews, Makar, etc.)\n\nAlso all good NHL player's names start with M.",
+    "6":"@PSGINT_ 5 goals 2 assists compared to Messi\u2019s 3 goals and 3 assists",
+    "7":"@unbeatable48 @PSGINT_ I know Messi and Gouiri have 6 g\/a, Terrier has 7 g\/a"
+  },
+  "date":{
+    "0":1668548752000,
+    "1":1668345938000,
+    "2":1668281902000,
+    "3":1668273848000,
+    "4":1668193959000,
+    "5":1668125232000,
+    "6":1667932482000,
+    "7":1667929674000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.1,
+    "2":0.0625,
+    "3":-0.0555555556,
+    "4":-0.1666666667,
+    "5":0.45,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_polarity":{
+    "0":0.0487847222,
+    "1":0.0487847222,
+    "2":0.0487847222,
+    "3":0.0487847222,
+    "4":0.0487847222,
+    "5":0.0487847222,
+    "6":0.0487847222,
+    "7":0.0487847222
+  },
+  "subjectivity":{
+    "0":0.1,
+    "1":0.4,
+    "2":0.1791666667,
+    "3":0.1111111111,
+    "4":0.0666666667,
+    "5":0.2833333333,
+    "6":0.0,
+    "7":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1425347222,
+    "1":0.1425347222,
+    "2":0.1425347222,
+    "3":0.1425347222,
+    "4":0.1425347222,
+    "5":0.1425347222,
+    "6":0.1425347222,
+    "7":0.1425347222
+  },
+  "screen_name":{
+    "0":"luvmatthias",
+    "1":"psg_boise",
+    "2":"psg_boise",
+    "3":"psg_boise",
+    "4":"psg_boise",
+    "5":"Nathan_26_",
+    "6":"psg_boise",
+    "7":"psg_boise"
+  },
+  "Likes":{
+    "0":0,
+    "1":1,
+    "2":5,
+    "3":4,
+    "4":8,
+    "5":0,
+    "6":5,
+    "7":3
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":1,
+    "5":0,
+    "6":0,
+    "7":0
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho",
+    "3":"Idaho",
+    "4":"Idaho",
+    "5":"Idaho",
+    "6":"Idaho",
+    "7":"Idaho"
+  }
+}

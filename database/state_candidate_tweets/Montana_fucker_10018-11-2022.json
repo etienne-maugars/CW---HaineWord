@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"God damn is life a mother fucker sometimes \ud83d\ude14",
+    "1":"What an asshole. Need to ship this fucker off to Russia, he can have everything he wants there. https:\/\/t.co\/WzTjh1TBBn"
+  },
+  "date":{
+    "0":1668241920000,
+    "1":1668121571000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.2
+  },
+  "mean_polarity":{
+    "0":0.1,
+    "1":0.1
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.1
+  },
+  "mean_subjectivity":{
+    "0":0.05,
+    "1":0.05
+  },
+  "screen_name":{
+    "0":"AustinLee4423",
+    "1":"Big_Pauley"
+  },
+  "Likes":{
+    "0":0,
+    "1":9
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana"
+  }
+}

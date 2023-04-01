@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@AbsoluteChelsea Any attacking threat would be welcome. Bring on Pulisic.",
+    "1":"@ChelseaFC @WhaleFinApp Notice how we have posed nearly 0 attacking threat and Pulisic isn\u2019t in the game",
+    "2":"@ChelseaFCinUSA Glad to see Pulisic on the bench. Hopefully he gets in for the last 15, at most. Minimize the risk.",
+    "3":"@CFCPys What about Pulisic creating chances? Just needs to finish but the quality is there.",
+    "4":"I read somewhere that Chelsea have a bad squad. Mendy, Silva, KK, Fofana, Chilwill, Cucurella, James etc in defense. Mount, Jorginho, Kova, Kante etc in midfield. Auba, Pulisic, Kai, Sterling, Ziyech in attack? This is one of the best squads in Europe. We just have a bad coach."
+  },
+  "date":{
+    "0":1668277354000,
+    "1":1668277289000,
+    "2":1668271239000,
+    "3":1668030842000,
+    "4":1667985005000
+  },
+  "polarity":{
+    "0":0.8,
+    "1":-0.15,
+    "2":0.3333333333,
+    "3":0.0,
+    "4":-0.1333333333
+  },
+  "mean_polarity":{
+    "0":0.17,
+    "1":0.17,
+    "2":0.17,
+    "3":0.17,
+    "4":0.17
+  },
+  "subjectivity":{
+    "0":0.9,
+    "1":0.4,
+    "2":0.5222222222,
+    "3":0.0,
+    "4":0.5444444444
+  },
+  "mean_subjectivity":{
+    "0":0.4733333333,
+    "1":0.4733333333,
+    "2":0.4733333333,
+    "3":0.4733333333,
+    "4":0.4733333333
+  },
+  "screen_name":{
+    "0":"ndorey21",
+    "1":"ndorey21",
+    "2":"Rufus_GB",
+    "3":"SlabStoxAaron",
+    "4":"musqoo_official"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":2,
+    "3":0,
+    "4":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"Wisconsin",
+    "1":"Wisconsin",
+    "2":"Wisconsin",
+    "3":"Wisconsin",
+    "4":"Wisconsin"
+  }
+}

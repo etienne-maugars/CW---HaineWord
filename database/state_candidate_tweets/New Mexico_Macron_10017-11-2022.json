@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"NACIONALES | En la previa de la bilateral, ambos mandatarios anticiparon a la prensa que la b\u00fasqueda de soluciones al conflicto b\u00e9lico iba a ser uno de los temas centrales del intercambio\n https:\/\/t.co\/fhwyrYYeVt",
+    "1":"Alberto Fern\u00e1ndez estar\u00e1 en Par\u00eds, donde fue invitado por el presidente Emanuel Macron, e Indonesia. \nhttps:\/\/t.co\/V92LF8Rohp"
+  },
+  "date":{
+    "0":1668166737000,
+    "1":1668018296000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0
+  },
+  "screen_name":{
+    "0":"Radio_Eme",
+    "1":"Radio_Eme"
+  },
+  "Likes":{
+    "0":0,
+    "1":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"New Mexico",
+    "1":"New Mexico"
+  }
+}

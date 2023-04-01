@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@EricRSammons The Magesterium currently teaches that, while in theory the death penalty is permissible for the most heinous crimes, as a means of protecting the people\u2026practically speaking it is preferable to use imprisonment instead, tacitly acknowledging the failures of states to justice."
+  },
+  "date":{
+    "0":1668619638000
+  },
+  "polarity":{
+    "0":0.25
+  },
+  "mean_polarity":{
+    "0":0.25
+  },
+  "subjectivity":{
+    "0":0.45
+  },
+  "mean_subjectivity":{
+    "0":0.45
+  },
+  "screen_name":{
+    "0":"theCTwelve"
+  },
+  "Likes":{
+    "0":3
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"North Dakota"
+  }
+}

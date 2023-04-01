@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"Michelle Obama says she had to ease nation into a first lady with Black hair: 'Let me keep my hair straight. Let\u2019s get health care passed' https:\/\/t.co\/olSZHlIq97",
+    "1":"\"People can live next to someone in the same house, or next door, and let them go down,\u201d said a neighbor. \u201c... and not do anything about it.\u201d Here is the story of David DePape, plus a photo gallery look at Nancy Pelosi's career. https:\/\/t.co\/I9wMNTO7B7",
+    "2":"@aprilbaumsaway @claudia_purdon Mac will get confirmed by unanimous consent just like I did.  \n\nThere have been \u201cmaybe\u201d 2 or 3 roll call votes for US Attorneys in the last 20 years. (There were zero on Obama nominees as I recall.)",
+    "3":"@nathaliejacoby1 Of course. We\u2019re still ready to see George bush &amp; Obama get tried for war crimes. Trump for treason",
+    "4":"Construction halted after noose discovered at Obama Presidential Center worksite; $100K reward https:\/\/t.co\/avT7ijgnSA"
+  },
+  "date":{
+    "0":1668614859000,
+    "1":1668569523000,
+    "2":1668368661000,
+    "3":1668195909000,
+    "4":1668121800000
+  },
+  "polarity":{
+    "0":0.0944444444,
+    "1":-0.0038383838,
+    "2":0.2,
+    "3":0.2,
+    "4":-0.1
+  },
+  "mean_polarity":{
+    "0":0.0781212121,
+    "1":0.0781212121,
+    "2":0.0781212121,
+    "3":0.0781212121,
+    "4":0.0781212121
+  },
+  "subjectivity":{
+    "0":0.3888888889,
+    "1":0.1827777778,
+    "2":0.5333333333,
+    "3":0.5,
+    "4":0.1
+  },
+  "mean_subjectivity":{
+    "0":0.341,
+    "1":0.341,
+    "2":0.341,
+    "3":0.341,
+    "4":0.341
+  },
+  "screen_name":{
+    "0":"KXMB",
+    "1":"bistrib",
+    "2":"TQPurdon",
+    "3":"DraftCats",
+    "4":"KXMB"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":2,
+    "3":0,
+    "4":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"North Dakota",
+    "1":"North Dakota",
+    "2":"North Dakota",
+    "3":"North Dakota",
+    "4":"North Dakota"
+  }
+}

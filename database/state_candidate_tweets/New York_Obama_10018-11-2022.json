@@ -1,0 +1,72 @@
+{
+  "full_text":{
+    "0":"@tdschlaud @loisrochelle1 @SarahIronside6 @emb2emj @laurenboebert Republicans already do all that crooked shit, genius.  I see you\u2019re a Tarantino fan.  Does it upset you that he called Obama his favorite president?",
+    "1":"@ShkelqimMahmudi Second term of Obama.",
+    "2":"@claudiocerasa Non l'avrei detto ma \u00e8 forse il pi\u00f9 grande Presidente USA dai tempi di JFK (altro che Obama)!",
+    "3":"Maurine Does used to lethally strike on Obama as well.  \n\nThe Emperor of Chaos Has No Clothes https:\/\/t.co\/M5Xfv93DRI",
+    "4":"@Krishan_A_Patel Michelle Obama would give us the best shot to win"
+  },
+  "date":{
+    "0":1668731873000,
+    "1":1668625700000,
+    "2":1668378306000,
+    "3":1668279530000,
+    "4":1668198607000
+  },
+  "polarity":{
+    "0":0.1,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.9
+  },
+  "mean_polarity":{
+    "0":0.2,
+    "1":0.2,
+    "2":0.2,
+    "3":0.2,
+    "4":0.2
+  },
+  "subjectivity":{
+    "0":0.6333333333,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.35
+  },
+  "mean_subjectivity":{
+    "0":0.1966666667,
+    "1":0.1966666667,
+    "2":0.1966666667,
+    "3":0.1966666667,
+    "4":0.1966666667
+  },
+  "screen_name":{
+    "0":"ACZT2",
+    "1":"ektrit",
+    "2":"PazajElvis",
+    "3":"ektrit",
+    "4":"soysocdem"
+  },
+  "Likes":{
+    "0":5,
+    "1":1,
+    "2":0,
+    "3":1,
+    "4":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York",
+    "3":"New York",
+    "4":"New York"
+  }
+}

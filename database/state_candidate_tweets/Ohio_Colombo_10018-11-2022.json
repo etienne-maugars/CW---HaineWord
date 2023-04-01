@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"La passe decisive de Colombo mama \ud83e\udd29\ud83e\udd29\ud83e\udd29",
+    "1":"@franceinfo Faut envoyer Julie Lescaut et Colombo, c\u2019est tr\u00e8s grave.",
+    "2":"@InvincibleJarek @AldoSterone111 Colombo avec le flingue planqu\u00e9 dans la calandre !!!!"
+  },
+  "date":{
+    "0":1668278626000,
+    "1":1668198462000,
+    "2":1668184350000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"BlackPingui",
+    "1":"cerveine",
+    "2":"baboune59200"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":4
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Ohio",
+    "1":"Ohio",
+    "2":"Ohio"
+  }
+}

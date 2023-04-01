@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@are_jay_ Yeah, Macron\u2019s basically the elder statesman of the G7 these days. \n\nWell, him and Trudeau",
+    "1":"@ricardopuentesm Esta que se chupetea a Macron se lo nota la gana \ud83d\ude02",
+    "2":"Presque 500\u20ac de taxe d'habitation alors qu'on est a moins de 20000\u20ac\/an dans le foyer c'est une blague ou bien #Macron on est juste des vaches \u00e0 lait pour vous !"
+  },
+  "date":{
+    "0":1668643247000,
+    "1":1668256282000,
+    "2":1668175713000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"Post_Punk_Prick",
+    "1":"jeissonnmunoz",
+    "2":"RNoctalys"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Mississippi",
+    "1":"Mississippi",
+    "2":"Mississippi"
+  }
+}

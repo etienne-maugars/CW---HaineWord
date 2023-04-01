@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"@hiimnoir fucker was to quick for me",
+    "1":"@totally_not_old It's not that exact picture but that fucker really did that"
+  },
+  "date":{
+    "0":1668627492000,
+    "1":1668008161000
+  },
+  "polarity":{
+    "0":0.3333333333,
+    "1":0.225
+  },
+  "mean_polarity":{
+    "0":0.2791666667,
+    "1":0.2791666667
+  },
+  "subjectivity":{
+    "0":0.5,
+    "1":0.225
+  },
+  "mean_subjectivity":{
+    "0":0.3625,
+    "1":0.3625
+  },
+  "screen_name":{
+    "0":"Periklis29",
+    "1":"K_N_"
+  },
+  "Likes":{
+    "0":4,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Ohio",
+    "1":"Ohio"
+  }
+}

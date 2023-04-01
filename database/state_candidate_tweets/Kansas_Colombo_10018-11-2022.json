@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Dante Colombo, managing partner at @jbuglawrence, told #LawrenceCityComm he was born and raised here, and he first spoke to the commission at age 9 when his class wanted to paint a mural on a building downtown.\n\u201cI hope to continue be a part of the story.\u201d\nhttps:\/\/t.co\/ysQPGVDl2F https:\/\/t.co\/zQOU8CU2Bn",
+    "1":"Tim Ream &amp; Josh Sargent add to the proud history of Missouri-born players on USMNT World Cup rosters!\n\n2014: Matt Besler, Brad Davis\n1994: Mike Sorber\n1950: Bob Annis, Frank Borghi, Charlie Colombo, Harry Keough, Gino Pariani, Frank Wallace\n1934: William Lehman\n1930: Frank Vaughn https:\/\/t.co\/TcqGzHZibr"
+  },
+  "date":{
+    "0":1668571384000,
+    "1":1668032406000
+  },
+  "polarity":{
+    "0":0.25,
+    "1":1.0
+  },
+  "mean_polarity":{
+    "0":0.625,
+    "1":0.625
+  },
+  "subjectivity":{
+    "0":0.3333333333,
+    "1":1.0
+  },
+  "mean_subjectivity":{
+    "0":0.6666666667,
+    "1":0.6666666667
+  },
+  "screen_name":{
+    "0":"mclarknews",
+    "1":"KC2026WorldCup"
+  },
+  "Likes":{
+    "0":40,
+    "1":19
+  },
+  "RTs":{
+    "0":12,
+    "1":1
+  },
+  "state":{
+    "0":"Kansas",
+    "1":"Kansas"
+  }
+}

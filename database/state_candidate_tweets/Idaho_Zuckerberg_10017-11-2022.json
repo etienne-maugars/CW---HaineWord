@@ -1,0 +1,112 @@
+{
+  "full_text":{
+    "0":"Mark Zuckerberg is not John Cross.\n#IYKYK",
+    "1":"@NarbChessClub @SayNenman @NotoriousRBF @elonmusk They do. I am telling you they do. You don't see it because you're utterly focused on raising your hands in terror when someone criticizes Elon specifically. Why don't you have this same energy for defending Jeff Bezos or Mark Zuckerberg?",
+    "2":"@RedWingGrips Zuckerberg will face no consequences, he got used as a pawn. https:\/\/t.co\/qKN88x8yT5",
+    "3":"Texas AG investigating Zuckerberg-backed nonprofit over election concerns https:\/\/t.co\/EKjzAoaSBr #FoxBusiness",
+    "4":"Leaked video: Mark Zuckerberg addresses Meta employees after mass layoff $META \n\nhttps:\/\/t.co\/QmIU33am4r",
+    "5":"@RSLC @mcgraneforidaho Now if only we can convince him that taking $$$ from Zuckerberg is not in Idaho's interest... and if he's going to try to register more voters maybe he could add the working people of Idaho instead of high school seniors.  Geez.",
+    "6":"Facebook parent company Meta laying off 13% of employees\nhttps:\/\/t.co\/aUoFlRzHVk",
+    "7":"'I got this wrong': Zuckerberg announces huge Meta layoffs https:\/\/t.co\/UissEuqaaw",
+    "8":"Meta\u2019s Zuckerberg blames himself for company\u2019s missteps, initiates layoffs: WSJ $META"
+  },
+  "date":{
+    "0":1668552263000,
+    "1":1668240453000,
+    "2":1668204025000,
+    "3":1668119342000,
+    "4":1668026962000,
+    "5":1668026045000,
+    "6":1668009600000,
+    "7":1667995502000,
+    "8":1667946754000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.22,
+    "6":0.0,
+    "7":-0.05,
+    "8":0.0
+  },
+  "mean_polarity":{
+    "0":0.0188888889,
+    "1":0.0188888889,
+    "2":0.0188888889,
+    "3":0.0188888889,
+    "4":0.0188888889,
+    "5":0.0188888889,
+    "6":0.0188888889,
+    "7":0.0188888889,
+    "8":0.0188888889
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.5625,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.68,
+    "6":0.0,
+    "7":0.9,
+    "8":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2380555556,
+    "1":0.2380555556,
+    "2":0.2380555556,
+    "3":0.2380555556,
+    "4":0.2380555556,
+    "5":0.2380555556,
+    "6":0.2380555556,
+    "7":0.2380555556,
+    "8":0.2380555556
+  },
+  "screen_name":{
+    "0":"EpiKeckler",
+    "1":"secretlawesome",
+    "2":"brianskellenger",
+    "3":"EscapedFromLA2",
+    "4":"faststocknewss",
+    "5":"EscapedFromLA2",
+    "6":"CBS2Boise",
+    "7":"KTVB",
+    "8":"faststocknewss"
+  },
+  "Likes":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":14,
+    "5":0,
+    "6":1,
+    "7":0,
+    "8":46
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0,
+    "3":0,
+    "4":2,
+    "5":0,
+    "6":0,
+    "7":0,
+    "8":3
+  },
+  "state":{
+    "0":"Idaho",
+    "1":"Idaho",
+    "2":"Idaho",
+    "3":"Idaho",
+    "4":"Idaho",
+    "5":"Idaho",
+    "6":"Idaho",
+    "7":"Idaho",
+    "8":"Idaho"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"This is what makes wokism a token assholeness. https:\/\/t.co\/gwG5QIsXCc",
+    "1":"@RishJ01 Wokism will lead this world to true freedom",
+    "2":"@KonstantinKisin @nais1998 It is also clear that the US government has been bullying all companies into wokism and censorship"
+  },
+  "date":{
+    "0":1669184465000,
+    "1":1669101461000,
+    "2":1668988184000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.35,
+    "2":0.1
+  },
+  "mean_polarity":{
+    "0":0.15,
+    "1":0.15,
+    "2":0.15
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.65,
+    "2":0.3833333333
+  },
+  "mean_subjectivity":{
+    "0":0.3444444444,
+    "1":0.3444444444,
+    "2":0.3444444444
+  },
+  "screen_name":{
+    "0":"Pure_Chutzpah",
+    "1":"Human_111_",
+    "2":"BigUncleIce"
+  },
+  "Likes":{
+    "0":1,
+    "1":0,
+    "2":7
+  },
+  "RTs":{
+    "0":1,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Nevada",
+    "1":"Nevada",
+    "2":"Nevada"
+  }
+}

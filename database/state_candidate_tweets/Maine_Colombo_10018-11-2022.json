@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@itz_radhi3 @Buddhasri3 Colombo?",
+    "1":"Miles Teller as Albert S. Ruddy, Matthew GoodE as Robert Evans, Dan Fogler as Francis Ford Coppola, Burn Gorman as Charles Bluhdorn, Colin Hanks as Barry Lapidus, Giovanni Ribisi as Joe Colombo, and Juno Temple as Bettye McCartt \u2764\ufe0f #TheOffer Dec 1  \ud83c\uddeb\ud83c\uddf7 https:\/\/t.co\/kjHAlsQqdX https:\/\/t.co\/JFJfJ1RXYM",
+    "2":"@conduit118 @katwrappah @EyerotGaming @ElectionWiz Still enjoying 1940 there Colombo?"
+  },
+  "date":{
+    "0":1668708691000,
+    "1":1668463201000,
+    "2":1668390042000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.5
+  },
+  "mean_polarity":{
+    "0":0.1666666667,
+    "1":0.1666666667,
+    "2":0.1666666667
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.6
+  },
+  "mean_subjectivity":{
+    "0":0.2,
+    "1":0.2,
+    "2":0.2
+  },
+  "screen_name":{
+    "0":"Theeban62252460",
+    "1":"bestoftheoffer",
+    "2":"RealScience2020"
+  },
+  "Likes":{
+    "0":1,
+    "1":2,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Maine",
+    "1":"Maine",
+    "2":"Maine"
+  }
+}

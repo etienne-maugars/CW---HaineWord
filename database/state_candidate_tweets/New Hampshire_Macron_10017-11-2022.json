@@ -1,0 +1,92 @@
+{
+  "full_text":{
+    "0":"@EmmanuelMacron Super bien, M Macron! Tr\u00e8s impressionnant",
+    "1":"My comments to @scmp on Macron's statement making China a potential \"mediator\" on Ukraine - wishful thinking? @AColson_ @ESSEC_IRENE @FRS_org @LemaitreFrederi @fr_schaeffer @charillon @dorianmalovic @jmfour @StephaneLauer @Patricialoison @FranckMathevon @StephaneLagarde https:\/\/t.co\/zHwwE0BVN3",
+    "2":"Flag Ration 44: Accurate France Flag\n\nFrance no longer has a meaningful Left, so I've replaced the red with Macron's Yellow https:\/\/t.co\/CTXYbCQTUv",
+    "3":"Macron sur la \"r\u00e9volution\" \ud83c\uddee\ud83c\uddf7 sur France-Inter :\n-sanctions \"cibl\u00e9es\" mais contre classer les gardiens comme \"organisation terroriste\"\n-va continuer \u00e0 rencontrer @Raesi_ir\n-refuse de dire que le JCPOA est \"mort\"\n\nLes \"r\u00e9volutionnaires\" vont \u00eatre d\u00e9\u00e7us",
+    "4":"Pendant que Macron fait le singe \u00e0 brasser du vent avec Alinejad https:\/\/t.co\/GlaPBMWxEr",
+    "5":"@rickygervais Infrastructure of Macron's dick",
+    "6":"@OuelhadjAlain Les int\u00e9r\u00eats de la France et de ses citoyens ne sont plus une priorit\u00e9 du Pr\u00e9sident E. Macron et de son administration.  Nous sommes livr\u00e9s \u00e0 nous m\u00eames.  Il y a urgence.  Vite une alternative politique cr\u00e9dible."
+  },
+  "date":{
+    "0":1668655201000,
+    "1":1668625144000,
+    "2":1668456011000,
+    "3":1668411496000,
+    "4":1668278991000,
+    "5":1668233029000,
+    "6":1668209132000
+  },
+  "polarity":{
+    "0":0.4166666667,
+    "1":0.0,
+    "2":0.18,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "mean_polarity":{
+    "0":0.0852380952,
+    "1":0.0852380952,
+    "2":0.0852380952,
+    "3":0.0852380952,
+    "4":0.0852380952,
+    "5":0.0852380952,
+    "6":0.0852380952
+  },
+  "subjectivity":{
+    "0":0.6666666667,
+    "1":1.0,
+    "2":0.2266666667,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.2704761905,
+    "1":0.2704761905,
+    "2":0.2704761905,
+    "3":0.2704761905,
+    "4":0.2704761905,
+    "5":0.2704761905,
+    "6":0.2704761905
+  },
+  "screen_name":{
+    "0":"aparashar",
+    "1":"PhLeCorre",
+    "2":"notkavi",
+    "3":"Plagiste4you",
+    "4":"Plagiste4you",
+    "5":"ericbuck9",
+    "6":"DocteurDuval"
+  },
+  "Likes":{
+    "0":0,
+    "1":9,
+    "2":20,
+    "3":2,
+    "4":7,
+    "5":0,
+    "6":1
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":1,
+    "3":0,
+    "4":3,
+    "5":0,
+    "6":0
+  },
+  "state":{
+    "0":"New Hampshire",
+    "1":"New Hampshire",
+    "2":"New Hampshire",
+    "3":"New Hampshire",
+    "4":"New Hampshire",
+    "5":"New Hampshire",
+    "6":"New Hampshire"
+  }
+}

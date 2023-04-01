@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Kanye West | Did Kanye's Personal Trainer Harley Pasternak Text Kanye, \"I have you institutionalized again where they medicate the crap out of you, and you go back to Zombieland forever?\"\nWATCH - https:\/\/t.co\/YwI3cog51R",
+    "1":"Kanye West | Is Kanye Referring to Human Sacrifice In Hollywood? \"Michael Jordan, His Daddy? Bill Cosby, His Son? Dr. Dre, His Song? Around Hollywood Alot of People Come Up Missing?\"\nWATCH - https:\/\/t.co\/NAhMK8DbBd\n\n#KanyeWest"
+  },
+  "date":{
+    "0":1668343140000,
+    "1":1668269017000
+  },
+  "polarity":{
+    "0":-0.2666666667,
+    "1":-0.1
+  },
+  "mean_polarity":{
+    "0":-0.1833333333,
+    "1":-0.1833333333
+  },
+  "subjectivity":{
+    "0":0.3666666667,
+    "1":0.075
+  },
+  "mean_subjectivity":{
+    "0":0.2208333333,
+    "1":0.2208333333
+  },
+  "screen_name":{
+    "0":"TheClayClark",
+    "1":"TheClayClark"
+  },
+  "Likes":{
+    "0":38,
+    "1":48
+  },
+  "RTs":{
+    "0":19,
+    "1":26
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota"
+  }
+}

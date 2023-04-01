@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@antonellocapor2 Beh lei che \u00e8 persona seria ed abituata ad approfondire che non abbia trovato i tweet della nipotina di dayan o non abbia visto il putrido intervento del fu giornalista furio colombo mi pare strano!",
+    "1":"@Avv_Natalina Si stupisce forse perch\u00e9 ritiene furio colombo uno normale, ma \u00e8 da un bel po' di tempo che sbrocca continuamente",
+    "2":"@tempoweb Isterico, livoroso ed offensivo, ma non \u00e8 segno dell'et\u00e0 che avanza: colombo furio \u00e8 da sempre stato cos\u00ec!"
+  },
+  "date":{
+    "0":1668758296000,
+    "1":1668693282000,
+    "2":1668630274000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "screen_name":{
+    "0":"valeriosaitta1",
+    "1":"valeriosaitta1",
+    "2":"valeriosaitta1"
+  },
+  "Likes":{
+    "0":0,
+    "1":2,
+    "2":5
+  },
+  "RTs":{
+    "0":0,
+    "1":0,
+    "2":0
+  },
+  "state":{
+    "0":"Illinois",
+    "1":"Illinois",
+    "2":"Illinois"
+  }
+}

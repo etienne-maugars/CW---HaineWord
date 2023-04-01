@@ -1,0 +1,52 @@
+{
+  "full_text":{
+    "0":"@ianshkreli We can work together if we accept each other\u2019s existence and freedoms. A woman\u2019s choice on abortion should not be a Muslim (or Christian or whatever religion or not for that matter) guy\u2019s issue. If you want to fight corruption in the country, leave me and my body alone first.",
+    "1":"@GoodPoliticGuy @sofain That has nothing to do with the accuracy of his statement. Of course the Dems ran on abortion. The American people failed to deliver in California and New York, therefore it won't be codified. It's that simple.",
+    "2":"@FredFireFox @TRHLofficial If you believe it\u2019s murder, you can\u2019t compromise on abortion."
+  },
+  "date":{
+    "0":1668715100000,
+    "1":1668460713000,
+    "2":1668103139000
+  },
+  "polarity":{
+    "0":0.0416666667,
+    "1":-0.0909090909,
+    "2":0.0
+  },
+  "mean_polarity":{
+    "0":-0.0164141414,
+    "1":-0.0164141414,
+    "2":-0.0164141414
+  },
+  "subjectivity":{
+    "0":0.2361111111,
+    "1":0.2779220779,
+    "2":0.0
+  },
+  "mean_subjectivity":{
+    "0":0.1713443963,
+    "1":0.1713443963,
+    "2":0.1713443963
+  },
+  "screen_name":{
+    "0":"GresaHasa",
+    "1":"soysocdem",
+    "2":"LBertaJ"
+  },
+  "Likes":{
+    "0":0,
+    "1":347,
+    "2":0
+  },
+  "RTs":{
+    "0":0,
+    "1":1,
+    "2":0
+  },
+  "state":{
+    "0":"New York",
+    "1":"New York",
+    "2":"New York"
+  }
+}

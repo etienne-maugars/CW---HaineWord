@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Bezos wants to give away his wealth before he dies. \n\nHow about treating your employees better to begin with.",
+    "1":"\ud83d\udcb8Bezos gave Dolly Parton $100 million. The $ taken from hard working victims of the Republican tax scam. Begs the question, why has @POTUS not repealed the \"tax free break\" exclusively for the rich 1%?\ud83e\udd14\n#GOPTaxScam"
+  },
+  "date":{
+    "0":1668452812000,
+    "1":1668434920000
+  },
+  "polarity":{
+    "0":0.35,
+    "1":0.1611111111
+  },
+  "mean_polarity":{
+    "0":0.2555555556,
+    "1":0.2555555556
+  },
+  "subjectivity":{
+    "0":0.3,
+    "1":0.6972222222
+  },
+  "mean_subjectivity":{
+    "0":0.4986111111,
+    "1":0.4986111111
+  },
+  "screen_name":{
+    "0":"russel_nelson",
+    "1":"theRealDJone3"
+  },
+  "Likes":{
+    "0":0,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"South Dakota",
+    "1":"South Dakota"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "full_text":{
+    "0":"@elonmusk how can you broadcast offerings like twitter blue that only allow signup on Apple iOS? you are killing Microsoft and Android users...and they cannot sign up."
+  },
+  "date":{
+    "0":1668187200000
+  },
+  "polarity":{
+    "0":0.0
+  },
+  "mean_polarity":{
+    "0":0.0
+  },
+  "subjectivity":{
+    "0":0.55
+  },
+  "mean_subjectivity":{
+    "0":0.55
+  },
+  "screen_name":{
+    "0":"RickJ_ND"
+  },
+  "Likes":{
+    "0":1
+  },
+  "RTs":{
+    "0":0
+  },
+  "state":{
+    "0":"North Dakota"
+  }
+}

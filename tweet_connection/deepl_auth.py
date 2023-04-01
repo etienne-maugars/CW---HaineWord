@@ -1,0 +1,1 @@
+DEEPL_AUTH = "298e522c-80e6-0d5f-6b00-977f181fe6db:fx"

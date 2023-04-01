@@ -1,0 +1,42 @@
+{
+  "full_text":{
+    "0":"Doja Cat - Addiction (Audio) https:\/\/t.co\/2jV1W1hrSu via @YouTube",
+    "1":"Doja Cat - Talk Dirty (Audio) https:\/\/t.co\/lzgcYlKR5A via @YouTube"
+  },
+  "date":{
+    "0":1668458565000,
+    "1":1668283666000
+  },
+  "polarity":{
+    "0":0.0,
+    "1":-0.6
+  },
+  "mean_polarity":{
+    "0":-0.3,
+    "1":-0.3
+  },
+  "subjectivity":{
+    "0":0.0,
+    "1":0.8
+  },
+  "mean_subjectivity":{
+    "0":0.4,
+    "1":0.4
+  },
+  "screen_name":{
+    "0":"Gothfarts1",
+    "1":"Gothfarts1"
+  },
+  "Likes":{
+    "0":1,
+    "1":1
+  },
+  "RTs":{
+    "0":0,
+    "1":0
+  },
+  "state":{
+    "0":"Montana",
+    "1":"Montana"
+  }
+}
